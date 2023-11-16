@@ -1,10 +1,28 @@
-<h1 align="center">The Practical Guides for Medical Large Language Models </h1>
+<div align=center>
+<img src="img/Medical_LLM_logo.png" width="200px">
+</div>
+<h2 align="center"> The Practical Guides for Medical Large Language Models </a></h2>
+<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
-This is an actively updated list of practical guide resources for medical large language models (LLMs). It's based on our survey paper: [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://arxiv.org/abs/2311.05112). This repository aims to provide an overview of the progress, application, and challenge of LLMs in medicine, aiming to promote further research and exploration in this interdisciplinary field.
+<h5 align="center">
 
-(**If you want to add your work or model to this list, please do not hesitate to email fenglin.liu@eng.ox.ac.uk and xyzou@uwaterloo.ca.**)
 
-## Update Notes
+   ![Awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)
+   [![Arxiv](https://img.shields.io/badge/Arxiv-2311.05112-red)](https://arxiv.org/pdf/2311.05112.pdf)
+   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAI-in-Health%2FMedLLMsPracticalGuide&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</h5>
+
+This is an actively updated list of practical guide resources for medical large language models (LLMs). 
+It's based on our survey paper: [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://arxiv.org/abs/2311.05112). **If you want to add your work or model to this list, please do not hesitate to email fenglin.liu@eng.ox.ac.uk and xyzou@uwaterloo.ca.**
+
+## 😮 Highlights
+
+This repository aims to provide an overview of the progress, application, and challenge of LLMs in medicine, aiming to promote further research and exploration in this interdisciplinary field.
+
+
+
+##  📣 Update Notes
 [2023-11-09] We released the repository.
 
 ## Table of Contents
@@ -40,7 +58,7 @@ This is an actively updated list of practical guide resources for medical large 
    * [LLMs in Less Established Fields of Healthcare](#llms-in-less-established-fields-of-healthcare)
 
 
-## Practical Guide for Medical LLMs
+## 🔥 Practical Guide for Medical LLMs
 
 ### Pre-training from Scratch
 
@@ -80,7 +98,7 @@ This is an actively updated list of practical guide resources for medical large 
 * **MedPaLM**: Large language models encode clinical knowledge. 2022. [paper](https://arxiv.org/abs/2212.13138)
 
 
-## Practical Guide for Medical Data
+## 📊 Practical Guide for Medical Data
 
 ### Clinical Knowledge Bases
 * **[Drugs.com](https://www.drugs.com/)**
@@ -126,7 +144,7 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 * **MultiMedQA**: Towards expert-level medical question answering with large language models. 2023. [paper](https://arxiv.org/abs/2305.09617)
 * **MultiMedBench**: Towards generalist biomedical ai. 2023. [paper](https://arxiv.org/abs/2307.14334)
 
-## Practical Guide for Clinical Applications
+## ✨ Practical Guide for Clinical Applications
 
 ### Medical Diagnosis
 * Designing a Deep Learning-Driven Resource-Efficient Diagnostic System for Metastatic Breast Cancer: Reducing Long Delays of Clinical Diagnosis and Improving Patient Survival in Developing Countries. 2023. [paper](https://arxiv.org/abs/2308.02597)
@@ -172,7 +190,7 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 * A Brief Wellbeing Training Session Delivered by a Humanoid Social Robot: A Pilot Randomized Controlled Trial. 2023. [paper](https://link.springer.com/article/10.1007/s12369-023-01054-5)
 * Real conversations with artificial intelligence: A comparison between human–human online conversations and human–chatbot conversations. 2015. [paper](https://www.sciencedirect.com/science/article/pii/S0747563215001247)
 
-## Practical Guide for Challenges
+## ⚔️ Practical Guide for Challenges
 
 ### Hallucination
 * Survey of hallucination in natural language generation. 2023. [paper](https://dl.acm.org/doi/abs/10.1145/3571730)
@@ -210,7 +228,7 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 * Multi-step jailbreaking privacy attacks on chatgpt. 2023. [paper](https://arxiv.org/abs/2304.05197)
 * Jailbroken: How does llm safety training fail?. 2023. [paper](https://arxiv.org/abs/2307.02483)
 
-## Practical Guide for Future Directions
+## 🚀 Practical Guide for Future Directions
 
 
 ### Introduction of New Benchmarks
@@ -232,6 +250,10 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 ### LLMs in less established fields of healthcare
 * Large Language Models in Sport Science & Medicine: Opportunities, Risks and Considerations. 2023. [paper](https://arxiv.org/abs/2305.03851)
 
+## 👍 Acknowledgement
+* [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide). The codebase we built upon and it is a comprehensive LLM suvey.
+
+
 ## Citation
 
 Please consider citing our papers if our repository is helpful to your work, thanks sincerely!
@@ -245,6 +267,4 @@ Please consider citing our papers if our repository is helpful to your work, tha
 }
 ```
 
-## Acknowledgements
-Our code is built upon [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide).
 
