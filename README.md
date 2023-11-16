@@ -256,7 +256,7 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 
 ## Citation
 
-Please consider citing our papers if our repository is helpful to your work, thanks sincerely!
+Please consider citing 📑 our papers if our repository is helpful to your work, thanks sincerely!
 
 ```bibtex
 @article{zhou2023survey,
