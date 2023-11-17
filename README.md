@@ -16,9 +16,18 @@
 </h5>
 
 This is an actively updated list of practical guide resources for medical large language models (LLMs). 
-It's based on our survey paper: [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://arxiv.org/abs/2311.05112). **If you want to add your work or model to this list, please do not hesitate to email fenglin.liu@eng.ox.ac.uk and xyzou@uwaterloo.ca.**
+It's based on our survey paper: [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://arxiv.org/abs/2311.05112). 
 
-## 😮 Highlights
+## ⚡ Contributing
+
+If you want to add your work or model to this list, please do not hesitate to email fenglin.liu@eng.ox.ac.uk and xyzou@uwaterloo.ca or [pull requests]([https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging/pulls](https://github.com/AI-in-Health/MedLLMsPracticalGuide/pulls)).
+Markdown format:
+
+```markdown
+- [**Name of Conference or Journal + Year**] Paper Name. [[pdf]](link) [[code]](link)
+```
+
+## 🤗 Highlights
 
 This repository aims to provide an overview of the progress, application, and challenge of LLMs in medicine, aiming to promote further research and exploration in this interdisciplinary field.
 
@@ -36,7 +45,7 @@ This repository aims to provide an overview of the progress, application, and ch
    * [Clinical Knowledge Bases](#clinical-knowledge-bases)
    * [Pre-training Data](#pre-training-data)
    * [Fine-tuning Data](#fine-tuning-data)
-* Dowsmtream Biomedical Tasks
+* Downsteam Biomedical Tasks
    * TODO
 * [Practical Guide for Clinical Applications](#-practical-guide-for-clinical-applications)
    * [Medical Diagnosis](#medical-diagnosis)
