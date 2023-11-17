@@ -28,17 +28,17 @@ This repository aims to provide an overview of the progress, application, and ch
 [2023-11-09] We released the repository.
 
 ## Table of Contents
-* [Practical Guide for Building Pipeline](#practical-guide-for-medical-llms)
+* [Practical Guide for Building Pipeline](#-practical-guide-for-medical-llms)
    * [Pre-training from Scratch](#pre-training-from-scratch)
    * [Fine-tuning General LLMs](#fine-tuning-general-llms)
    * [Prompting General LLMs](#prompting-general-llms)
-* [Practical Guide for Medical Data](#practical-guide-for-medical-data)
+* [Practical Guide for Medical Data](#-practical-guide-for-medical-data)
    * [Clinical Knowledge Bases](#clinical-knowledge-bases)
    * [Pre-training Data](#pre-training-data)
    * [Fine-tuning Data](#fine-tuning-data)
 * Dowsmtream Biomedical Tasks
    * TODO
-* [Practical Guide for Clinical Applications](#practical-guide-for-clinical-applications)
+* [Practical Guide for Clinical Applications](#-practical-guide-for-clinical-applications)
    * [Medical Diagnosis](#medical-diagnosis)
    * [Formatting and ICD Coding](#formatting-and-icd-coding)
    * [Clinical Report Generation](#clinical-report-generation)
@@ -46,21 +46,22 @@ This repository aims to provide an overview of the progress, application, and ch
    * [Medical Robotics](#medical-robotics)
    * [Medical Language Translation](#medical-language-translation)
    * [Mental Health Support](#mental-health-support)
-* [Practical Guide for Challenges](#practical-guide-for-challenges)
+* [Practical Guide for Challenges](#-practical-guide-for-challenges)
    * [Hallucination](#hallucination)
    * [Lack of Evaluation Benchmarks and Metrics](#lack-of-evaluation-benchmarks-and-metrics)
    * [Domain Data Limitations](#domain-data-limitations)
    * [New Knowledge Adaptation](#new-knowledge-adaptation)
    * [Behavior Alignment](#behavior-alignment)
    * [Ethical, Legal, and Safety Concerns](#ethical-legal-and-safety-concerns)
-* [Practical Guide for Future Directions](#practical-guide-for-future-directions)
+* [Practical Guide for Future Directions](#-practical-guide-for-future-directions)
    * [Introduction of New Benchmarks](#introduction-of-new-benchmarks)
    * [Interdisciplinary Collaborations](#interdisciplinary-collaborations)
    * [Multi-modal LLM](#multi-modal-llm)
    * [LLMs in Less Established Fields of Healthcare](#llms-in-less-established-fields-of-healthcare)
+* [Acknowledgement](#-acknowledgement)
+* [Citation](#-citation)
 
-
-## 🔥 Practical Guide for Medical LLMs
+## 🔥 Practical Guide for Building Pipeline
 
 ### Pre-training from Scratch
 
@@ -256,7 +257,7 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 * [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide). The codebase we built upon and it is a comprehensive LLM suvey.
 
 
-## Citation
+## 📑 Citation
 
 Please consider citing 📑 our papers if our repository is helpful to your work, thanks sincerely!
 
