@@ -102,6 +102,7 @@ This repository aims to provide an overview of the progress, application, and ch
 * **Clinical Camel**: An Open-Source Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding. 2023. [paper](https://arxiv.org/abs/2305.12031)
 * **MedPaLM 2**: Towards expert-level medical question answering with large language models. 2023. [paper](https://arxiv.org/abs/2305.09617)
 * **MedPaLM M**: Towards generalist biomedical ai. 2023. [paper](https://arxiv.org/abs/2307.14334)
+* **CPLLM**: Clinical Prediction with Large Language Models. 2023. [paper] (https://arxiv.org/abs/2309.11295)
 
 ### Prompting General LLMs
 * **DelD-GPT**: Zero-shot medical text de-identification by gpt-4. 2023. [paper](https://arxiv.org/abs/2303.11032)
