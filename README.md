@@ -28,7 +28,7 @@ This repository aims to provide an overview of the progress, application, and ch
 [2023-11-09] We released the repository.
 
 ## Table of Contents
-* [Practical Guide for Medical LLMs](#practical-guide-for-medical-llms)
+* [Practical Guide for Building Pipeline](#practical-guide-for-medical-llms)
    * [Pre-training from Scratch](#pre-training-from-scratch)
    * [Fine-tuning General LLMs](#fine-tuning-general-llms)
    * [Prompting General LLMs](#prompting-general-llms)
