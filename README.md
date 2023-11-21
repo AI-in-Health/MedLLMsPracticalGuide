@@ -20,7 +20,7 @@ It's based on our survey paper: [A Survey of Large Language Models in Medicine: 
 
 ## ⚡ Contributing
 
-If you want to add your work or model to this list, please do not hesitate to email fenglin.liu@eng.ox.ac.uk and xyzou@uwaterloo.ca or [pull requests]([https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging/pulls](https://github.com/AI-in-Health/MedLLMsPracticalGuide/pulls)).
+If you want to add your work or model to this list, please do not hesitate to email fenglin.liu@eng.ox.ac.uk and jhuang90@ur.rochester.edu or [pull requests]([https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging/pulls](https://github.com/AI-in-Health/MedLLMsPracticalGuide/pulls)).
 Markdown format:
 
 ```markdown
