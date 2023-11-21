@@ -247,6 +247,7 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 * A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics. 2023. [paper](https://arxiv.org/abs/2310.05694)
 * Multi-step jailbreaking privacy attacks on chatgpt. 2023. [paper](https://arxiv.org/abs/2304.05197)
 * Jailbroken: How does llm safety training fail?. 2023. [paper](https://arxiv.org/abs/2307.02483)
+* "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models. 2023. [paper](https://arxiv.org/abs/2308.03825)
 
 ## 🚀 Practical Guide for Future Directions
 
@@ -268,7 +269,7 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 * Exploring and Characterizing Large Language Models For Embedded System Development and Debugging. 2023. [paper](https://arxiv.org/abs/2307.03817)
 * MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models. 2023. [paper](https://arxiv.org/abs/2306.13394)
 
-### Medical Agent
+### Medical Agents
 * The Rise and Potential of Large Language Model
 Based Agents: A Survey. 2023. [paper](https://arxiv.org/pdf/2309.07864)
 
