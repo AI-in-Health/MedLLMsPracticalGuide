@@ -15,7 +15,7 @@
 
 </h5>
 
-This is an actively updated list of practical guide resources for medical large language models (LLMs). 
+This is an actively updated list of practical guide resources for Medical Large Language Models (Medical LLMs). 
 It's based on our survey paper: [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://arxiv.org/abs/2311.05112). 
 
 ## ⚡ Contributing
@@ -71,7 +71,7 @@ This repository aims to provide an overview of the progress, application, and ch
    * [Introduction of New Benchmarks](#introduction-of-new-benchmarks)
    * [Interdisciplinary Collaborations](#interdisciplinary-collaborations)
    * [Multi-modal LLM](#multi-modal-llm)
-   * [LLMs in Less Established Fields of Healthcare](#llms-in-less-established-fields-of-healthcare)
+   * [Medical Agents](#medical-agents)
 * [Acknowledgement](#-acknowledgement)
 * [Citation](#-citation)
 
@@ -274,7 +274,7 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 Based Agents: A Survey. 2023. [paper](https://arxiv.org/pdf/2309.07864)
 
 ## 👍 Acknowledgement
-* [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide). The codebase we built upon and it is a comprehensive LLM suvey.
+* [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide). The codebase we built upon and it is a comprehensive LLM survey.
 
 
 ## 📑 Citation
