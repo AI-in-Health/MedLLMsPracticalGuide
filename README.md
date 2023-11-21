@@ -37,6 +37,10 @@ This repository aims to provide an overview of the progress, application, and ch
 [2023-11-09] We released the repository.
 
 ## Table of Contents
+<div align=center>
+<img src="img/MedicalLMM_outline.png" width="500px">
+</div>
+
 * [Practical Guide for Building Pipeline](#-practical-guide-for-building-pipeline)
    * [Pre-training from Scratch](#pre-training-from-scratch)
    * [Fine-tuning General LLMs](#fine-tuning-general-llms)
@@ -46,7 +50,8 @@ This repository aims to provide an overview of the progress, application, and ch
    * [Pre-training Data](#pre-training-data)
    * [Fine-tuning Data](#fine-tuning-data)
 * Downsteam Biomedical Tasks
-   * TODO
+   * Generative Tasks
+   * Discriminative Tasks
 * [Practical Guide for Clinical Applications](#-practical-guide-for-clinical-applications)
    * [Medical Diagnosis](#medical-diagnosis)
    * [Formatting and ICD Coding](#formatting-and-icd-coding)
@@ -249,6 +254,7 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 ### Introduction of New Benchmarks
 * A comprehensive benchmark study on biomedical text generation and mining with ChatGPT. 2023. [paper](https://www.biorxiv.org/content/10.1101/2023.04.19.537463.abstract)
 * Creation and adoption of large language models in medicine. 2023. [paper](https://jamanetwork.com/journals/jama/article-abstract/2808296)
+* Large Language Models in Sport Science & Medicine: Opportunities, Risks and Considerations. 2023. [paper](https://arxiv.org/abs/2305.03851)
 
 ### Interdisciplinary Collaborations
 * Creation and adoption of large language models in medicine. 2023. [paper](https://jamanetwork.com/journals/jama/article-abstract/2808296)
@@ -262,8 +268,9 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 * Exploring and Characterizing Large Language Models For Embedded System Development and Debugging. 2023. [paper](https://arxiv.org/abs/2307.03817)
 * MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models. 2023. [paper](https://arxiv.org/abs/2306.13394)
 
-### LLMs in less established fields of healthcare
-* Large Language Models in Sport Science & Medicine: Opportunities, Risks and Considerations. 2023. [paper](https://arxiv.org/abs/2305.03851)
+### Medical Agent
+* The Rise and Potential of Large Language Model
+Based Agents: A Survey. 2023. [paper](https://arxiv.org/pdf/2309.07864)
 
 ## 👍 Acknowledgement
 * [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide). The codebase we built upon and it is a comprehensive LLM suvey.
