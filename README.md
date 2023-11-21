@@ -38,7 +38,7 @@ This repository aims to provide an overview of the progress, application, and ch
 
 ## Table of Contents
 <div align=center>
-<img src="img/MedicalLMM_outline.png" width="500px">
+<img src="img/MedicalLMM_outline.png" width="800px">
 </div>
 
 * [Practical Guide for Building Pipeline](#-practical-guide-for-building-pipeline)
@@ -49,7 +49,7 @@ This repository aims to provide an overview of the progress, application, and ch
    * [Clinical Knowledge Bases](#clinical-knowledge-bases)
    * [Pre-training Data](#pre-training-data)
    * [Fine-tuning Data](#fine-tuning-data)
-* Downsteam Biomedical Tasks
+* Downstream Biomedical Tasks
    * Generative Tasks
    * Discriminative Tasks
 * [Practical Guide for Clinical Applications](#-practical-guide-for-clinical-applications)
