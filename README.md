@@ -256,6 +256,9 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 * A comprehensive benchmark study on biomedical text generation and mining with ChatGPT. 2023. [paper](https://www.biorxiv.org/content/10.1101/2023.04.19.537463.abstract)
 * Creation and adoption of large language models in medicine. 2023. [paper](https://jamanetwork.com/journals/jama/article-abstract/2808296)
 * Large Language Models in Sport Science & Medicine: Opportunities, Risks and Considerations. 2023. [paper](https://arxiv.org/abs/2305.03851)
+* VisionFM: a Multi-Modal Multi-Task Vision Foundation
+Model for Generalist Ophthalmic Artificial Intelligence. 2023. [paper](https://arxiv.org/abs/2310.04992)
+
 
 ### Interdisciplinary Collaborations
 * Creation and adoption of large language models in medicine. 2023. [paper](https://jamanetwork.com/journals/jama/article-abstract/2808296)
@@ -273,8 +276,13 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 * The Rise and Potential of Large Language Model
 Based Agents: A Survey. 2023. [paper](https://arxiv.org/pdf/2309.07864)
 
+* MedAgents: Large Language Models as Collaborators for Zero-shot Medical ReasoningThe Rise and Potential of Large Language Model. 2023. [paper](https://arxiv.org/abs/2311.10537) [code](https://github.com/gersteinlab/MedAgents)
+
+
+
 ## 👍 Acknowledgement
 * [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide). The codebase we built upon and it is a comprehensive LLM survey.
+* [LargeAISurvey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10261199&tag=1). Large AI Models in Health Informatics: Applications, Challenges, and the Future.
 
 
 ## 📑 Citation
