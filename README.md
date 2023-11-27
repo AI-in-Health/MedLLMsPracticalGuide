@@ -49,9 +49,9 @@ This repository aims to provide an overview of the progress, application, and ch
    * [Clinical Knowledge Bases](#clinical-knowledge-bases)
    * [Pre-training Data](#pre-training-data)
    * [Fine-tuning Data](#fine-tuning-data)
-* Downstream Biomedical Tasks
-   * Generative Tasks
-   * Discriminative Tasks
+* [Downstream Biomedical Tasks](#-downstream-biomedical-tasks)
+   * [Generative Tasks](*generative-tasks)
+   * [Discriminative Tasks](*discriminative-tasks)
 * [Practical Guide for Clinical Applications](#-practical-guide-for-clinical-applications)
    * [Medical Diagnosis](#medical-diagnosis)
    * [Formatting and ICD Coding](#formatting-and-icd-coding)
@@ -163,6 +163,92 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 * **MedQA**: What disease does this patient have? a large-scale open domain question answering dataset from medical exams. 2021. [paper](https://www.mdpi.com/2076-3417/11/14/6421)
 * **MultiMedQA**: Towards expert-level medical question answering with large language models. 2023. [paper](https://arxiv.org/abs/2305.09617)
 * **MultiMedBench**: Towards generalist biomedical ai. 2023. [paper](https://arxiv.org/abs/2307.14334)
+
+## 🗂️ Downstream Biomedical Tasks
+
+### Generative Tasks
+
+#### Text Summarization
+* **PubMed**: National Institutes of Health. PubMed Data. In National Library of Medicine. [database](https://pubmed.ncbi.nlm.nih.gov/download/)
+* **PMC**: National Institutes of Health. PubMed Central Data. In National Library of Medicine. [database](https://www.ncbi.nlm.nih.gov/pmc/)
+* **CORD-19**: Cord-19: The covid-19 open research dataset 2020. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7251955/)
+* **MentSum**: Mentsum: A resource for exploring summarization of mental health online posts 2022. [paper](https://arxiv.org/abs/2206.00856)
+* **MeQSum**: On the summarization of consumer health questions 2019. [paper](https://aclanthology.org/P19-1215/)
+
+#### Text Simplification
+* **MultiCochrane**: Multilingual Simplification of Medical Texts 2023. [paper](https://arxiv.org/abs/2305.12532)
+* **AutoMeTS**: AutoMeTS: the autocomplete for medical text simplification 2020. [paper](https://arxiv.org/abs/2010.10573)
+
+#### Question Answering
+* **BioASQ-QA**: BioASQ-QA: A manually curated corpus for Biomedical Question Answering 2023. [paper](https://www.nature.com/articles/s41597-023-02068-4)
+* **emrQA**: emrqa: A large corpus for question answering on electronic medical records 2018. [paper](https://arxiv.org/abs/1809.00732)
+* **CliCR**: CliCR: a dataset of clinical case reports for machine reading comprehension 2018. [paper](https://arxiv.org/abs/1803.09720)
+* **PubMedQA**: Pubmedqa: A dataset for biomedical research question answering 2019. [paper](https://arxiv.org/abs/1909.06146)
+* **COVID-QA**: COVID-QA: A question answering dataset for COVID-19 2020. [paper](https://aclanthology.org/2020.nlpcovid19-acl.18/)
+* **MASH-QA**: Question answering with long multiple-span answers 2020. [paper](https://aclanthology.org/2020.findings-emnlp.342/)
+* **Health-QA**: A hierarchical attention retrieval model for healthcare question answering 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3308558.3313699)
+* **MedQA**: What disease does this patient have? a large-scale open domain question answering dataset from medical exams 2021. [paper](https://www.mdpi.com/2076-3417/11/14/6421)
+* **MedMCQA**: Medmcqa: A large-scale multi-subject multi-choice dataset for medical domain question answering 2022. [paper](https://proceedings.mlr.press/v174/pal22a.html)
+* **MMLU (Clinical Knowledge)**: Measuring massive multitask language understanding 2020. [paper](https://arxiv.org/abs/2009.03300)
+* **MMLU (College Medicine)**: Measuring massive multitask language understanding 2020. [paper](https://arxiv.org/abs/2009.03300)
+* **MMLU (Professional Medicine)**: Measuring massive multitask language understanding 2020. [paper](https://arxiv.org/abs/2009.03300)
+
+### Discriminative Tasks
+
+#### Entity Extraction
+* **NCBI Disease**: NCBI disease corpus: a resource for disease name recognition and concept normalization 2014. [paper](https://www.sciencedirect.com/science/article/pii/S1532046413001974)
+* **JNLPBA**: Introduction to the bio-entity recognition task at JNLPBA 2004. [paper](https://aclanthology.org/W04-1213.pdf)
+* **GENIA**: GENIA corpus--a semantically annotated corpus for bio-textmining 2003. [paper](https://www.researchgate.net/profile/Jin-Dong-Kim-2/publication/10667350_GENIA_corpus-A_semantically_annotated_corpus_for_bio-textmining/links/00b49520d9a33ae419000000/GENIA-corpus-A-semantically-annotated-corpus-for-bio-textmining.pdf)
+* **BC5CDR**: BioCreative V CDR task corpus: a resource for chemical disease relation extraction 2016. [paper](https://academic.oup.com/database/article/doi/10.1093/database/baw068/2630414?ref=https%3A%2F%2Fgithubhelp.com&login=true)
+* **BC4CHEMD**: The CHEMDNER corpus of chemicals and drugs and its annotation principles 2015. [paper](https://jcheminf.biomedcentral.com/articles/10.1186/1758-2946-7-S1-S2)
+* **BioRED**: BioRED: a rich biomedical relation extraction dataset 2022. [paper](https://academic.oup.com/bib/article-abstract/23/5/bbac282/6645993)
+* **CMeEE**: Cblue: A chinese biomedical language understanding evaluation benchmark 2021. [paper](https://arxiv.org/abs/2106.08087)
+* **NLM-Chem-BC7**: NLM-Chem-BC7: manually annotated full-text resources for chemical entity annotation and indexing in biomedical articles 2022. [paper](https://academic.oup.com/database/article-abstract/doi/10.1093/database/baac102/6858529)
+* **ADE**: Development of a benchmark corpus to support the automatic extraction of drug-related adverse effects from medical case reports 2012. [paper](https://www.sciencedirect.com/science/article/pii/S1532046412000615)
+* **2012 i2b2**: Evaluating temporal relations in clinical text: 2012 i2b2 challenge 2013. [paper](https://academic.oup.com/jamia/article-abstract/20/5/806/726374)
+* **2014 i2b2/UTHealth (Track 1)**: Annotating longitudinal clinical narratives for de-identification: The 2014 i2b2/UTHealth corpus 2015. [paper](https://www.sciencedirect.com/science/article/pii/S1532046415001823)
+* **2018 n2c2 (Track 2)**: 2018 n2c2 shared task on adverse drug events and medication extraction in electronic health records 2020. [paper](https://academic.oup.com/jamia/article-abstract/27/1/3/5581277)
+* **Cadec**: Cadec: A corpus of adverse drug event annotations 2015. [paper](https://www.sciencedirect.com/science/article/pii/S1532046415000532)
+* **DDI**: Semeval-2013 task 9: Extraction of drug-drug interactions from biomedical texts (ddiextraction 2013) 2013. [paper](https://e-archivo.uc3m.es/handle/10016/20455)
+* **PGR**: A silver standard corpus of human phenotype-gene relations 2019. [paper](https://arxiv.org/abs/1903.10728)
+* **EU-ADR**: The EU-ADR corpus: annotated drugs, diseases, targets, and their relationships 2012. [paper](https://www.sciencedirect.com/science/article/pii/S1532046412000573)
+
+#### Relation Extraction
+* **BC5CDR**: BioCreative V CDR task corpus: a resource for chemical disease relation extraction 2016. [paper](https://academic.oup.com/database/article/doi/10.1093/database/baw068/2630414?ref=https%3A%2F%2Fgithubhelp.com&login=true)
+* **BioRED**: BioRED: a rich biomedical relation extraction dataset 2022. [paper](https://academic.oup.com/bib/article-abstract/23/5/bbac282/6645993)
+* **ADE**: Development of a benchmark corpus to support the automatic extraction of drug-related adverse effects from medical case reports 2012. [paper](https://www.sciencedirect.com/science/article/pii/S1532046412000615)
+* **2018 n2c2 (Track 2)**: 2018 n2c2 shared task on adverse drug events and medication extraction in electronic health records 2020. [paper](https://academic.oup.com/jamia/article-abstract/27/1/3/5581277)
+* **2010 i2b2/VA**: 2010 i2b2/VA challenge on concepts, assertions, and relations in clinical text 2011. [paper](https://academic.oup.com/jamia/article-abstract/18/5/552/830538)
+* **ChemProt**: Overview of the BioCreative VI chemical-protein interaction Track 2017. [database](https://biocreative.bioinformatics.udel.edu/news/corpora/chemprot-corpus-biocreative-vi/)
+* **GDA**: Renet: A deep learning approach for extracting gene-disease associations from literature 2019. [paper](https://link.springer.com/chapter/10.1007/978-3-030-17083-7_17)
+* **DDI**: Semeval-2013 task 9: Extraction of drug-drug interactions from biomedical texts (ddiextraction 2013) 2013. [paper](https://e-archivo.uc3m.es/handle/10016/20455)
+* **GAD**: The genetic association database 2004. [paper](https://www.nature.com/articles/ng0504-431)
+* **2012 i2b2**: Evaluating temporal relations in clinical text: 2012 i2b2 challenge 2013. [paper](https://academic.oup.com/jamia/article-abstract/20/5/806/726374)
+* **PGR**: A silver standard corpus of human phenotype-gene relations 2019. [paper](https://arxiv.org/abs/1903.10728)
+* **EU-ADR**: The EU-ADR corpus: annotated drugs, diseases, targets, and their relationships 2012. [paper](https://www.sciencedirect.com/science/article/pii/S1532046412000573)
+
+#### Text Classification
+* **ADE**: Development of a benchmark corpus to support the automatic extraction of drug-related adverse effects from medical case reports 2012. [paper](https://www.sciencedirect.com/science/article/pii/S1532046412000615)
+* **2014 i2b2/UTHealth (Track 2)**: Annotating longitudinal clinical narratives for de-identification: The 2014 i2b2/UTHealth corpus 2015. [paper](https://www.sciencedirect.com/science/article/pii/S1532046415001823)
+* **HoC**: Automatic semantic classification of scientific literature according to the hallmarks of cancer 2016. [paper](https://academic.oup.com/bioinformatics/article-abstract/32/3/432/1743783)
+* **OHSUMED**: OHSUMED: An interactive retrieval evaluation and new large test collection for research 1994. [paper](https://link.springer.com/chapter/10.1007/978-1-4471-2099-5_20)
+* **WNUT-2020 Task 2**: WNUT-2020 task 2: identification of informative COVID-19 english tweets 2020. [paper](https://arxiv.org/abs/2010.08232)
+* **Medical Abstracts**: Evaluating unsupervised text classification: zero-shot and similarity-based approaches 2022. [paper](https://arxiv.org/abs/2211.16285)
+* **MIMIC-III**: MIMIC-III, a freely accessible critical care database 2016. [paper](https://www.nature.com/articles/sdata201635)
+
+#### Natural Language Inference
+* **MedNLI**: Lessons from natural language inference in the clinical domain 2018. [paper](https://arxiv.org/abs/1808.06752)
+* **BioNLI**: BioNLI: Generating a Biomedical NLI Dataset Using Lexico-semantic Constraints for Adversarial Examples 2022. [paper](https://arxiv.org/abs/2210.14814)
+
+#### Semantic Textual Similarity
+* **MedSTS**: MedSTS: a resource for clinical semantic textual similarity 2020. [paper](https://link.springer.com/article/10.1007/s10579-018-9431-1)
+* **2019 n2c2/OHNLP**: The 2019 n2c2/ohnlp track on clinical semantic textual similarity: overview 2020. [paper](https://medinform.jmir.org/2020/11/e23375)
+* **BIOSSES**: BIOSSES: a semantic sentence similarity estimation system for the biomedical domain 2017. [paper](https://academic.oup.com/bioinformatics/article-abstract/33/14/i49/3953954)
+
+#### Information Retrieval
+* **TREC-COVID**: TREC-COVID: constructing a pandemic information retrieval test collection 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3451964.3451965)
+* **NFCorpus**: A full-text learning to rank dataset for medical information retrieval 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-30671-1_58)
+* **BioASQ (BEIR)**: Beir: A heterogenous benchmark for zero-shot evaluation of information retrieval models 2021. [paper](https://arxiv.org/abs/2104.08663)
 
 ## ✨ Practical Guide for Clinical Applications
 
