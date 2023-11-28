@@ -89,6 +89,7 @@ This repository aims to provide an overview of the progress, application, and ch
 * **OphGLM**：Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue. 2023. [paper](https://arxiv.org/abs/2306.12174)
 * **GatorTron**：A large language model for electronic health records. 2022. [paper](https://www.nature.com/articles/s41746-022-00742-2)
 * **GatorTronGPT**：A Study of Generative Large Language Model for Medical Research and Healthcare. 2023. [paper](https://arxiv.org/abs/2305.13523)
+* **MEDITRON-70B**: Scaling Medical Pretraining for Large Language Models. 2023. [paper](https://arxiv.org/abs/2311.16079)
 
 ### Fine-tuning General LLMs
 * **ChatGLM-Med**：ChatGLM-Med: 基于中文医学知识的ChatGLM模型微调. 2023. [github](https://github.com/SCIR-HI/Med-ChatGLM)
@@ -186,6 +187,7 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 * Customizing General-Purpose Foundation Models for Medical Report Generation. 2023. [paper](https://arxiv.org/abs/2306.05642)
 * Towards generalist foundation model for radiology. 2023. [paper](https://arxiv.org/abs/2308.02463)
 * Clinical Text Summarization: Adapting Large Language Models Can Outperform Human Experts. 2023. [paper](https://arxiv.org/abs/2309.07430)
+* MAIRA-1: A specialised large multimodal model for radiology report generation. 2023. [paper](https://arxiv.org/abs/2311.13668)
 
 ### Medical Education
 * Large Language Models in Medical Education: Opportunities, Challenges, and Future Directions. 2023. [paper](https://mededu.jmir.org/2023/1/e48291/)
@@ -258,6 +260,8 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 * Large Language Models in Sport Science & Medicine: Opportunities, Risks and Considerations. 2023. [paper](https://arxiv.org/abs/2305.03851)
 * VisionFM: a Multi-Modal Multi-Task Vision Foundation
 Model for Generalist Ophthalmic Artificial Intelligence. 2023. [paper](https://arxiv.org/abs/2310.04992)
+* VisionFM: a Multi-Modal Multi-Task Vision Foundation
+Model for Generalist Ophthalmic Artificial Intelligence. 2023. [paper](https://arxiv.org/abs/2310.04992)
 
 
 ### Interdisciplinary Collaborations
@@ -270,7 +274,7 @@ Model for Generalist Ophthalmic Artificial Intelligence. 2023. [paper](https://a
 * ChatGPT for shaping the future of dentistry: the potential of multi-modal large language model. 2023. [paper](https://www.nature.com/articles/s41368-023-00239-y)
 * Frozen Language Model Helps ECG Zero-Shot Learning. 2023. [paper](https://arxiv.org/abs/2303.12311)
 * Exploring and Characterizing Large Language Models For Embedded System Development and Debugging. 2023. [paper](https://arxiv.org/abs/2307.03817)
-* MME: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models. 2023. [paper](https://arxiv.org/abs/2306.13394)
+* Benefits and Harms of Large Language Models in Digital Mental Health. 2023. [paper](https://arxiv.org/abs/2311.14693)
 
 ### Medical Agents
 * The Rise and Potential of Large Language Model
