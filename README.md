@@ -113,12 +113,11 @@ This repository aims to provide an overview of the progress, application, and ch
 * **AlpaCare**:Instruction-tuned Large Language Models for Medical Application. 2023. [paper](https://arxiv.org/abs/2310.14558)
 
 ### Prompting General LLMs
-* **DrugGPT**: A Knowledge-Grounded Collaborative Large Language Model for Evidence-based Drug Analysis. 2023.
 * **DelD-GPT**: Zero-shot medical text de-identification by gpt-4. 2023. [paper](https://arxiv.org/abs/2303.11032)
 * **ChatCAD**: Interactive computer-aided diagnosis on medical image using large language models. 2023. [paper](https://arxiv.org/abs/2302.07257)
 * **Dr. Knows**: Leveraging a medical knowledge graph into large language models for diagnosis prediction. 2023. [paper](https://arxiv.org/abs/2308.14321)
 * **MedPaLM**: Large language models encode clinical knowledge. 2022. [paper](https://arxiv.org/abs/2212.13138)
-
+* **DrugGPT**: A Knowledge-Grounded Collaborative Large Language Model for Evidence-based Drug Analysis. 2023.
 
 ## 📊 Practical Guide for Medical Data
 
