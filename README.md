@@ -375,7 +375,7 @@ Model for Generalist Ophthalmic Artificial Intelligence. 2023. [paper](https://a
 ### Medical Agents
 * The Rise and Potential of Large Language Model Based Agents: A Survey. 2023. [paper](https://arxiv.org/pdf/2309.07864)
 * MedAgents: Large Language Models as Collaborators for Zero-shot Medical ReasoningThe Rise and Potential of Large Language Model. 2023. [paper](https://arxiv.org/abs/2311.10537) [code](https://github.com/gersteinlab/MedAgents)
-* DrugGPT：A Knowledge-Grounded Collaborative Large Language Model for Evidence-based Drug Analysis. 2023.
+* DrugGPT: A Knowledge-Grounded Collaborative Large Language Model for Evidence-based Drug Analysis. 2023. [code](https://github.com/AI-in-Health/DrugGPT)
 
 
 ## 👍 Acknowledgement
