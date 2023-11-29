@@ -49,7 +49,7 @@ This repository aims to provide an overview of the progress, application, and ch
    * [Clinical Knowledge Bases](#clinical-knowledge-bases)
    * [Pre-training Data](#pre-training-data)
    * [Fine-tuning Data](#fine-tuning-data)
-* [Downstream Biomedical Tasks](#-downstream-biomedical-tasks)
+* [Downstream Biomedical Tasks](#%EF%B8%8F-downstream-biomedical-tasks)
    * [Generative Tasks](#generative-tasks)
       * [Text Summarization](#text-summarization)
       * [Text Simplification](#text-simplification)
