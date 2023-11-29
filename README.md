@@ -261,8 +261,6 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 * Large Language Models in Sport Science & Medicine: Opportunities, Risks and Considerations. 2023. [paper](https://arxiv.org/abs/2305.03851)
 * VisionFM: a Multi-Modal Multi-Task Vision Foundation
 Model for Generalist Ophthalmic Artificial Intelligence. 2023. [paper](https://arxiv.org/abs/2310.04992)
-* VisionFM: a Multi-Modal Multi-Task Vision Foundation
-Model for Generalist Ophthalmic Artificial Intelligence. 2023. [paper](https://arxiv.org/abs/2310.04992)
 
 
 ### Interdisciplinary Collaborations
