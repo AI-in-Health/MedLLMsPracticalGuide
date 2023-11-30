@@ -139,6 +139,9 @@ This repository aims to provide an overview of the progress, application, and ch
 * **[NHS Medicine](https://www.nhs.uk/medicines/)**
 * **[Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html)**
 * **[The Human Phenotype Ontology](https://hpo.jax.org/app/)**
+* **[Center for Disease Control and Prevention](https://www.cdc.gov/)**
+* **[National Institute for Health and Care Excellence](https://www.nice.org.uk/guidance)**
+* **[World Health Organization](https://www.who.int/publications/who-guidelines)**
 
 ### Pre-training Data
 * **PubMed**: National Institutes of Health. PubMed Data. In National Library of Medicine. 2022. [database](https://pubmed.ncbi.nlm.nih.gov/download/)
