@@ -293,6 +293,7 @@ This repository aims to provide an overview of the progress, application, and ch
 * Towards generalist foundation model for radiology. 2023. [paper](https://arxiv.org/abs/2308.02463)
 * Clinical Text Summarization: Adapting Large Language Models Can Outperform Human Experts. 2023. [paper](https://arxiv.org/abs/2309.07430)
 * MAIRA-1: A specialised large multimodal model for radiology report generation. 2023. [paper](https://arxiv.org/abs/2311.13668)
+* Consensus, dissensus and synergy between clinicians and specialist foundation models in radiology report generation.  2023. [paper](https://arxiv.org/pdf/2311.18260.pdf)
 
 ### Medical Education
 * Large Language Models in Medical Education: Opportunities, Challenges, and Future Directions. 2023. [paper](https://mededu.jmir.org/2023/1/e48291/)
