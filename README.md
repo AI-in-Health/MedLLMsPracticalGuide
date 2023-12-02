@@ -182,7 +182,7 @@ This repository aims to provide an overview of the progress, application, and ch
 * **MultiMedBench**: Towards generalist biomedical ai. 2023. [paper](https://arxiv.org/abs/2307.14334)
 * **MedInstruct-52**: Instruction-tuned Large Language Models for Medical Application. 2023. [paper](https://arxiv.org/abs/2310.14558)
 * **eICU-CRD**: The eicu collaborative research database, a freely available multi-center database for critical care research. 2018. [paper](https://www.nature.com/articles/sdata2018178)
-* **MIMIC-IV** MIMIC-IV, a freely accessible electronic health record dataset. 2023. [paper](https://www.nature.com/articles/s41597-022-01899-x)[database](https://physionet.org/content/mimiciv/2.2/)
+* **MIMIC-IV**: MIMIC-IV, a freely accessible electronic health record dataset. 2023. [paper](https://www.nature.com/articles/s41597-022-01899-x) [database](https://physionet.org/content/mimiciv/2.2/)
   
 ## 🗂️ Downstream Biomedical Tasks
 
