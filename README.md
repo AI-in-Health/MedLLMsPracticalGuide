@@ -108,6 +108,7 @@ This repository aims to provide an overview of the progress, application, and ch
 * **ClinicalGPT**：Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation. 2023. [paper](https://arxiv.org/abs/2306.09968)
 * **Qilin-Med**：Multi-stage Knowledge Injection Advanced Medical Large Language Model. 2023. [paper](https://arxiv.org/abs/2310.09089)
 * **Qilin-Med-VL**：Towards Chinese Large Vision-Language Model for General Healthcare. 2023. [paper](https://arxiv.org/abs/2310.17956)
+* **Zhongjing**：Enhancing the Chinese medical capabilities of large language model through expert feedback and real-world multi-turn dialogue. 2023. [paper](https://arxiv.org/abs/2308.03549)
 * **ChatDoctor**：A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge. 2023. [paper](https://www.cureus.com/articles/152858-chatdoctor-a-medical-chat-model-fine-tuned-on-a-large-language-model-meta-ai-llama-using-medical-domain-knowledge.pdf)
 * **BenTsao**：Tuning llama model with chinese medical knowledge. 2023. [paper](https://arxiv.org/abs/2304.06975)
 * **HuatuoGPT**: HuatuoGPT, towards Taming Language Model to Be a Doctor. 2023. [paper](https://arxiv.org/abs/2305.15075)
@@ -151,7 +152,7 @@ This repository aims to provide an overview of the progress, application, and ch
 * **EHRs**: A large language model for electronic health records. 2022. [paper](https://www.nature.com/articles/s41746-022-00742-2)
 * **EHRs**: A Study of Generative Large Language Model for Medical Research and Healthcare. 2023. [paper](https://arxiv.org/abs/2305.13523)
 * **Guidelines** A high-quality collection of clinical practice guidelines (CPGs) for the medical training of LLMs. [dataset](https://huggingface.co/datasets/epfl-llm/guidelines)
-
+* **GAP-REPLAY** Scaling Medical Pretraining for Large Language Models. 2023. [paper](https://arxiv.org/abs/2311.16079)
 ### Fine-tuning Data
 * **cMeKG**：Chinese Medical Knowledge Graph. 2023. [github](https://github.com/king-yyf/CMeKG_tools)
 * **CMD.**: Chinese medical dialogue data. 2023. [repo](https://github.com/Toyhom/Chinese-medical-dialogue-data)
@@ -167,8 +168,8 @@ This repository aims to provide an overview of the progress, application, and ch
 * **Hybrid SFT**: HuatuoGPT, towards Taming Language Model to Be a Doctor. 2023. [paper](https://arxiv.org/abs/2305.15075)
 * **PMC-15M**: Large-scale domain-specific pretraining for biomedical vision-language processing. 2023. [paper](https://arxiv.org/abs/2303.00915)
 * **MedQuAD**: A question-entailment approach to question answering. 2019. [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3119-4?ref=https://githubhelp.com)
-* **VariousMedQA**: Visual med-alpaca: A parameter-efficient biomedical llm with
-visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alpaca)
+* **VariousMedQA**: Visual med-alpaca: A parameter-efficient biomedical llm with visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alpaca)
+* **CMtMedQA**:Zhongjing: Enhancing the Chinese medical capabilities of large language model through expert feedback and real-world multi-turn dialogue. 2023. [paper](https://arxiv.org/abs/2308.03549)
 * **MTB**: Med-flamingo: a multimodal medical few-shot learner. 2023. [paper](https://arxiv.org/abs/2307.15189)
 * **PMC-OA**: Pmc-clip: Contrastive language-image pre-training using biomedical documents. 2023. [paper](https://arxiv.org/abs/2303.07240)
 * **Medical Meadow**: MedAlpaca--An Open-Source Collection of Medical Conversational AI Models and Training Data. 2023. [paper](https://arxiv.org/abs/2304.08247)
@@ -179,7 +180,10 @@ visual capabilities. 2023. [repo](https://github.com/cambridgeltl/visual-med-alp
 * **MedQA**: What disease does this patient have? a large-scale open domain question answering dataset from medical exams. 2021. [paper](https://www.mdpi.com/2076-3417/11/14/6421)
 * **MultiMedQA**: Towards expert-level medical question answering with large language models. 2023. [paper](https://arxiv.org/abs/2305.09617)
 * **MultiMedBench**: Towards generalist biomedical ai. 2023. [paper](https://arxiv.org/abs/2307.14334)
-
+* **MedInstruct-52**: Instruction-tuned Large Language Models for Medical Application. 2023. [paper](https://arxiv.org/abs/2310.14558)
+* **eICU-CRD**: The eicu collaborative research database, a freely available multi-center database for critical care research. 2018. [paper](https://www.nature.com/articles/sdata2018178)
+* **MIMIC-IV** MIMIC-IV, a freely accessible electronic health record dataset. 2023. [paper](https://www.nature.com/articles/s41597-022-01899-x)[database](https://physionet.org/content/mimiciv/2.2/)
+  
 ## 🗂️ Downstream Biomedical Tasks
 
 ### Generative Tasks
