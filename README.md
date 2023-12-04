@@ -34,11 +34,13 @@ This repository aims to provide an overview of the progress, application, and ch
 
 
 ##  📣 Update Notes
+[2023-12-04] We updated the outline image and radar chart evaluation of Medical LLM. Stay Tuned for our survey version 2 (Be released soon).
+
 [2023-11-09] We released the repository.
 
 ## Table of Contents
 <div align=center>
-<img src="img/MedicalLMM_outline.png" width="800px">
+<img src="img/Medical_LLM_outline.png" width="800px">
 </div>
 
 * [Practical Guide for Building Pipeline](#-practical-guide-for-building-pipeline)
@@ -185,7 +187,9 @@ This repository aims to provide an overview of the progress, application, and ch
 * **MIMIC-IV**: MIMIC-IV, a freely accessible electronic health record dataset. 2023. [paper](https://www.nature.com/articles/s41597-022-01899-x) [database](https://physionet.org/content/mimiciv/2.2/)
   
 ## 🗂️ Downstream Biomedical Tasks
-
+<div align=center>
+<img src="img/Medical_LLM_eval.png" width="800px">
+</div>
 ### Generative Tasks
 
 #### Text Summarization
