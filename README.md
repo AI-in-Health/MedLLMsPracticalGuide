@@ -187,9 +187,11 @@ This repository aims to provide an overview of the progress, application, and ch
 * **MIMIC-IV**: MIMIC-IV, a freely accessible electronic health record dataset. 2023. [paper](https://www.nature.com/articles/s41597-022-01899-x) [database](https://physionet.org/content/mimiciv/2.2/)
   
 ## 🗂️ Downstream Biomedical Tasks
+
 <div align=center>
 <img src="img/Medical_LLM_eval.png" width="800px">
 </div>
+
 ### Generative Tasks
 
 #### Text Summarization
