@@ -190,7 +190,7 @@ This repository aims to provide an overview of the progress, application, and ch
 ## 🗂️ Downstream Biomedical Tasks
 
 <div align=center>
-<img src="img/Medical_LLM_eval.png" width="800px">
+<img src="img/eva.png" width="800px">
 </div>
 
 ### Generative Tasks
