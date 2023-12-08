@@ -326,6 +326,7 @@ This repository aims to provide an overview of the progress, application, and ch
 * A Brief Wellbeing Training Session Delivered by a Humanoid Social Robot: A Pilot Randomized Controlled Trial. 2023. [paper](https://link.springer.com/article/10.1007/s12369-023-01054-5)
 * Real conversations with artificial intelligence: A comparison between human–human online conversations and human–chatbot conversations. 2015. [paper](https://www.sciencedirect.com/science/article/pii/S0747563215001247)
 * Benefits and Harms of Large Language Models in Digital Mental Health. 2023. [paper](https://arxiv.org/abs/2311.14693)
+* PsyChat: A Client-Centric Dialogue System for Mental Health Support. 2023. [paper](https://arxiv.org/abs/2312.04262) 
 
 ## ⚔️ Practical Guide for Challenges
 
