@@ -132,6 +132,7 @@ This repository aims to provide an overview of the progress, application, and ch
 * **MedPaLM**: Large language models encode clinical knowledge. 2022. [paper](https://arxiv.org/abs/2212.13138)
 * **DrugGPT**: A Knowledge-Grounded Collaborative Large Language Model for Evidence-based Drug Analysis. 2023.
 * **MedPrompt**: Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine. [paper](https://arxiv.org/abs/2311.16452)
+* Enhancing Medical Task Performance in GPT-4V: A Comprehensive Study on Prompt Engineering Strategies.  [paper](https://arxiv.org/abs/2312.04344)
 
 ## 📊 Practical Guide for Medical Data
 
