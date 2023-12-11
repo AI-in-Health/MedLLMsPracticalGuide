@@ -16,7 +16,7 @@
 </h5>
 
 This is an actively updated list of practical guide resources for Medical Large Language Models (Medical LLMs). 
-It's based on our survey paper: [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://arxiv.org/abs/2311.05112). 
+It's based on our survey paper: [A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges](https://arxiv.org/abs/2311.05112). 
 
 ## ⚡ Contributing
 
