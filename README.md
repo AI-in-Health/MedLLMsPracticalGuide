@@ -187,6 +187,7 @@ This repository aims to provide an overview of the progress, application, and ch
 * **MedInstruct-52**: Instruction-tuned Large Language Models for Medical Application. 2023. [paper](https://arxiv.org/abs/2310.14558)
 * **eICU-CRD**: The eicu collaborative research database, a freely available multi-center database for critical care research. 2018. [paper](https://www.nature.com/articles/sdata2018178)
 * **MIMIC-IV**: MIMIC-IV, a freely accessible electronic health record dataset. 2023. [paper](https://www.nature.com/articles/s41597-022-01899-x) [database](https://physionet.org/content/mimiciv/2.2/)
+* **PMC-Patients**: 167k open patient summaries. 2023. [paper](https://arxiv.org/abs/2202.13876) [database](https://huggingface.co/datasets/zhengyun21/PMC-Patients)
   
 ## 🗂️ Downstream Biomedical Tasks
 
@@ -279,6 +280,9 @@ This repository aims to provide an overview of the progress, application, and ch
 * **BioASQ (BEIR)**: Beir: A heterogenous benchmark for zero-shot evaluation of information retrieval models 2021. [paper](https://arxiv.org/abs/2104.08663)
 
 ## ✨ Practical Guide for Clinical Applications
+
+### Retrieval-augmented Generation
+* Retrieve, Summarize, and Verify: How Will ChatGPT Affect Information Seeking from the Medical Literature? [paper](https://journals.lww.com/jasn/fulltext/2023/08000/retrieve,_summarize,_and_verify__how_will_chatgpt.4.aspx)
 
 ### Medical Diagnosis
 * Designing a Deep Learning-Driven Resource-Efficient Diagnostic System for Metastatic Breast Cancer: Reducing Long Delays of Clinical Diagnosis and Improving Patient Survival in Developing Countries. 2023. [paper](https://arxiv.org/abs/2308.02597)
@@ -393,6 +397,7 @@ Model for Generalist Ophthalmic Artificial Intelligence. 2023. [paper](https://a
 * The Rise and Potential of Large Language Model Based Agents: A Survey. 2023. [paper](https://arxiv.org/pdf/2309.07864)
 * MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning. 2023. [paper](https://arxiv.org/abs/2311.10537) [code](https://github.com/gersteinlab/MedAgents)
 * DrugGPT: A Knowledge-Grounded Collaborative Large Language Model for Evidence-based Drug Analysis. 2023. [code](https://github.com/AI-in-Health/DrugGPT)
+* GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information. 2023. [paper](https://arxiv.org/abs/2304.09667) [code](https://github.com/ncbi/GeneGPT)
 
 
 ## 👍 Acknowledgement
