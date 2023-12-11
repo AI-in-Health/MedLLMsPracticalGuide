@@ -124,6 +124,7 @@ This repository aims to provide an overview of the progress, application, and ch
 * **CPLLM**: Clinical Prediction with Large Language Models. 2023. [paper](https://arxiv.org/abs/2309.11295)
 * **AlpaCare**: Instruction-tuned Large Language Models for Medical Application. 2023. [paper](https://arxiv.org/abs/2310.14558)
 * **From Beginner to Expert**: Modeling Medical Knowledge into General LLMs. 2023. [paper](https://arxiv.org/abs/2312.01040)
+* **Taiyi**: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks. 2023. [paper](https://arxiv.org/abs/2311.11608)
 
 ### Prompting General LLMs
 * **DelD-GPT**: Zero-shot medical text de-identification by gpt-4. 2023. [paper](https://arxiv.org/abs/2303.11032)
