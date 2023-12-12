@@ -34,7 +34,9 @@ This repository aims to provide an overview of the progress, application, and ch
 
 
 ##  📣 Update Notes
-[2023-12-04] We updated the outline image and radar chart evaluation of Medical LLM. Stay Tuned for our survey version 2 (Be released soon).
+[2023-12-11] We have updated our survey [version 2](https://arxiv.org/abs/2311.05112). Please check it out!
+
+[2023-12-04] We updated the outline image and radar chart evaluation of Medical LLM. 
 
 [2023-11-09] We released the repository.
 
