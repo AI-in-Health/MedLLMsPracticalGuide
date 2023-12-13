@@ -404,6 +404,7 @@ Model for Generalist Ophthalmic Artificial Intelligence. 2023. [paper](https://a
 ## 👍 Acknowledgement
 * [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide). The codebase we built upon and it is a comprehensive LLM survey.
 * [LargeAISurvey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10261199&tag=1). Large AI Models in Health Informatics: Applications, Challenges, and the Future.
+* [Nature Medicine]. Large language models in medicine. 2023. [paper](https://www.nature.com/articles/s41591-023-02448-8)
 
 
 ## 📑 Citation
