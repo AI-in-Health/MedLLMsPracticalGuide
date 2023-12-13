@@ -394,6 +394,7 @@ Model for Generalist Ophthalmic Artificial Intelligence. 2023. [paper](https://a
 * ChatGPT for shaping the future of dentistry: the potential of multi-modal large language model. 2023. [paper](https://www.nature.com/articles/s41368-023-00239-y)
 * Frozen Language Model Helps ECG Zero-Shot Learning. 2023. [paper](https://arxiv.org/abs/2303.12311)
 * Exploring and Characterizing Large Language Models For Embedded System Development and Debugging. 2023. [paper](https://arxiv.org/abs/2307.03817)
+* Holistic Evaluation of GPT-4V for Biomedical Imaging. 2023. [paper](https://arxiv.org/pdf/2312.05256v1.pdf)
 
 ### Medical Agents
 * The Rise and Potential of Large Language Model Based Agents: A Survey. 2023. [paper](https://arxiv.org/pdf/2309.07864)
@@ -404,7 +405,7 @@ Model for Generalist Ophthalmic Artificial Intelligence. 2023. [paper](https://a
 ## 👍 Acknowledgement
 * [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide). The codebase we built upon and it is a comprehensive LLM survey.
 * [LargeAISurvey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10261199&tag=1). Large AI Models in Health Informatics: Applications, Challenges, and the Future.
-* [Nature Medicine]. Large language models in medicine. 2023. [paper](https://www.nature.com/articles/s41591-023-02448-8)
+* [Nature Medicine](https://www.nature.com/articles/s41591-023-02448-8). Large language models in medicine. 2023. 
 
 
 ## 📑 Citation
