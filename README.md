@@ -400,7 +400,7 @@ Model for Generalist Ophthalmic Artificial Intelligence. 2023. [paper](https://a
 * The Rise and Potential of Large Language Model Based Agents: A Survey. 2023. [paper](https://arxiv.org/pdf/2309.07864)
 * MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning. 2023. [paper](https://arxiv.org/abs/2311.10537) [code](https://github.com/gersteinlab/MedAgents)
 * GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information. 2023. [paper](https://arxiv.org/abs/2304.09667) [code](https://github.com/ncbi/GeneGPT)
-
+* OpenMedCalc: Augmentation of ChatGPT with Clinician-Informed Tools Improves Performance on Medical Calculation Tasks. 2023. [paper](https://www.medrxiv.org/content/10.1101/2023.12.13.23299881v1)
 
 ## 👍 Acknowledgement
 * [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide). The codebase we built upon and it is a comprehensive LLM survey.
