@@ -113,42 +113,44 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 ### Pre-training from Scratch
 
-* [Arxiv, 2023] **MEDITRON-70B**: Scaling Medical Pretraining for Large Language Models. [paper](https://arxiv.org/abs/2311.16079)
-* [Arxiv, 2023] **OphGLM**：Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue. [paper](https://arxiv.org/abs/2306.12174)
-* [npj Digital Medicine, 2023] **GatorTronGPT**：A Study of Generative Large Language Model for Medical Research and Healthcare. [paper](https://arxiv.org/abs/2305.13523)
-* [Bioinformatics, 2023] **BioCPT**：Contrastive pre-trained transformers with large-scale pubmed search logs for zero-shot biomedical information retrieval. [paper](https://arxiv.org/abs/2307.00589)
-* [Bioinformatics, 2022] **BioGPT**：generative pre-trained transformer for biomedical text generation and mining. [paper](https://academic.oup.com/bib/article-abstract/23/6/bbac409/6713511)
-* [npj Digital Medicine, 2022] **GatorTron**：A large language model for electronic health records. [paper](https://www.nature.com/articles/s41746-022-00742-2)
-* [HEALTH, 2021] **PubMedBERT**：Domain-specific language model pretraining for biomedical natural language processing. [paper](https://dl.acm.org/doi/abs/10.1145/3458754)
-* [Bioinformatics, 2020] **BioBERT**: A pre-trained biomedical language representation model for biomedical text mining. [paper](https://academic.oup.com/bioinformatics/article-abstract/36/4/1234/5566506)
-* [ENNLP, 2019] **SciBERT**：A pretrained language model for scientific text. [paper](https://arxiv.org/abs/1903.10676)
-* [NAACL Workshop, 2019] **ClinicalBERT**：Publicly available clinical BERT embeddings. [paper](https://arxiv.org/abs/1904.03323)
-* [BioNLP Workshop, 2019] **BlueBERT**：Transfer learning in biomedical natural language processing: an evaluation of BERT and ELMo on ten benchmarking datasets. [paper](https://arxiv.org/abs/1906.05474)
+* [**Arxiv, 2023**] **MEDITRON-70B**: Scaling Medical Pretraining for Large Language Models. [paper](https://arxiv.org/abs/2311.16079)
+* [**Arxiv, 2023**] **OphGLM**：Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue. [paper](https://arxiv.org/abs/2306.12174)
+* [**npj Digital Medicine, 2023**] **GatorTronGPT**：A Study of Generative Large Language Model for Medical Research and Healthcare. [paper](https://arxiv.org/abs/2305.13523)
+* [**Bioinformatics, 2023**] **BioCPT**：Contrastive pre-trained transformers with large-scale pubmed search logs for zero-shot biomedical information retrieval. [paper](https://arxiv.org/abs/2307.00589)
+* [**Bioinformatics, 2022**] **BioGPT**：generative pre-trained transformer for biomedical text generation and mining. [paper](https://academic.oup.com/bib/article-abstract/23/6/bbac409/6713511)
+* [**npj Digital Medicine, 2022**] **GatorTron**：A large language model for electronic health records. [paper](https://www.nature.com/articles/s41746-022-00742-2)
+* [**HEALTH, 2021**] **PubMedBERT**：Domain-specific language model pretraining for biomedical natural language processing. [paper](https://dl.acm.org/doi/abs/10.1145/3458754)
+* [**Bioinformatics, 2020**] **BioBERT**: A pre-trained biomedical language representation model for biomedical text mining. [paper](https://academic.oup.com/bioinformatics/article-abstract/36/4/1234/5566506)
+* [**ENNLP, 2019**] **SciBERT**：A pretrained language model for scientific text. [paper](https://arxiv.org/abs/1903.10676)
+* [**NAACL Workshop, 2019**] **ClinicalBERT**：Publicly available clinical BERT embeddings. [paper](https://arxiv.org/abs/1904.03323)
+* [**BioNLP Workshop, 2019**] **BlueBERT**：Transfer learning in biomedical natural language processing: an evaluation of BERT and ELMo on ten benchmarking datasets. [paper](https://arxiv.org/abs/1906.05474)
 
 ### Fine-tuning General LLMs
 
-* [Nature Digital Medicine, 2023] Large Language Models to Identify Social Determinants of Health in Electronic Health Records. [[paper]]( https://arxiv.org/abs/2308.06354) [[code]]( https://github.com/AIM-Harvard/SDoH)
-* **ChatGLM-Med**：ChatGLM-Med: 基于中文医学知识的ChatGLM模型微调. 2023. [github](https://github.com/SCIR-HI/Med-ChatGLM)
-* **DoctorGLM**：Fine-tuning your chinese doctor is not a herculean task. 2023. [paper](https://arxiv.org/abs/2304.01097)
-* **BianQue**：Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT. 2023. [paper](https://arxiv.org/abs/2310.15896)
-* **ClinicalGPT**：Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation. 2023. [paper](https://arxiv.org/abs/2306.09968)
-* **Qilin-Med**：Multi-stage Knowledge Injection Advanced Medical Large Language Model. 2023. [paper](https://arxiv.org/abs/2310.09089)
-* **Qilin-Med-VL**：Towards Chinese Large Vision-Language Model for General Healthcare. 2023. [paper](https://arxiv.org/abs/2310.17956)
-* **Zhongjing**：Enhancing the Chinese medical capabilities of large language model through expert feedback and real-world multi-turn dialogue. 2023. [paper](https://arxiv.org/abs/2308.03549)
-* **ChatDoctor**：A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge. 2023. [paper](https://www.cureus.com/articles/152858-chatdoctor-a-medical-chat-model-fine-tuned-on-a-large-language-model-meta-ai-llama-using-medical-domain-knowledge.pdf)
-* **BenTsao**：Tuning llama model with chinese medical knowledge. 2023. [paper](https://arxiv.org/abs/2304.06975)
-* **HuatuoGPT**: HuatuoGPT, towards Taming Language Model to Be a Doctor. 2023. [paper](https://arxiv.org/abs/2305.15075)
-* **LLaVA-Med**: Training a large language-and-vision assistant for biomedicine in one day. 2023. [paper](https://arxiv.org/abs/2306.00890)
-* **Baize-healthcare**: An open-source chat model with parameter-efficient tuning on self-chat data. 2023. [paper](https://arxiv.org/abs/2304.01196)
-* **Visual Med-Alpeca**: A parameter-efficient biomedical llm with visual capabilities. 2023. [Repo](https://github.com/cambridgeltl/visual-med-alpaca)
-* **PMC-LLaMA**: Further finetuning llama on medical papers. 2023. [paper](https://arxiv.org/abs/2304.14454)
-* **Clinical Camel**: An Open-Source Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding. 2023. [paper](https://arxiv.org/abs/2305.12031)
-* **MedPaLM 2**: Towards expert-level medical question answering with large language models. 2023. [paper](https://arxiv.org/abs/2305.09617)
-* **MedPaLM M**: Towards generalist biomedical ai. 2023. [paper](https://arxiv.org/abs/2307.14334)
-* **CPLLM**: Clinical Prediction with Large Language Models. 2023. [paper](https://arxiv.org/abs/2309.11295)
-* **AlpaCare**: Instruction-tuned Large Language Models for Medical Application. 2023. [paper](https://arxiv.org/abs/2310.14558)
-* **From Beginner to Expert**: Modeling Medical Knowledge into General LLMs. 2023. [paper](https://arxiv.org/abs/2312.01040)
-* **Taiyi**: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks. 2023. [paper](https://arxiv.org/abs/2311.11608)
+* [**Arxiv, 2023.12**] **From Beginner to Expert**: Modeling Medical Knowledge into General LLMs. 2023. [paper](https://arxiv.org/abs/2312.01040)
+* [**Arxiv, 2023.11**] **Taiyi**: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks. 2023. [paper](https://arxiv.org/abs/2311.11608) [code](https://github.com/DUTIR-BioNLP/Taiyi-LLM)
+* [**Arxiv, 2023.10**] **AlpaCare**: Instruction-tuned Large Language Models for Medical Application. [paper](https://arxiv.org/abs/2310.14558) [code](https://github.com/XZhang97666/AlpaCare)
+* [**Arxiv, 2023.10**] **BianQue**：Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT. [paper](https://arxiv.org/abs/2310.15896)
+* [**Arxiv, 2023.10**] **Qilin-Med**：Multi-stage Knowledge Injection Advanced Medical Large Language Model. [paper](https://arxiv.org/abs/2310.09089)
+* [**Arxiv, 2023.10**] **Qilin-Med-VL**：Towards Chinese Large Vision-Language Model for General Healthcare. [paper](https://arxiv.org/abs/2310.17956)
+* [**Arxiv, 2023.9**] **CPLLM**: Clinical Prediction with Large Language Models. [paper](https://arxiv.org/abs/2309.11295)
+* [**Nature Digital Medicine, 2023.8**] Large Language Models to Identify Social Determinants of Health in Electronic Health Records. [[paper]](https://arxiv.org/abs/2308.06354) [[code]](https://github.com/AIM-Harvard/SDoH)
+* [**Arxiv, 2023.8**] **Zhongjing**：Enhancing the Chinese medical capabilities of large language model through expert feedback and real-world multi-turn dialogue. [paper](https://arxiv.org/abs/2308.03549)
+* [**Arxiv, 2023.6**] **ClinicalGPT**：Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation. 2023. [paper](https://arxiv.org/abs/2306.09968)
+* [**Cureus, 2023.6**] **ChatDoctor**：A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge. [paper](https://www.cureus.com/articles/152858-chatdoctor-a-medical-chat-model-fine-tuned-on-a-large-language-model-meta-ai-llama-using-medical-domain-knowledge.pdf)
+* [**NeurIPS Datasets/Benchmarks Track, 2023.6**] **LLaVA-Med**: Training a large language-and-vision assistant for biomedicine in one day. [paper](https://arxiv.org/abs/2306.00890)
+* [**Arxiv, 2023.6**] **MedPaLM 2**: Towards expert-level medical question answering with large language models. [paper](https://arxiv.org/abs/2305.09617)
+* [**Arxiv, 2023.5**] **Clinical Camel**: An Open-Source Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding. [paper](https://arxiv.org/abs/2305.12031)
+* [**Arxiv, 2023.5**] **HuatuoGPT**: HuatuoGPT, towards Taming Language Model to Be a Doctor. [paper](https://arxiv.org/abs/2305.15075)
+* [**Arxiv, 2023.4**] **Baize-healthcare**: An open-source chat model with parameter-efficient tuning on self-chat data. [paper](https://arxiv.org/abs/2304.01196)
+* [**Arxiv, 2023.4**] **Visual Med-Alpeca**: A parameter-efficient biomedical llm with visual capabilities. [github](https://github.com/cambridgeltl/visual-med-alpaca)
+* [**Arxiv, 2023.4**] **PMC-LLaMA**: Further finetuning llama on medical papers. [paper](https://arxiv.org/abs/2304.14454)
+* [**Arxiv, 2023.4**] **MedPaLM M**: Towards Generalist Biomedical AI. [paper](https://arxiv.org/abs/2307.14334) [code](https://github.com/kyegomez/Med-PaLM)
+* [**Arxiv, 2023.4**] **BenTsao/Huatuo**：Tuning llama model with chinese medical knowledge. [paper](https://arxiv.org/abs/2304.06975)
+* [**Github, 2023.4**] **ChatGLM-Med**：ChatGLM-Med: 基于中文医学知识的ChatGLM模型微调. [github](https://github.com/SCIR-HI/Med-ChatGLM)
+* [**Arxiv, 2023.4**] **DoctorGLM**：Fine-tuning your chinese doctor is not a herculean task. [paper](https://arxiv.org/abs/2304.01097)
+
+
 
 ### Prompting General LLMs
 * **DelD-GPT**: Zero-shot medical text de-identification by gpt-4. 2023. [paper](https://arxiv.org/abs/2303.11032)
@@ -227,7 +229,6 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * **CORD-19**: Cord-19: The covid-19 open research dataset 2020. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7251955/)
 * **MentSum**: Mentsum: A resource for exploring summarization of mental health online posts 2022. [paper](https://arxiv.org/abs/2206.00856)
 * **MeQSum**: On the summarization of consumer health questions 2019. [paper](https://aclanthology.org/P19-1215/)
-* [AAAI, 2024] **CLIPSyntel**: CLIP and LLM Synergy for Multimodal Question Summarization in Healthcare. [paper](https://arxiv.org/abs/2312.11541)
 
 #### Text Simplification
 * **MultiCochrane**: Multilingual Simplification of Medical Texts 2023. [paper](https://arxiv.org/abs/2305.12532)
@@ -303,7 +304,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 #### Information Retrieval
 * **TREC-COVID**: TREC-COVID: constructing a pandemic information retrieval test collection 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3451964.3451965)
 * **NFCorpus**: A full-text learning to rank dataset for medical information retrieval 2016. [paper](https://link.springer.com/chapter/10.1007/978-3-319-30671-1_58)
-* **BioASQ (BEIR)**: Beir: A heterogenous benchmark for zero-shot evaluation of information retrieval models 2021. [paper](https://arxiv.org/abs/2104.08663)
+* **BioASQ (BEIR)**: A heterogenous benchmark for zero-shot evaluation of information retrieval models 2021. [paper](https://arxiv.org/abs/2104.08663)
 
 ## ✨ Practical Guide for Clinical Applications
 
@@ -401,37 +402,37 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 
 ### Introduction of New Benchmarks
-* [JCO CCI, 2023] Natural language processing to automatically extract the presence and severity of esophagitis in notes of patients undergoing radiotherapy. [[paper]]( https://pubmed.ncbi.nlm.nih.gov/37506330/) [[code]]( https://github.com/AIM-Harvard/Eso_alpha)
-* [JAMA ONC, 2023] Use of Artificial Intelligence Chatbots for Cancer Treatment Information. [[paper]]( https://jamanetwork.com/journals/jamaoncology/fullarticle/2808731) [[code]]( https://github.com/AIM-Harvard/ChatGPT_NCCN)
-* [BioRxiv, 2023] A comprehensive benchmark study on biomedical text generation and mining with ChatGPT. [paper](https://www.biorxiv.org/content/10.1101/2023.04.19.537463.abstract)
-* [JAMA, 2023] Creation and adoption of large language models in medicine. [paper](https://jamanetwork.com/journals/jama/article-abstract/2808296)
-* [Arxiv, 2023] Large Language Models in Sport Science & Medicine: Opportunities, Risks and Considerations. [paper](https://arxiv.org/abs/2305.03851)
-* [Arxiv, 2023] VisionFM: a Multi-Modal Multi-Task Vision Foundation
+* [**JCO CCI, 2023**] Natural language processing to automatically extract the presence and severity of esophagitis in notes of patients undergoing radiotherapy. [[paper]]( https://pubmed.ncbi.nlm.nih.gov/37506330/) [[code]]( https://github.com/AIM-Harvard/Eso_alpha)
+* [**JAMA ONC, 2023**] Use of Artificial Intelligence Chatbots for Cancer Treatment Information. [[paper]]( https://jamanetwork.com/journals/jamaoncology/fullarticle/2808731) [[code]]( https://github.com/AIM-Harvard/ChatGPT_NCCN)
+* [**BioRxiv, 2023**] A comprehensive benchmark study on biomedical text generation and mining with ChatGPT. [paper](https://www.biorxiv.org/content/10.1101/2023.04.19.537463.abstract)
+* [**JAMA, 2023**] Creation and adoption of large language models in medicine. [paper](https://jamanetwork.com/journals/jama/article-abstract/2808296)
+* [**Arxiv, 2023**] Large Language Models in Sport Science & Medicine: Opportunities, Risks and Considerations. [paper](https://arxiv.org/abs/2305.03851)
+* [**Arxiv, 2023**] VisionFM: a Multi-Modal Multi-Task Vision Foundation
 Model for Generalist Ophthalmic Artificial Intelligence. [paper](https://arxiv.org/abs/2310.04992)
 
 
 ### Interdisciplinary Collaborations
-* [JAMA, 2023] Creation and adoption of large language models in medicine. 2023. [paper](https://jamanetwork.com/journals/jama/article-abstract/2808296)
-* [JAMA Forum, 2023] ChatGPT and Physicians' Malpractice Risk. [paper](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2805334)
+* [**JAMA, 2023**] Creation and adoption of large language models in medicine. 2023. [paper](https://jamanetwork.com/journals/jama/article-abstract/2808296)
+* [**JAMA Forum, 2023**] ChatGPT and Physicians' Malpractice Risk. [paper](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2805334)
 
 ### Multi-modal LLM
-* [Arxiv, 2023] A Survey on Multimodal Large Language Models. [paper](https://arxiv.org/abs/2306.13549)
-* [Arxiv, 2023] Mm-react: Prompting chatgpt for multimodal reasoning and action. [paper](https://arxiv.org/abs/2303.11381)
-* [Int J Oral Sci, 2023] ChatGPT for shaping the future of dentistry: the potential of multi-modal large language model. [paper](https://www.nature.com/articles/s41368-023-00239-y)
-* [MIDL, 2023] Frozen Language Model Helps ECG Zero-Shot Learning. [paper](https://arxiv.org/abs/2303.12311)
-* [Arxiv, 2023] Exploring and Characterizing Large Language Models For Embedded System Development and Debugging. [paper](https://arxiv.org/abs/2307.03817)
+* [**Arxiv, 2023**] A Survey on Multimodal Large Language Models. [paper](https://arxiv.org/abs/2306.13549)
+* [**Arxiv, 2023**] Mm-react: Prompting chatgpt for multimodal reasoning and action. [paper](https://arxiv.org/abs/2303.11381)
+* [**Int J Oral Sci, 2023**] ChatGPT for shaping the future of dentistry: the potential of multi-modal large language model. [paper](https://www.nature.com/articles/s41368-023-00239-y)
+* [**MIDL, 2023**] Frozen Language Model Helps ECG Zero-Shot Learning. [paper](https://arxiv.org/abs/2303.12311)
+* [**Arxiv, 2023**] Exploring and Characterizing Large Language Models For Embedded System Development and Debugging. [paper](https://arxiv.org/abs/2307.03817)
 <!-- * Holistic Evaluation of GPT-4V for Biomedical Imaging. 2023. [paper](https://arxiv.org/pdf/2312.05256v1.pdf) -->
 
 ### Medical Agents
-* [Arxiv, 2023] The Rise and Potential of Large Language Model Based Agents: A Survey. [paper](https://arxiv.org/pdf/2309.07864)
-* [Arxiv, 2023] MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning. [paper](https://arxiv.org/abs/2311.10537) [code](https://github.com/gersteinlab/MedAgents)
-* [Arxiv, 2023] GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information.  [paper](https://arxiv.org/abs/2304.09667) [code](https://github.com/ncbi/GeneGPT)
-* [MedRxiv, 2023] OpenMedCalc: Augmentation of ChatGPT with Clinician-Informed Tools Improves Performance on Medical Calculation Tasks. [paper](https://www.medrxiv.org/content/10.1101/2023.12.13.23299881v1)
+* [**Arxiv, 2023**] The Rise and Potential of Large Language Model Based Agents: A Survey. [paper](https://arxiv.org/pdf/2309.07864)
+* [**Arxiv, 2023**] MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning. [paper](https://arxiv.org/abs/2311.10537) [code](https://github.com/gersteinlab/MedAgents)
+* [**Arxiv, 2023**] GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information.  [paper](https://arxiv.org/abs/2304.09667) [code](https://github.com/ncbi/GeneGPT)
+* [**MedRxiv, 2023**] OpenMedCalc: Augmentation of ChatGPT with Clinician-Informed Tools Improves Performance on Medical Calculation Tasks. [paper](https://www.medrxiv.org/content/10.1101/2023.12.13.23299881v1)
 
 ## 👍 Acknowledgement
 * [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide). The codebase we built upon and it is a comprehensive LLM survey.
 * [LargeAISurvey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10261199&tag=1). Large AI Models in Health Informatics: Applications, Challenges, and the Future.
-* [Nature Medicine](https://www.nature.com/articles/s41591-023-02448-8). Large language models in medicine. 
+* [Nature Medicine](https://www.nature.com/articles/s41591-023-02448-8). A Survey of the Large language models in medicine. 
 
 
 ## 📑 Citation
