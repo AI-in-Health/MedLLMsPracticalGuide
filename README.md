@@ -16,7 +16,19 @@
 </h5>
 
 This is an actively updated list of practical guide resources for Medical Large Language Models (Medical LLMs). 
-It's based on our survey paper: [A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges](https://arxiv.org/abs/2311.05112). 
+It's based on our survey paper: 
+
+> [A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges](https://arxiv.org/abs/2311.05112)
+
+> *Hongjian Zhou<sup>1,\*</sup>, Fenglin Liu<sup>1,\*</sup>, Boyang Gu<sup>2,\*</sup>, Xinyu Zhou<sup>3,\*</sup>, Jinfa Huang<sup>4,\*</sup>, Jinge Wu<sup>5</sup>, Yiru Li<sup>6</sup>, Sam S. Chen<sup>7</sup>, Peilin Zhou<sup>8</sup>, Junling Liu<sup>9</sup>, Yining Hua<sup>10</sup>,
+Chengfeng Mao<sup>11</sup>, Chenyu You<sup>12</sup>, Xian Wu<sup>13</sup>, Yefeng Zheng<sup>13</sup>, Lei Clifton<sup>1</sup>,
+Zheng Li<sup>14,†</sup>, Jiebo Luo<sup>4,†</sup>, 
+David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Authors)
+
+> *<sup>1</sup>University of Oxford, <sup>2</sup>Imperial College London, <sup>3</sup>University of Waterloo,
+<sup>4</sup>University of Rochester, <sup>5</sup>University College London, <sup>6</sup>Western University,
+<sup>7</sup>University of Georgia, <sup>8</sup>Hong Kong University of Science and Technology (Guangzhou),
+<sup>9</sup>Alibaba, <sup>10</sup>Harvard T.H. Chan School of Public Health, <sup>11</sup>Massachusetts Institute of Technology, <sup>12</sup>Yale University, <sup>13</sup>Tencent, <sup>14</sup>Amazon*
 
 ## ⚡ Contributing
 
@@ -27,10 +39,15 @@ Markdown format:
 - [**Name of Conference or Journal + Year**] Paper Name. [[pdf]](link) [[code]](link)
 ```
 
-## 🤗 Highlights
+## 🤗 What is This Survey About?
+This survey provides a comprehensive overview of the principles, applications, and challenges faced by LLMs in medicine. We address the following specific questions: 
+1.  How should medical LLMs be built? 
+2.  What are the measures for downstream performance of medical LLMs? 
+3.  How should medical LLMs be utilized in real-world clinical practice? 
+4. What challenges arise from the use of medical LLMs? 
+5.  How should we better construct and utilize medical LLMs? 
 
-This repository aims to provide an overview of the progress, application, and challenge of LLMs in medicine, aiming to promote further research and exploration in this interdisciplinary field.
-
+This survey aims to provide insights into the opportunities and challenges of LLMs in medicine, and serve as a practical resource for constructing effective medical LLMs. 
 
 
 ##  📣 Update Notes
@@ -394,7 +411,7 @@ Model for Generalist Ophthalmic Artificial Intelligence. 2023. [paper](https://a
 * ChatGPT for shaping the future of dentistry: the potential of multi-modal large language model. 2023. [paper](https://www.nature.com/articles/s41368-023-00239-y)
 * Frozen Language Model Helps ECG Zero-Shot Learning. 2023. [paper](https://arxiv.org/abs/2303.12311)
 * Exploring and Characterizing Large Language Models For Embedded System Development and Debugging. 2023. [paper](https://arxiv.org/abs/2307.03817)
-* Holistic Evaluation of GPT-4V for Biomedical Imaging. 2023. [paper](https://arxiv.org/pdf/2312.05256v1.pdf)
+<!-- * Holistic Evaluation of GPT-4V for Biomedical Imaging. 2023. [paper](https://arxiv.org/pdf/2312.05256v1.pdf) -->
 
 ### Medical Agents
 * The Rise and Potential of Large Language Model Based Agents: A Survey. 2023. [paper](https://arxiv.org/pdf/2309.07864)
