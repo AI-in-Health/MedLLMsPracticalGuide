@@ -36,13 +36,13 @@ If you want to add your work or model to this list, please do not hesitate to em
 Markdown format:
 
 ```markdown
-- [**Name of Conference or Journal + Year**] Paper Name. [[pdf]](link) [[code]](link)
+- [**Name of Conference or Journal + Year**] Paper Name. [[paper]](link) [[code]](link)
 ```
 
 ## 🤗 What is This Survey About?
 This survey provides a comprehensive overview of the principles, applications, and challenges faced by LLMs in medicine. We address the following specific questions: 
 1.  How should medical LLMs be built? 
-2.  What are the measures for downstream performance of medical LLMs? 
+2.  What are the measures for the downstream performance of medical LLMs? 
 3.  How should medical LLMs be utilized in real-world clinical practice? 
 4. What challenges arise from the use of medical LLMs? 
 5.  How should we better construct and utilize medical LLMs? 
@@ -51,6 +51,8 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 
 ##  📣 Update Notes
+[2023-12-19] We have added the papers' source of conference or journal. We are actively developing a new version and welcome your positive criticisms and suggestions.
+
 [2023-12-11] We have updated our survey [version 2](https://arxiv.org/abs/2311.05112). Please check it out!
 
 [2023-12-04] We updated the outline image and radar chart evaluation of Medical LLM. 
@@ -110,17 +112,17 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 ### Pre-training from Scratch
 
-* **BioBERT**: A pre-trained biomedical language representation model for biomedical text mining. 2020. [paper](https://academic.oup.com/bioinformatics/article-abstract/36/4/1234/5566506)
-* **PubMedBERT**：Domain-specific language model pretraining for biomedical natural language processing. 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3458754)
-* **SciBERT**：A pretrained language model for scientific text. 2019. [paper](https://arxiv.org/abs/1903.10676)
-* **ClinicalBERT**：Publicly available clinical BERT embeddings. 2019. [paper](https://arxiv.org/abs/1904.03323)
-* **BlueBERT**：Transfer learning in biomedical natural language processing: an evaluation of BERT and ELMo on ten benchmarking datasets. 2019. [paper](https://arxiv.org/abs/1906.05474)
-* **BioCPT**：Contrastive pre-trained transformers with large-scale pubmed search logs for zero-shot biomedical information retrieval. 2023. [paper](https://arxiv.org/abs/2307.00589)
-* **BioGPT**：generative pre-trained transformer for biomedical text generation and mining. 2022. [paper](https://academic.oup.com/bib/article-abstract/23/6/bbac409/6713511)
-* **OphGLM**：Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue. 2023. [paper](https://arxiv.org/abs/2306.12174)
-* **GatorTron**：A large language model for electronic health records. 2022. [paper](https://www.nature.com/articles/s41746-022-00742-2)
-* **GatorTronGPT**：A Study of Generative Large Language Model for Medical Research and Healthcare. 2023. [paper](https://arxiv.org/abs/2305.13523)
-* **MEDITRON-70B**: Scaling Medical Pretraining for Large Language Models. 2023. [paper](https://arxiv.org/abs/2311.16079)
+* [Arxiv, 2023] **MEDITRON-70B**: Scaling Medical Pretraining for Large Language Models. [paper](https://arxiv.org/abs/2311.16079)
+* [Arxiv, 2023] **OphGLM**：Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue. [paper](https://arxiv.org/abs/2306.12174)
+* [npj Digital Medicine, 2023] **GatorTronGPT**：A Study of Generative Large Language Model for Medical Research and Healthcare. [paper](https://arxiv.org/abs/2305.13523)
+* [Bioinformatics, 2023] **BioCPT**：Contrastive pre-trained transformers with large-scale pubmed search logs for zero-shot biomedical information retrieval. [paper](https://arxiv.org/abs/2307.00589)
+* [Bioinformatics, 2022] **BioGPT**：generative pre-trained transformer for biomedical text generation and mining. [paper](https://academic.oup.com/bib/article-abstract/23/6/bbac409/6713511)
+* [npj Digital Medicine, 2022] **GatorTron**：A large language model for electronic health records. [paper](https://www.nature.com/articles/s41746-022-00742-2)
+* [HEALTH, 2021] **PubMedBERT**：Domain-specific language model pretraining for biomedical natural language processing. [paper](https://dl.acm.org/doi/abs/10.1145/3458754)
+* [Bioinformatics, 2020] **BioBERT**: A pre-trained biomedical language representation model for biomedical text mining. [paper](https://academic.oup.com/bioinformatics/article-abstract/36/4/1234/5566506)
+* [ENNLP, 2019] **SciBERT**：A pretrained language model for scientific text. [paper](https://arxiv.org/abs/1903.10676)
+* [NAACL Workshop, 2019] **ClinicalBERT**：Publicly available clinical BERT embeddings. [paper](https://arxiv.org/abs/1904.03323)
+* [BioNLP Workshop, 2019] **BlueBERT**：Transfer learning in biomedical natural language processing: an evaluation of BERT and ELMo on ten benchmarking datasets. [paper](https://arxiv.org/abs/1906.05474)
 
 ### Fine-tuning General LLMs
 * **ChatGLM-Med**：ChatGLM-Med: 基于中文医学知识的ChatGLM模型微调. 2023. [github](https://github.com/SCIR-HI/Med-ChatGLM)
