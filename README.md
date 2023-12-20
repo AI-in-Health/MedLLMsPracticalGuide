@@ -10,6 +10,7 @@
    ![Awesome](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)
    [![arxiv](https://img.shields.io/badge/Arxiv-2311.05112-red)](https://arxiv.org/pdf/2311.05112.pdf)
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAI-in-Health%2FMedLLMsPracticalGuide&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+   ![twitter](https://img.shields.io/badge/Twitter%40elvis%20-black?logo=twitter&logoColor=1D9BF0&color=black&link=https%3A%2F%2Ftwitter.com%2Fomarsar0%2Fstatus%2F1734599425568231513%3Fs%3D61%26t%3D8Li3X-wK0wxSRkHjNK7Pfw)
    ![GitHub Repo stars](https://img.shields.io/github/stars/AI-in-Health/MedLLMsPracticalGuide?logoColor=%23C8A2C8&color=%23DCC6E0)
 
 
@@ -28,7 +29,7 @@ David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Author
 > *<sup>1</sup>University of Oxford, <sup>2</sup>Imperial College London, <sup>3</sup>University of Waterloo,
 <sup>4</sup>University of Rochester, <sup>5</sup>University College London, <sup>6</sup>Western University,
 <sup>7</sup>University of Georgia, <sup>8</sup>Hong Kong University of Science and Technology (Guangzhou),
-<sup>9</sup>Alibaba, <sup>10</sup>Harvard T.H. Chan School of Public Health, <sup>11</sup>Massachusetts Institute of Technology, <sup>12</sup>Yale University, <sup>13</sup>Tencent, <sup>14</sup>Amazon*
+<sup>9</sup>Alibaba, <sup>10</sup>Harvard T.H. Chan School of Public Health, <sup>11</sup>MIT, <sup>12</sup>Yale University, <sup>13</sup>Tencent, <sup>14</sup>Amazon*
 
 ## ⚡ Contributing
 
@@ -51,7 +52,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 
 ##  📣 Update Notes
-[2023-12-19] We have added the papers' source of conference or journal. We are actively developing a new version and welcome your positive criticisms and suggestions.
+[2023-12-19] ✨✨✨ Our survey have obtained 600+ likes in the [twitter](https://x.com/omarsar0/status/1734599425568231513?s=20). We are actively developing a new version and welcome your positive criticisms and suggestions.
 
 [2023-12-11] We have updated our survey [version 2](https://arxiv.org/abs/2311.05112). Please check it out!
 
@@ -396,35 +397,35 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 
 ### Introduction of New Benchmarks
-* A comprehensive benchmark study on biomedical text generation and mining with ChatGPT. 2023. [paper](https://www.biorxiv.org/content/10.1101/2023.04.19.537463.abstract)
-* Creation and adoption of large language models in medicine. 2023. [paper](https://jamanetwork.com/journals/jama/article-abstract/2808296)
-* Large Language Models in Sport Science & Medicine: Opportunities, Risks and Considerations. 2023. [paper](https://arxiv.org/abs/2305.03851)
-* VisionFM: a Multi-Modal Multi-Task Vision Foundation
-Model for Generalist Ophthalmic Artificial Intelligence. 2023. [paper](https://arxiv.org/abs/2310.04992)
+* [BioRxiv, 2023] A comprehensive benchmark study on biomedical text generation and mining with ChatGPT. [paper](https://www.biorxiv.org/content/10.1101/2023.04.19.537463.abstract)
+* [JAMA, 2023] Creation and adoption of large language models in medicine. [paper](https://jamanetwork.com/journals/jama/article-abstract/2808296)
+* [Arxiv, 2023] Large Language Models in Sport Science & Medicine: Opportunities, Risks and Considerations. [paper](https://arxiv.org/abs/2305.03851)
+* [Arxiv, 2023] VisionFM: a Multi-Modal Multi-Task Vision Foundation
+Model for Generalist Ophthalmic Artificial Intelligence. [paper](https://arxiv.org/abs/2310.04992)
 
 
 ### Interdisciplinary Collaborations
-* Creation and adoption of large language models in medicine. 2023. [paper](https://jamanetwork.com/journals/jama/article-abstract/2808296)
-* ChatGPT and Physicians' Malpractice Risk. 2023. [paper](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2805334)
+* [JAMA, 2023] Creation and adoption of large language models in medicine. 2023. [paper](https://jamanetwork.com/journals/jama/article-abstract/2808296)
+* [JAMA Forum, 2023] ChatGPT and Physicians' Malpractice Risk. [paper](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2805334)
 
 ### Multi-modal LLM
-* A Survey on Multimodal Large Language Models. 2023. [paper](https://arxiv.org/abs/2306.13549)
-* Mm-react: Prompting chatgpt for multimodal reasoning and action. 2023. [paper](https://arxiv.org/abs/2303.11381)
-* ChatGPT for shaping the future of dentistry: the potential of multi-modal large language model. 2023. [paper](https://www.nature.com/articles/s41368-023-00239-y)
-* Frozen Language Model Helps ECG Zero-Shot Learning. 2023. [paper](https://arxiv.org/abs/2303.12311)
-* Exploring and Characterizing Large Language Models For Embedded System Development and Debugging. 2023. [paper](https://arxiv.org/abs/2307.03817)
+* [Arxiv, 2023] A Survey on Multimodal Large Language Models. [paper](https://arxiv.org/abs/2306.13549)
+* [Arxiv, 2023] Mm-react: Prompting chatgpt for multimodal reasoning and action. [paper](https://arxiv.org/abs/2303.11381)
+* [Int J Oral Sci, 2023] ChatGPT for shaping the future of dentistry: the potential of multi-modal large language model. [paper](https://www.nature.com/articles/s41368-023-00239-y)
+* [MIDL, 2023] Frozen Language Model Helps ECG Zero-Shot Learning. [paper](https://arxiv.org/abs/2303.12311)
+* [Arxiv, 2023] Exploring and Characterizing Large Language Models For Embedded System Development and Debugging. [paper](https://arxiv.org/abs/2307.03817)
 <!-- * Holistic Evaluation of GPT-4V for Biomedical Imaging. 2023. [paper](https://arxiv.org/pdf/2312.05256v1.pdf) -->
 
 ### Medical Agents
-* The Rise and Potential of Large Language Model Based Agents: A Survey. 2023. [paper](https://arxiv.org/pdf/2309.07864)
-* MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning. 2023. [paper](https://arxiv.org/abs/2311.10537) [code](https://github.com/gersteinlab/MedAgents)
-* GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information. 2023. [paper](https://arxiv.org/abs/2304.09667) [code](https://github.com/ncbi/GeneGPT)
-* OpenMedCalc: Augmentation of ChatGPT with Clinician-Informed Tools Improves Performance on Medical Calculation Tasks. 2023. [paper](https://www.medrxiv.org/content/10.1101/2023.12.13.23299881v1)
+* [Arxiv, 2023] The Rise and Potential of Large Language Model Based Agents: A Survey. [paper](https://arxiv.org/pdf/2309.07864)
+* [Arxiv, 2023] MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning. [paper](https://arxiv.org/abs/2311.10537) [code](https://github.com/gersteinlab/MedAgents)
+* [Arxiv, 2023] GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information.  [paper](https://arxiv.org/abs/2304.09667) [code](https://github.com/ncbi/GeneGPT)
+* [MedRxiv, 2023] OpenMedCalc: Augmentation of ChatGPT with Clinician-Informed Tools Improves Performance on Medical Calculation Tasks. [paper](https://www.medrxiv.org/content/10.1101/2023.12.13.23299881v1)
 
 ## 👍 Acknowledgement
 * [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide). The codebase we built upon and it is a comprehensive LLM survey.
 * [LargeAISurvey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10261199&tag=1). Large AI Models in Health Informatics: Applications, Challenges, and the Future.
-* [Nature Medicine](https://www.nature.com/articles/s41591-023-02448-8). Large language models in medicine. 2023. 
+* [Nature Medicine](https://www.nature.com/articles/s41591-023-02448-8). Large language models in medicine. 
 
 
 ## 📑 Citation
