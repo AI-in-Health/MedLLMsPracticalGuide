@@ -126,6 +126,8 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [BioNLP Workshop, 2019] **BlueBERT**：Transfer learning in biomedical natural language processing: an evaluation of BERT and ELMo on ten benchmarking datasets. [paper](https://arxiv.org/abs/1906.05474)
 
 ### Fine-tuning General LLMs
+
+* [Nature Digital Medicine, 2023] Large Language Models to Identify Social Determinants of Health in Electronic Health Records. [[paper]]( https://arxiv.org/abs/2308.06354) [[code]]( https://github.com/AIM-Harvard/SDoH)
 * **ChatGLM-Med**：ChatGLM-Med: 基于中文医学知识的ChatGLM模型微调. 2023. [github](https://github.com/SCIR-HI/Med-ChatGLM)
 * **DoctorGLM**：Fine-tuning your chinese doctor is not a herculean task. 2023. [paper](https://arxiv.org/abs/2304.01097)
 * **BianQue**：Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT. 2023. [paper](https://arxiv.org/abs/2310.15896)
@@ -263,6 +265,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * **DDI**: Semeval-2013 task 9: Extraction of drug-drug interactions from biomedical texts (ddiextraction 2013) 2013. [paper](https://e-archivo.uc3m.es/handle/10016/20455)
 * **PGR**: A silver standard corpus of human phenotype-gene relations 2019. [paper](https://arxiv.org/abs/1903.10728)
 * **EU-ADR**: The EU-ADR corpus: annotated drugs, diseases, targets, and their relationships 2012. [paper](https://www.sciencedirect.com/science/article/pii/S1532046412000573)
+* [BioCreative VII Challenge, 2021] Medications detection in tweets using transformer networks and multi-task learning. [[paper]]( https://arxiv.org/abs/2111.13726) [[code]]( https://github.com/Machine-Learning-for-Medical-Language/SMMH-Medication-Detection)
 
 #### Relation Extraction
 * **BC5CDR**: BioCreative V CDR task corpus: a resource for chemical disease relation extraction 2016. [paper](https://academic.oup.com/database/article/doi/10.1093/database/baw068/2630414?ref=https%3A%2F%2Fgithubhelp.com&login=true)
@@ -397,6 +400,8 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 
 ### Introduction of New Benchmarks
+* [JCO CCI, 2023] Natural language processing to automatically extract the presence and severity of esophagitis in notes of patients undergoing radiotherapy. [[paper]]( https://pubmed.ncbi.nlm.nih.gov/37506330/) [[code]]( https://github.com/AIM-Harvard/Eso_alpha)
+* [JAMA ONC, 2023] Use of Artificial Intelligence Chatbots for Cancer Treatment Information. [[paper]]( https://jamanetwork.com/journals/jamaoncology/fullarticle/2808731) [[code]]( https://github.com/AIM-Harvard/ChatGPT_NCCN)
 * [BioRxiv, 2023] A comprehensive benchmark study on biomedical text generation and mining with ChatGPT. [paper](https://www.biorxiv.org/content/10.1101/2023.04.19.537463.abstract)
 * [JAMA, 2023] Creation and adoption of large language models in medicine. [paper](https://jamanetwork.com/journals/jama/article-abstract/2808296)
 * [Arxiv, 2023] Large Language Models in Sport Science & Medicine: Opportunities, Risks and Considerations. [paper](https://arxiv.org/abs/2305.03851)
