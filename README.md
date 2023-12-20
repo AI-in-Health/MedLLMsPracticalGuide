@@ -28,7 +28,7 @@ David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Author
 > *<sup>1</sup>University of Oxford, <sup>2</sup>Imperial College London, <sup>3</sup>University of Waterloo,
 <sup>4</sup>University of Rochester, <sup>5</sup>University College London, <sup>6</sup>Western University,
 <sup>7</sup>University of Georgia, <sup>8</sup>Hong Kong University of Science and Technology (Guangzhou),
-<sup>9</sup>Alibaba, <sup>10</sup>Harvard T.H. Chan School of Public Health, <sup>11</sup>Massachusetts Institute of Technology, <sup>12</sup>Yale University, <sup>13</sup>Tencent, <sup>14</sup>Amazon*
+<sup>9</sup>Alibaba, <sup>10</sup>Harvard T.H. Chan School of Public Health, <sup>11</sup>MIT, <sup>12</sup>Yale University, <sup>13</sup>Tencent, <sup>14</sup>Amazon*
 
 ## ⚡ Contributing
 
