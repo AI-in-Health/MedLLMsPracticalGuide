@@ -52,7 +52,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 
 ##  📣 Update Notes
-[2023-12-19] ✨✨✨ Our survey have obtained 600+ likes in the [twitter](https://x.com/omarsar0/status/1734599425568231513?s=20). We are actively developing a new version and welcome your positive criticisms and suggestions.
+[2023-12-19] ✨✨✨ Our survey has obtained 600+ likes in the [twitter](https://x.com/omarsar0/status/1734599425568231513?s=20). We are actively developing a new version and welcome your positive criticisms and suggestions.
 
 [2023-12-11] We have updated our survey [version 2](https://arxiv.org/abs/2311.05112). Please check it out!
 
