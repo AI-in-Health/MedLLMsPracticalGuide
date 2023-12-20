@@ -45,7 +45,7 @@ This survey provides a comprehensive overview of the principles, applications, a
 1.  How should medical LLMs be built? 
 2.  What are the measures for the downstream performance of medical LLMs? 
 3.  How should medical LLMs be utilized in real-world clinical practice? 
-4. What challenges arise from the use of medical LLMs? 
+4.  What challenges arise from the use of medical LLMs? 
 5.  How should we better construct and utilize medical LLMs? 
 
 This survey aims to provide insights into the opportunities and challenges of LLMs in medicine, and serve as a practical resource for constructing effective medical LLMs. 
@@ -65,15 +65,15 @@ This survey aims to provide insights into the opportunities and challenges of LL
 <img src="img/Medical_LLM_outline.png" width="800px">
 </div>
 
-* [Practical Guide for Building Pipeline](#-practical-guide-for-building-pipeline)
+* [🔥 Practical Guide for Building Pipeline](#-practical-guide-for-building-pipeline)
    * [Pre-training from Scratch](#pre-training-from-scratch)
    * [Fine-tuning General LLMs](#fine-tuning-general-llms)
    * [Prompting General LLMs](#prompting-general-llms)
-* [Practical Guide for Medical Data](#-practical-guide-for-medical-data)
+* [📊 Practical Guide for Medical Data](#-practical-guide-for-medical-data)
    * [Clinical Knowledge Bases](#clinical-knowledge-bases)
    * [Pre-training Data](#pre-training-data)
    * [Fine-tuning Data](#fine-tuning-data)
-* [Downstream Biomedical Tasks](#%EF%B8%8F-downstream-biomedical-tasks)
+* [🗂️ Downstream Biomedical Tasks](#%EF%B8%8F-downstream-biomedical-tasks)
    * [Generative Tasks](#generative-tasks)
       * [Text Summarization](#text-summarization)
       * [Text Simplification](#text-simplification)
@@ -86,7 +86,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
       * [Natural Language Inference](#natural-language-inference)
       * [Semantic Textual Similarity](#semantic-textual-similarity)
       * [Information Retrieval](#information-retrieval)
-* [Practical Guide for Clinical Applications](#-practical-guide-for-clinical-applications)
+* [✨ Practical Guide for Clinical Applications](#-practical-guide-for-clinical-applications)
    * [Medical Diagnosis](#medical-diagnosis)
    * [Formatting and ICD Coding](#formatting-and-icd-coding)
    * [Clinical Report Generation](#clinical-report-generation)
@@ -94,20 +94,20 @@ This survey aims to provide insights into the opportunities and challenges of LL
    * [Medical Robotics](#medical-robotics)
    * [Medical Language Translation](#medical-language-translation)
    * [Mental Health Support](#mental-health-support)
-* [Practical Guide for Challenges](#-practical-guide-for-challenges)
+* [⚔️ Practical Guide for Challenges](#-practical-guide-for-challenges)
    * [Hallucination](#hallucination)
    * [Lack of Evaluation Benchmarks and Metrics](#lack-of-evaluation-benchmarks-and-metrics)
    * [Domain Data Limitations](#domain-data-limitations)
    * [New Knowledge Adaptation](#new-knowledge-adaptation)
    * [Behavior Alignment](#behavior-alignment)
    * [Ethical, Legal, and Safety Concerns](#ethical-legal-and-safety-concerns)
-* [Practical Guide for Future Directions](#-practical-guide-for-future-directions)
+* [🚀 Practical Guide for Future Directions](#-practical-guide-for-future-directions)
    * [Introduction of New Benchmarks](#introduction-of-new-benchmarks)
    * [Interdisciplinary Collaborations](#interdisciplinary-collaborations)
    * [Multi-modal LLM](#multi-modal-llm)
    * [Medical Agents](#medical-agents)
-* [Acknowledgement](#-acknowledgement)
-* [Citation](#-citation)
+* [👍 Acknowledgement](#-acknowledgement)
+* [📑 Citation](#-citation)
 
 ## 🔥 Practical Guide for Building Pipeline
 
@@ -384,7 +384,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * Retrieval-augmented generation for knowledge-intensive nlp tasks. 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html)
 
 ### Behavior Alignment
-* Aligning ai with shared human values. 2020. [paper](https://arxiv.org/abs/2008.02275)
+* Aligning AI with shared human values. 2020. [paper](https://arxiv.org/abs/2008.02275)
 * Training a helpful and harmless assistant with reinforcement learning from human feedback. 2022. [paper](https://arxiv.org/abs/2204.05862)
 * Improving alignment of dialogue agents via targeted human judgements. 2022. [paper](https://arxiv.org/abs/2209.14375)
 * Webgpt: Browser-assisted question-answering with human feedback. 2021. [paper](https://arxiv.org/abs/2112.09332)
