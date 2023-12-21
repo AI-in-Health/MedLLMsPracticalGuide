@@ -52,13 +52,14 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 
 ##  📣 Update Notes
-[2023-12-19] ✨✨✨ Our survey has obtained 600+ likes in the [twitter](https://x.com/omarsar0/status/1734599425568231513?s=20). We are actively developing a new version and welcome your positive criticisms and suggestions.
+`[2023-12-19]` ✨✨✨ Our survey has obtained 600+ likes in the [twitter](https://x.com/omarsar0/status/1734599425568231513?s=20). We are actively developing a new version and welcome your positive criticisms and suggestions.
 
-[2023-12-11] We have updated our survey [version 2](https://arxiv.org/abs/2311.05112). Please check it out!
+`[2023-12-11]` We have updated our survey [version 2](https://arxiv.org/abs/2311.05112). Please check it out!
 
-[2023-12-04] We updated the outline image and radar chart evaluation of Medical LLM. 
+`[2023-12-04]` We updated the outline image and radar chart evaluation of Medical LLM. 
 
-[2023-11-09] We released the repository.
+
+`[2023-11-09]` We released the repository.
 
 ## Table of Contents
 <div align=center>
@@ -153,12 +154,12 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 
 ### Prompting General LLMs
-* **DelD-GPT**: Zero-shot medical text de-identification by gpt-4. 2023. [paper](https://arxiv.org/abs/2303.11032)
-* **ChatCAD**: Interactive computer-aided diagnosis on medical image using large language models. 2023. [paper](https://arxiv.org/abs/2302.07257)
-* **Dr. Knows**: Leveraging a medical knowledge graph into large language models for diagnosis prediction. 2023. [paper](https://arxiv.org/abs/2308.14321)
-* **MedPaLM**: Large language models encode clinical knowledge. 2022. [paper](https://arxiv.org/abs/2212.13138)
-* **MedPrompt**: Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine. [paper](https://arxiv.org/abs/2311.16452)
-* Enhancing Medical Task Performance in GPT-4V: A Comprehensive Study on Prompt Engineering Strategies.  [paper](https://arxiv.org/abs/2312.04344)
+* [**Arxiv, 2023.12**] Enhancing Medical Task Performance in GPT-4V: A Comprehensive Study on Prompt Engineering Strategies.  [paper](https://arxiv.org/abs/2312.04344)
+* [**Arxiv, 2023.11**] **MedPrompt**: Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine. [paper](https://arxiv.org/abs/2311.16452)
+*  [**Arxiv, 2023.8**] **Dr. Knows**: Leveraging a medical knowledge graph into large language models for diagnosis prediction. 2023. [paper](https://arxiv.org/abs/2308.14321)
+* [**Arxiv, 2023.3**] **DelD-GPT**: Zero-shot medical text de-identification by gpt-4. 2023. [paper](https://arxiv.org/abs/2303.11032) [code](https://github.com/yhydhx/ChatGPT-API)
+* [**Arxiv, 2023.2/5**] **ChatCAD/ChatCAD+**: Interactive computer-aided diagnosis on medical image using large language models. 2023. [paper](https://arxiv.org/abs/2302.07257) [code](https://github.com/zhaozh10/ChatCAD)
+* [**Nature, 2022.12**] **MedPaLM**: Large language models encode clinical knowledge. 2022. [paper](https://arxiv.org/abs/2212.13138) 
 
 ## 📊 Practical Guide for Medical Data
 
@@ -402,6 +403,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 
 ### Introduction of New Benchmarks
+* [**Arxiv, 2023.12**] Designing Guiding Principles for NLP for Healthcare: A Case Study of Maternal Health. [paper](https://arxiv.org/abs/2312.11803)
 * [**JCO CCI, 2023**] Natural language processing to automatically extract the presence and severity of esophagitis in notes of patients undergoing radiotherapy. [[paper]]( https://pubmed.ncbi.nlm.nih.gov/37506330/) [[code]]( https://github.com/AIM-Harvard/Eso_alpha)
 * [**JAMA ONC, 2023**] Use of Artificial Intelligence Chatbots for Cancer Treatment Information. [[paper]]( https://jamanetwork.com/journals/jamaoncology/fullarticle/2808731) [[code]]( https://github.com/AIM-Harvard/ChatGPT_NCCN)
 * [**BioRxiv, 2023**] A comprehensive benchmark study on biomedical text generation and mining with ChatGPT. [paper](https://www.biorxiv.org/content/10.1101/2023.04.19.537463.abstract)
