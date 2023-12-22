@@ -37,7 +37,7 @@ If you want to add your work or model to this list, please do not hesitate to em
 Markdown format:
 
 ```markdown
-- [**Name of Conference or Journal + Year**] Paper Name. [[paper]](link) [[code]](link)
+* [**Name of Conference or Journal + Year**] Paper Name. [[paper]](link) [[code]](link)
 ```
 
 ## 🤗 What is This Survey About?
@@ -156,10 +156,10 @@ This survey aims to provide insights into the opportunities and challenges of LL
 ### Prompting General LLMs
 * [**Arxiv, 2023.12**] Enhancing Medical Task Performance in GPT-4V: A Comprehensive Study on Prompt Engineering Strategies.  [paper](https://arxiv.org/abs/2312.04344)
 * [**Arxiv, 2023.11**] **MedPrompt**: Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine. [paper](https://arxiv.org/abs/2311.16452)
-*  [**Arxiv, 2023.8**] **Dr. Knows**: Leveraging a medical knowledge graph into large language models for diagnosis prediction. 2023. [paper](https://arxiv.org/abs/2308.14321)
-* [**Arxiv, 2023.3**] **DelD-GPT**: Zero-shot medical text de-identification by gpt-4. 2023. [paper](https://arxiv.org/abs/2303.11032) [code](https://github.com/yhydhx/ChatGPT-API)
-* [**Arxiv, 2023.2/5**] **ChatCAD/ChatCAD+**: Interactive computer-aided diagnosis on medical image using large language models. 2023. [paper](https://arxiv.org/abs/2302.07257) [code](https://github.com/zhaozh10/ChatCAD)
-* [**Nature, 2022.12**] **MedPaLM**: Large language models encode clinical knowledge. 2022. [paper](https://arxiv.org/abs/2212.13138) 
+* [**Arxiv, 2023.8**] **Dr. Knows**: Leveraging a medical knowledge graph into large language models for diagnosis prediction. [paper](https://arxiv.org/abs/2308.14321)
+* [**Arxiv, 2023.3**] **DelD-GPT**: Zero-shot medical text de-identification by gpt-4. [paper](https://arxiv.org/abs/2303.11032) [code](https://github.com/yhydhx/ChatGPT-API)
+* [**Arxiv, 2023.2/5**] **ChatCAD/ChatCAD+**: Interactive computer-aided diagnosis on medical image using large language models. [paper](https://arxiv.org/abs/2302.07257) [code](https://github.com/zhaozh10/ChatCAD)
+* [**Nature, 2022.12**] **MedPaLM**: Large language models encode clinical knowledge. [paper](https://arxiv.org/abs/2212.13138) 
 
 ## 📊 Practical Guide for Medical Data
 
@@ -175,15 +175,18 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * **[World Health Organization](https://www.who.int/publications/who-guidelines)**
 
 ### Pre-training Data
-* **PubMed**: National Institutes of Health. PubMed Data. In National Library of Medicine. 2022. [database](https://pubmed.ncbi.nlm.nih.gov/download/)
-* **Literature**: Construction of the literature graph in semantic scholar. 2018. [paper](https://arxiv.org/abs/1805.02262)
-* **MIMIC-III**: MIMIC-III, a freely accessible critical care database. 2016. [paper](https://www.nature.com/articles/sdata201635)
-* **PubMed**: The pile: An 800gb dataset of diverse text for language modeling. 2020. [paper](https://arxiv.org/abs/2101.00027)
-* **MedDialog**: Meddialog: Two large-scale medical dialogue datasets. 2020. [paper](https://arxiv.org/abs/2004.03329)
-* **EHRs**: A large language model for electronic health records. 2022. [paper](https://www.nature.com/articles/s41746-022-00742-2)
-* **EHRs**: A Study of Generative Large Language Model for Medical Research and Healthcare. 2023. [paper](https://arxiv.org/abs/2305.13523)
-* **Guidelines** A high-quality collection of clinical practice guidelines (CPGs) for the medical training of LLMs. [dataset](https://huggingface.co/datasets/epfl-llm/guidelines)
-* **GAP-REPLAY** Scaling Medical Pretraining for Large Language Models. 2023. [paper](https://arxiv.org/abs/2311.16079)
+* [**npj Digital Medicine, 2023**] **EHRs**: A Study of Generative Large Language Model for Medical Research and Healthcare. [paper](https://arxiv.org/abs/2305.13523)
+* [**Arxiv, 2023**] **Guidelines**: A high-quality collection of clinical practice guidelines (CPGs) for the medical training of LLMs. [dataset](https://huggingface.co/datasets/epfl-llm/guidelines)
+* [**Arxiv, 2023**] **GAP-REPLAY**: Scaling Medical Pretraining for Large Language Models. [paper](https://arxiv.org/abs/2311.16079)
+* [**npj Digital Medicine, 2022**] **EHRs**: A large language model for electronic health records. [paper](https://www.nature.com/articles/s41746-022-00742-2)
+* [**National Library of Medicine, 2022**] **PubMed**: National Institutes of Health. PubMed Data. [database](https://pubmed.ncbi.nlm.nih.gov/download/)
+* [**Arxiv, 2020**] **PubMed**: The pile: An 800gb dataset of diverse text for language modeling. [paper](https://arxiv.org/abs/2101.00027) [code](https://github.com/EleutherAI/the-pile)
+* [**EMNLP, 2020**] **MedDialog**: Meddialog: Two large-scale medical dialogue datasets. [paper](https://arxiv.org/abs/2004.03329) [code](https://github.com/UCSD-AI4H/Medical-Dialogue-System)
+* [**NAACL, 2018**] **Literature**: Construction of the literature graph in semantic scholar. [paper](https://arxiv.org/abs/1805.02262)
+* [**Scientific Data, 2016**] **MIMIC-III**: MIMIC-III, a freely accessible critical care database. [paper](https://www.nature.com/articles/sdata201635)
+
+
+
 ### Fine-tuning Data
 * **cMeKG**：Chinese Medical Knowledge Graph. 2023. [github](https://github.com/king-yyf/CMeKG_tools)
 * **CMD.**: Chinese medical dialogue data. 2023. [repo](https://github.com/Toyhom/Chinese-medical-dialogue-data)
@@ -310,7 +313,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 ## ✨ Practical Guide for Clinical Applications
 
 ### Retrieval-augmented Generation
-* Retrieve, Summarize, and Verify: How Will ChatGPT Affect Information Seeking from the Medical Literature? [paper](https://journals.lww.com/jasn/fulltext/2023/08000/retrieve,_summarize,_and_verify__how_will_chatgpt.4.aspx)
+* [**JASN, 2023**] Retrieve, Summarize, and Verify: How Will ChatGPT Affect Information Seeking from the Medical Literature? [paper](https://journals.lww.com/jasn/fulltext/2023/08000/retrieve,_summarize,_and_verify__how_will_chatgpt.4.aspx)
 
 ### Medical Diagnosis
 * Designing a Deep Learning-Driven Resource-Efficient Diagnostic System for Metastatic Breast Cancer: Reducing Long Delays of Clinical Diagnosis and Improving Patient Survival in Developing Countries. 2023. [paper](https://arxiv.org/abs/2308.02597)
