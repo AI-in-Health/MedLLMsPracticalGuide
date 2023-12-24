@@ -316,15 +316,15 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**JASN, 2023**] Retrieve, Summarize, and Verify: How Will ChatGPT Affect Information Seeking from the Medical Literature? [paper](https://journals.lww.com/jasn/fulltext/2023/08000/retrieve,_summarize,_and_verify__how_will_chatgpt.4.aspx)
 
 ### Medical Diagnosis
-* Designing a Deep Learning-Driven Resource-Efficient Diagnostic System for Metastatic Breast Cancer: Reducing Long Delays of Clinical Diagnosis and Improving Patient Survival in Developing Countries. 2023. [paper](https://arxiv.org/abs/2308.02597)
-* AI in health and medicine. 2022. [paper](https://www.nature.com/articles/s41591-021-01614-0)
-* Large language models in medicine. 2023. [paper](https://www.nature.com/articles/s41591-023-02448-8)
-* Leveraging a medical knowledge graph into large language models for diagnosis prediction. 2023. [paper](https://arxiv.org/abs/2308.14321)
-* Chatcad: Interactive computer-aided diagnosis on medical image using large language models. 2023. [paper](https://arxiv.org/abs/2302.07257)
+* [**Arxiv, 2023**] Leveraging a medical knowledge graph into large language models for diagnosis prediction. [paper](https://arxiv.org/abs/2308.14321)
+* [**Arxiv, 2023**] ChatCAD+/Chatcad: Interactive computer-aided diagnosis on medical image using large language models. [paper](https://arxiv.org/abs/2302.07257) [code](https://github.com/zhaozh10/ChatCAD)
+* [**Cancer Inform, 2023**] Designing a Deep Learning-Driven Resource-Efficient Diagnostic System for Metastatic Breast Cancer: Reducing Long Delays of Clinical Diagnosis and Improving Patient Survival in Developing Countries. [paper](https://arxiv.org/abs/2308.02597)
+* [**Nature Medicine, 2023**] Large language models in medicine. [paper](https://www.nature.com/articles/s41591-023-02448-8)
+* [**Nature Medicine, 2022**] AI in health and medicine. [paper](https://www.nature.com/articles/s41591-021-01614-0)
 
 ### Formatting and ICD-Coding
-* Applying large language model artificial intelligence for retina International Classification of Diseases (ICD) coding. 2023. [paper](https://jmai.amegroups.org/article/view/8198/html)
-* PLM-ICD: automatic ICD coding with pretrained language models. 2022. [paper](https://arxiv.org/abs/2207.05289)
+* [**JMAI, 2023**] Applying large language model artificial intelligence for retina International Classification of Diseases (ICD) coding. [paper](https://jmai.amegroups.org/article/view/8198/html)
+* [**ClinicalNLP Workshop, 2022**] PLM-ICD: automatic ICD coding with pretrained language models. [paper](https://arxiv.org/abs/2207.05289) [code](https://github.com/MiuLab/PLM-ICD)
 
 ### Clinical Report Generation
 * Using ChatGPT to write patient clinic letters. 2023. [paper](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00048-1/fulltext)
@@ -339,21 +339,22 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * Consensus, dissensus and synergy between clinicians and specialist foundation models in radiology report generation.  2023. [paper](https://arxiv.org/pdf/2311.18260.pdf)
 
 ### Medical Education
-* Large Language Models in Medical Education: Opportunities, Challenges, and Future Directions. 2023. [paper](https://mededu.jmir.org/2023/1/e48291/)
-* The Advent of Generative Language Models in Medical Education. 2023. [paper](https://mededu.jmir.org/2023/1/e48163)
-* The impending impacts of large language models on medical education. 2023. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10020064/)
+* [**JMIR, 2023**] Large Language Models in Medical Education: Opportunities, Challenges, and Future Directions. [paper](https://mededu.jmir.org/2023/1/e48291/)
+* [**JMIR, 2023**] The Advent of Generative Language Models in Medical Education. [paper](https://mededu.jmir.org/2023/1/e48163)
+* [**Korean J Med Educ., 2023**] The impending impacts of large language models on medical education. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10020064/)
+* [**Healthcare, 2023**]Leveraging Generative AI and Large Language Models: A Comprehensive Roadmap for Healthcare Integration. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10606429/)
 
 ### Medical Robotics
-* A Nested U-Structure for Instrument Segmentation in Robotic Surgery. 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10218893/)
-* The multi-trip autonomous mobile robot scheduling problem with time windows in a stochastic environment at smart hospitals. 2023. [paper](https://www.mdpi.com/2076-3417/13/17/9879)
-* Advanced robotics for medical rehabilitation. 2016. [paper](https://link.springer.com/content/pdf/10.1007/978-3-319-19896-5.pdf)
-* GRID: Scene-Graph-based Instruction-driven Robotic Task Planning. 2023. [paper](https://arxiv.org/abs/2309.07726)
-* Trust in Construction AI-Powered Collaborative Robots: A Qualitative Empirical Analysis. 2023. [paper](https://arxiv.org/abs/2308.14846)
+* [**ICARM, 2023**] A Nested U-Structure for Instrument Segmentation in Robotic Surgery. [paper](https://ieeexplore.ieee.org/abstract/document/10218893/)
+* [**Appl. Sci., 2023**] The multi-trip autonomous mobile robot scheduling problem with time windows in a stochastic environment at smart hospitals. [paper](https://www.mdpi.com/2076-3417/13/17/9879)
+* [**Arxiv, 2023**] GRID: Scene-Graph-based Instruction-driven Robotic Task Planning. [paper](https://arxiv.org/abs/2309.07726)
+* [**I3CE, 2023**] Trust in Construction AI-Powered Collaborative Robots: A Qualitative Empirical Analysis. 2023. [paper](https://arxiv.org/abs/2308.14846)
+* [**STAR, 2016**] Advanced robotics for medical rehabilitation.  [paper](https://link.springer.com/content/pdf/10.1007/978-3-319-19896-5.pdf)
 
 ### Medical Language Translation
-* Machine translation of standardised medical terminology using natural language processing: A Scoping Review. 2023. [paper](https://www.sciencedirect.com/science/article/pii/S1871678423000432)
-* The Advent of Generative Language Models in Medical Education. 2023. [paper](https://mededu.jmir.org/2023/1/e48163)
-* The impending impacts of large language models on medical education. 2023. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10020064/)
+* [**New Biotechnology, 2023**] Machine translation of standardised medical terminology using natural language processing: A Scoping Review. [paper](https://www.sciencedirect.com/science/article/pii/S1871678423000432)
+* [**JMIR, 2023**] The Advent of Generative Language Models in Medical Education. [paper](https://mededu.jmir.org/2023/1/e48163)
+* [**Korean J Med Educ., 2023**] The impending impacts of large language models on medical education. 2023. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10020064/)
 
 ### Mental Health Support
 * ChatCounselor: A Large Language Models for Mental Health Support. 2023. [paper](https://arxiv.org/abs/2309.15461)
