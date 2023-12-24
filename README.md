@@ -366,44 +366,45 @@ This survey aims to provide insights into the opportunities and challenges of LL
 ## ⚔️ Practical Guide for Challenges
 
 ### Hallucination
-* Survey of hallucination in natural language generation. 2023. [paper](https://dl.acm.org/doi/abs/10.1145/3571730)
-* Med-halt: Medical domain hallucination test for large language models. 2023. [paper](https://arxiv.org/abs/2307.15343)
-* A survey of hallucination in large foundation models. 2023. [paper](https://arxiv.org/abs/2309.05922)
-* Selfcheckgpt: Zero-resource black-box hallucination detection for generative large language models. 2023. [paper](https://arxiv.org/abs/2303.08896)
-* Retrieval augmentation reduces hallucination in conversation. 2021. [paper](https://arxiv.org/abs/2104.07567)
-* Chain-of-verification reduces hallucination in large language models. 2023. [paper](https://arxiv.org/abs/2309.11495)
+* [**ICLR Submission, 2024**] Chain-of-verification reduces hallucination in large language models. [paper](https://arxiv.org/abs/2309.11495)
+* [**ACM Computing Surveys, 2023**] Survey of hallucination in natural language generation. [paper](https://dl.acm.org/doi/abs/10.1145/3571730)
+*[**EMNLP, 2023**] Med-halt: Medical domain hallucination test for large language models. [paper](https://arxiv.org/abs/2307.15343)
+* [**Arxiv, 2023**] A survey of hallucination in large foundation models. 2023. [paper](https://arxiv.org/abs/2309.05922) [code](https://github.com/vr25/hallucination-foundation-model-survey)
+* [**EMNLP, 2023**] Selfcheckgpt: Zero-resource black-box hallucination detection for generative large language models. 2023. [paper](https://arxiv.org/abs/2303.08896)
+* [**EMNLP Findings, 2021**] Retrieval augmentation reduces hallucination in conversation. 2021. [paper](https://arxiv.org/abs/2104.07567)
+
 
 ### Lack of Evaluation Benchmarks and Metrics
-* What disease does this patient have? a large-scale open domain question answering dataset from medical exams. 2021. [paper](https://www.mdpi.com/2076-3417/11/14/6421)
-* Truthfulqa: Measuring how models mimic human falsehoods. 2021. [paper](https://arxiv.org/abs/2109.07958)
-* HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models. 2023. [paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230511747L/abstract)
+* [**ACL, 2023**] HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models. [paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230511747L/abstract) [code](https://github.com/RUCAIBox/HaluEval)
+* [**ACL, 2022**] Truthfulqa: Measuring how models mimic human falsehoods. [paper](https://arxiv.org/abs/2109.07958)
+* [**Appl. Sci, 2021**] What disease does this patient have? a large-scale open domain question answering dataset from medical exams. [paper](https://www.mdpi.com/2076-3417/11/14/6421)
 
 ### Domain Data Limitations
-* Textbooks Are All You Need. 2023. [paper](https://arxiv.org/abs/2306.11644)
-* Model Dementia: Generated Data Makes Models Forget. 2023. [paper](https://arxiv.org/abs/2305.17493)
+* [**ICLR Submission, 2024**] Textbooks Are All You Need. [paper](https://arxiv.org/abs/2306.11644)
+* [**Arxiv, 2023**] Model Dementia: Generated Data Makes Models Forget. [paper](https://arxiv.org/abs/2305.17493)
 
 ### New Knowledge Adaptation
-* Detecting Edit Failures In Large Language Models: An Improved Specificity Benchmark. 2023. [paper](https://arxiv.org/abs/2305.17553)
-* Editing Large Language Models: Problems, Methods, and Opportunities. 2023. [paper](https://arxiv.org/abs/2305.13172)
-* Retrieval-augmented generation for knowledge-intensive nlp tasks. 2020. [paper](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html)
+* [**ACL Findings, 2023**] Detecting Edit Failures In Large Language Models: An Improved Specificity Benchmark. [paper](https://arxiv.org/abs/2305.17553)
+* [**EMNLP, 2023**] Editing Large Language Models: Problems, Methods, and Opportunities. [paper](https://arxiv.org/abs/2305.13172)
+* [**NeurIPS, 2020**] Retrieval-augmented generation for knowledge-intensive nlp tasks. [paper](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html)
 
 ### Behavior Alignment
-* Aligning AI with shared human values. 2020. [paper](https://arxiv.org/abs/2008.02275)
-* Training a helpful and harmless assistant with reinforcement learning from human feedback. 2022. [paper](https://arxiv.org/abs/2204.05862)
-* Improving alignment of dialogue agents via targeted human judgements. 2022. [paper](https://arxiv.org/abs/2209.14375)
-* Webgpt: Browser-assisted question-answering with human feedback. 2021. [paper](https://arxiv.org/abs/2112.09332)
-* Languages are rewards: Hindsight finetuning using human feedback. 2023. [paper](https://arxiv.org/abs/2302.02676)
+* [**Arxiv, 2023**] Languages are rewards: Hindsight finetuning using human feedback. [paper](https://arxiv.org/abs/2302.02676) [code](https://github.com/lhao499/chain-of-hindsight)
+* [**Arxiv, 2022**] Training a helpful and harmless assistant with reinforcement learning from human feedback. [paper](https://arxiv.org/abs/2204.05862) [code](https://github.com/anthropics/hh-rlhf)
+* [**Arxiv, 2022**] Improving alignment of dialogue agents via targeted human judgements. [paper](https://arxiv.org/abs/2209.14375)
+* [**ICLR, 2021**] Aligning AI with shared human values.  [paper](https://arxiv.org/abs/2008.02275) [code](https://github.com/hendrycks/ethics/)
+* [**Arxiv, 2021.12**] Webgpt: Browser-assisted question-answering with human feedback. [paper](https://arxiv.org/abs/2112.09332)
+
 
 ### Ethical, Legal, and Safety Concerns
-* ChatGPT utility in healthcare education, research, and practice: systematic review on the promising perspectives and valid concerns. 2023. [paper](https://www.mdpi.com/2227-9032/11/6/887)
-* ChatGPT listed as author on research papers: many scientists disapprove. 2023. [paper](https://ui.adsabs.harvard.edu/abs/2023Natur.613..620S/abstract)
-* A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics. 2023. [paper](https://arxiv.org/abs/2310.05694)
-* Multi-step jailbreaking privacy attacks on chatgpt. 2023. [paper](https://arxiv.org/abs/2304.05197)
-* Jailbroken: How does llm safety training fail?. 2023. [paper](https://arxiv.org/abs/2307.02483)
-* "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models. 2023. [paper](https://arxiv.org/abs/2308.03825)
+* [**Arxiv, 2023.10**] A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics. [paper](https://arxiv.org/abs/2310.05694)
+* [**Arxiv, 2023.8**] "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models. [paper](https://arxiv.org/abs/2308.03825) [code](https://github.com/verazuo/jailbreak_llms)
+* [**NeurIPS, 2023.7**] Jailbroken: How does llm safety training fail?. [paper](https://arxiv.org/abs/2307.02483)
+* [**EMNLP, 2023.4**] Multi-step jailbreaking privacy attacks on chatgpt. [paper](https://arxiv.org/abs/2304.05197)
+* [**Healthcare, 2023.3**] ChatGPT utility in healthcare education, research, and practice: systematic review on the promising perspectives and valid concerns. [paper](https://www.mdpi.com/2227-9032/11/6/887)
+* [**Nature News, 2023.1**] ChatGPT listed as author on research papers: many scientists disapprove. [paper](https://ui.adsabs.harvard.edu/abs/2023Natur.613..620S/abstract)
 
 ## 🚀 Practical Guide for Future Directions
-
 
 ### Introduction of New Benchmarks
 * [**Arxiv, 2023.12**] Designing Guiding Principles for NLP for Healthcare: A Case Study of Maternal Health. [paper](https://arxiv.org/abs/2312.11803)
