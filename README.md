@@ -271,7 +271,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * **DDI**: Semeval-2013 task 9: Extraction of drug-drug interactions from biomedical texts (ddiextraction 2013) 2013. [paper](https://e-archivo.uc3m.es/handle/10016/20455)
 * **PGR**: A silver standard corpus of human phenotype-gene relations 2019. [paper](https://arxiv.org/abs/1903.10728)
 * **EU-ADR**: The EU-ADR corpus: annotated drugs, diseases, targets, and their relationships 2012. [paper](https://www.sciencedirect.com/science/article/pii/S1532046412000573)
-* [BioCreative VII Challenge, 2021] Medications detection in tweets using transformer networks and multi-task learning. [[paper]]( https://arxiv.org/abs/2111.13726) [[code]]( https://github.com/Machine-Learning-for-Medical-Language/SMMH-Medication-Detection)
+* [**BioCreative VII Challenge, 2021**] Medications detection in tweets using transformer networks and multi-task learning. [[paper]]( https://arxiv.org/abs/2111.13726) [[code]]( https://github.com/Machine-Learning-for-Medical-Language/SMMH-Medication-Detection)
 
 #### Relation Extraction
 * **BC5CDR**: BioCreative V CDR task corpus: a resource for chemical disease relation extraction 2016. [paper](https://academic.oup.com/database/article/doi/10.1093/database/baw068/2630414?ref=https%3A%2F%2Fgithubhelp.com&login=true)
@@ -327,16 +327,16 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**ClinicalNLP Workshop, 2022**] PLM-ICD: automatic ICD coding with pretrained language models. [paper](https://arxiv.org/abs/2207.05289) [code](https://github.com/MiuLab/PLM-ICD)
 
 ### Clinical Report Generation
-* Using ChatGPT to write patient clinic letters. 2023. [paper](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00048-1/fulltext)
-* ChatGPT: the future of discharge summaries?. 2023. [paper](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00021-3/fulltext)
-* Chatcad: Interactive computer-aided diagnosis on medical image using large language models. 2023. [paper](https://arxiv.org/abs/2302.07257)
-* Can GPT-4V (ision) Serve Medical Applications? Case Studies on GPT-4V for Multimodal Medical Diagnosis. 2023. [paper](https://arxiv.org/abs/2310.09909)
-* Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare. 2023. [paper](https://arxiv.org/abs/2310.17956)
-* Customizing General-Purpose Foundation Models for Medical Report Generation. 2023. [paper](https://arxiv.org/abs/2306.05642)
-* Towards generalist foundation model for radiology. 2023. [paper](https://arxiv.org/abs/2308.02463)
-* Clinical Text Summarization: Adapting Large Language Models Can Outperform Human Experts. 2023. [paper](https://arxiv.org/abs/2309.07430)
-* MAIRA-1: A specialised large multimodal model for radiology report generation. 2023. [paper](https://arxiv.org/abs/2311.13668)
-* Consensus, dissensus and synergy between clinicians and specialist foundation models in radiology report generation.  2023. [paper](https://arxiv.org/pdf/2311.18260.pdf)
+* [**Arxiv, 2023**] Can GPT-4V (ision) Serve Medical Applications? Case Studies on GPT-4V for Multimodal Medical Diagnosis. [paper](https://arxiv.org/abs/2310.09909)
+* [**Arxiv, 2023**] Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare. [paper](https://arxiv.org/abs/2310.17956)
+* [**Arxiv, 2023**] Customizing General-Purpose Foundation Models for Medical Report Generation. [paper](https://arxiv.org/abs/2306.05642)
+* [**Arxiv, 2023**] Towards generalist foundation model for radiology. [paper](https://arxiv.org/abs/2308.02463) [code](https://github.com/chaoyi-wu/RadFM)
+* [**Arxiv, 2023**] Clinical Text Summarization: Adapting Large Language Models Can Outperform Human Experts. 2023. [paper](https://arxiv.org/abs/2309.07430) [project](https://stanfordmimi.github.io/clin-summ/) [code](https://github.com/StanfordMIMI/clin-summ)
+* [**Arxiv, 2023**] MAIRA-1: A specialised large multimodal model for radiology report generation. [paper](https://arxiv.org/abs/2311.13668) [project](https://www.microsoft.com/en-us/research/project/project-maira/)
+* [**Arxiv, 2023**] Consensus, dissensus and synergy between clinicians and specialist foundation models in radiology report generation. [paper](https://arxiv.org/pdf/2311.18260.pdf)
+* [**Lancet Digit Health, 2023**] Using ChatGPT to write patient clinic letters. [paper](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00048-1/fulltext)
+* [**Lancet Digit Health, 2023**] ChatGPT: the future of discharge summaries?. [paper](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00021-3/fulltext)
+* [**Arxiv, 2023.2/5**] **ChatCAD/ChatCAD+**: Interactive computer-aided diagnosis on medical image using large language models. [paper](https://arxiv.org/abs/2302.07257) [code](https://github.com/zhaozh10/ChatCAD)
 
 ### Medical Education
 * [**JMIR, 2023**] Large Language Models in Medical Education: Opportunities, Challenges, and Future Directions. [paper](https://mededu.jmir.org/2023/1/e48291/)
@@ -348,21 +348,21 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**ICARM, 2023**] A Nested U-Structure for Instrument Segmentation in Robotic Surgery. [paper](https://ieeexplore.ieee.org/abstract/document/10218893/)
 * [**Appl. Sci., 2023**] The multi-trip autonomous mobile robot scheduling problem with time windows in a stochastic environment at smart hospitals. [paper](https://www.mdpi.com/2076-3417/13/17/9879)
 * [**Arxiv, 2023**] GRID: Scene-Graph-based Instruction-driven Robotic Task Planning. [paper](https://arxiv.org/abs/2309.07726)
-* [**I3CE, 2023**] Trust in Construction AI-Powered Collaborative Robots: A Qualitative Empirical Analysis. 2023. [paper](https://arxiv.org/abs/2308.14846)
+* [**I3CE, 2023**] Trust in Construction AI-Powered Collaborative Robots: A Qualitative Empirical Analysis. [paper](https://arxiv.org/abs/2308.14846)
 * [**STAR, 2016**] Advanced robotics for medical rehabilitation.  [paper](https://link.springer.com/content/pdf/10.1007/978-3-319-19896-5.pdf)
 
 ### Medical Language Translation
 * [**New Biotechnology, 2023**] Machine translation of standardised medical terminology using natural language processing: A Scoping Review. [paper](https://www.sciencedirect.com/science/article/pii/S1871678423000432)
 * [**JMIR, 2023**] The Advent of Generative Language Models in Medical Education. [paper](https://mededu.jmir.org/2023/1/e48163)
-* [**Korean J Med Educ., 2023**] The impending impacts of large language models on medical education. 2023. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10020064/)
+* [**Korean J Med Educ., 2023**] The impending impacts of large language models on medical education. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10020064/)
 
 ### Mental Health Support
-* ChatCounselor: A Large Language Models for Mental Health Support. 2023. [paper](https://arxiv.org/abs/2309.15461)
-* Tell me, what are you most afraid of? Exploring the Effects of Agent Representation on Information Disclosure in Human-Chatbot Interaction, 2023, [paper](https://link.springer.com/chapter/10.1007/978-3-031-35894-4_13)
-* A Brief Wellbeing Training Session Delivered by a Humanoid Social Robot: A Pilot Randomized Controlled Trial. 2023. [paper](https://link.springer.com/article/10.1007/s12369-023-01054-5)
-* Real conversations with artificial intelligence: A comparison between human–human online conversations and human–chatbot conversations. 2015. [paper](https://www.sciencedirect.com/science/article/pii/S0747563215001247)
-* Benefits and Harms of Large Language Models in Digital Mental Health. 2023. [paper](https://arxiv.org/abs/2311.14693)
-* PsyChat: A Client-Centric Dialogue System for Mental Health Support. 2023. [paper](https://arxiv.org/abs/2312.04262) 
+* [**Arxiv, 2023**] PsyChat: A Client-Centric Dialogue System for Mental Health Support. 2023. [paper](https://arxiv.org/abs/2312.04262) [code](https://github.com/qiuhuachuan/PsyChat)
+* [**Arxiv, 2023**] Benefits and Harms of Large Language Models in Digital Mental Health. [paper](https://arxiv.org/abs/2311.14693)
+* [**CIKM, 2023**] ChatCounselor: A Large Language Models for Mental Health Support. [paper](https://arxiv.org/abs/2309.15461) [code](https://github.com/EmoCareAI/ChatPsychiatrist)
+* [**HCII, 2023**] Tell me, what are you most afraid of? Exploring the Effects of Agent Representation on Information Disclosure in Human-Chatbot Interaction. [paper](https://link.springer.com/chapter/10.1007/978-3-031-35894-4_13)
+*  [**IJSR, 2023**] A Brief Wellbeing Training Session Delivered by a Humanoid Social Robot: A Pilot Randomized Controlled Trial. [paper](https://link.springer.com/article/10.1007/s12369-023-01054-5)
+* [**CHB, 2015**] Real conversations with artificial intelligence: A comparison between human–human online conversations and human–chatbot conversations. [paper](https://www.sciencedirect.com/science/article/pii/S0747563215001247)
 
 ## ⚔️ Practical Guide for Challenges
 
