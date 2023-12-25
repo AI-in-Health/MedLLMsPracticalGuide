@@ -443,7 +443,7 @@ Model for Generalist Ophthalmic Artificial Intelligence. [paper](https://arxiv.o
 * [LLMs Practical Guide](https://github.com/Mooler0410/LLMsPracticalGuide). The codebase we built upon and it is a comprehensive LLM survey.
 * [Large AI Survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10261199&tag=1). Large AI Models in Health Informatics: Applications, Challenges, and the Future.
 * [Nature Medicine](https://www.nature.com/articles/s41591-023-02448-8). A Survey of the Large language models in medicine.
-* [Healthcare LLMs Survey](https://arxiv.org/abs/2310.05694). A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics.
+* [Healthcare LLMs Survey](https://arxiv.org/abs/2310.05694). A Survey of Large Language Models for Healthcare.
 
 
 ## 📑 Citation
