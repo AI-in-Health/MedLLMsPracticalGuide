@@ -119,6 +119,8 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**npj Digital Medicine, 2023**] **GatorTronGPT**：A Study of Generative Large Language Model for Medical Research and Healthcare. [paper](https://arxiv.org/abs/2305.13523)
 * [**Bioinformatics, 2023**] **BioCPT**：Contrastive pre-trained transformers with large-scale pubmed search logs for zero-shot biomedical information retrieval. [paper](https://arxiv.org/abs/2307.00589)
 * [**Bioinformatics, 2022**] **BioGPT**：generative pre-trained transformer for biomedical text generation and mining. [paper](https://academic.oup.com/bib/article-abstract/23/6/bbac409/6713511)
+* [**NeurIPS, 2022**] **DRAGON**: Deep Bidirectional Language-Knowledge Graph Pretraining. [paper](https://arxiv.org/abs/2210.09338) [code](https://github.com/michiyasunaga/dragon)
+* [**ACL, 2022**] **BioLinkBERT/LinkBERT**: Pretraining Language Models with Document Links. [paper](https://arxiv.org/abs/2203.15827) [code](https://github.com/michiyasunaga/LinkBERT)
 * [**npj Digital Medicine, 2022**] **GatorTron**：A large language model for electronic health records. [paper](https://www.nature.com/articles/s41746-022-00742-2)
 * [**HEALTH, 2021**] **PubMedBERT**：Domain-specific language model pretraining for biomedical natural language processing. [paper](https://dl.acm.org/doi/abs/10.1145/3458754)
 * [**Bioinformatics, 2020**] **BioBERT**: A pre-trained biomedical language representation model for biomedical text mining. [paper](https://academic.oup.com/bioinformatics/article-abstract/36/4/1234/5566506)
