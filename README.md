@@ -133,6 +133,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Arxiv, 2023.12**] **From Beginner to Expert**: Modeling Medical Knowledge into General LLMs. 2023. [paper](https://arxiv.org/abs/2312.01040)
 * [**Arxiv, 2023.11**] **Taiyi**: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks. 2023. [paper](https://arxiv.org/abs/2311.11608) [code](https://github.com/DUTIR-BioNLP/Taiyi-LLM)
 * [**Arxiv, 2023.10**] **AlpaCare**: Instruction-tuned Large Language Models for Medical Application. [paper](https://arxiv.org/abs/2310.14558) [code](https://github.com/XZhang97666/AlpaCare)
+* [**Arxiv, 2023.10**] **Med42**: A Clinical Large Language Model. [code](https://huggingface.co/m42-health/med42-70b)
 * [**Arxiv, 2023.10**] **BianQue**：Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT. [paper](https://arxiv.org/abs/2310.15896)
 * [**Arxiv, 2023.10**] **Qilin-Med**：Multi-stage Knowledge Injection Advanced Medical Large Language Model. [paper](https://arxiv.org/abs/2310.09089)
 * [**Arxiv, 2023.10**] **Qilin-Med-VL**：Towards Chinese Large Vision-Language Model for General Healthcare. [paper](https://arxiv.org/abs/2310.17956)
