@@ -453,5 +453,13 @@ Please consider citing 📑 our papers if our repository is helpful to your work
    year={2023}
 }
 ```
+## 🌟 Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=AI-in-Health/MedLLMsPracticalGuide&type=Date)](https://star-history.com/#AI-in-Health/MedLLMsPracticalGuide&Date)
+
+## ♥️ Contributors
+
+<a href="https://github.com/AI-in-Health/MedLLMsPracticalGuide/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AI-in-Health/MedLLMsPracticalGuide" />
+</a>
 
