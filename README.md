@@ -113,7 +113,6 @@ This survey aims to provide insights into the opportunities and challenges of LL
 ## 🔥 Practical Guide for Building Pipeline
 
 ### Pre-training from Scratch
-
 * [**Arxiv, 2023**] **MEDITRON-70B**: Scaling Medical Pretraining for Large Language Models. [paper](https://arxiv.org/abs/2311.16079)
 * [**Arxiv, 2023**] **OphGLM**：Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue. [paper](https://arxiv.org/abs/2306.12174)
 * [**npj Digital Medicine, 2023**] **GatorTronGPT**：A Study of Generative Large Language Model for Medical Research and Healthcare. [paper](https://arxiv.org/abs/2305.13523)
@@ -129,7 +128,6 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**BioNLP Workshop, 2019**] **BlueBERT**：Transfer learning in biomedical natural language processing: an evaluation of BERT and ELMo on ten benchmarking datasets. [paper](https://arxiv.org/abs/1906.05474)
 
 ### Fine-tuning General LLMs
-
 * [**Arxiv, 2023.12**] **From Beginner to Expert**: Modeling Medical Knowledge into General LLMs. 2023. [paper](https://arxiv.org/abs/2312.01040)
 * [**Arxiv, 2023.11**] **Taiyi**: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks. 2023. [paper](https://arxiv.org/abs/2311.11608) [code](https://github.com/DUTIR-BioNLP/Taiyi-LLM)
 * [**Arxiv, 2023.10**] **AlpaCare**: Instruction-tuned Large Language Models for Medical Application. [paper](https://arxiv.org/abs/2310.14558) [code](https://github.com/XZhang97666/AlpaCare)
@@ -153,8 +151,6 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Arxiv, 2023.4**] **BenTsao/Huatuo**：Tuning llama model with chinese medical knowledge. [paper](https://arxiv.org/abs/2304.06975)
 * [**Github, 2023.4**] **ChatGLM-Med**：ChatGLM-Med: 基于中文医学知识的ChatGLM模型微调. [github](https://github.com/SCIR-HI/Med-ChatGLM)
 * [**Arxiv, 2023.4**] **DoctorGLM**：Fine-tuning your chinese doctor is not a herculean task. [paper](https://arxiv.org/abs/2304.01097)
-
-
 
 ### Prompting General LLMs
 * [**Arxiv, 2023.12**] Enhancing Medical Task Performance in GPT-4V: A Comprehensive Study on Prompt Engineering Strategies.  [paper](https://arxiv.org/abs/2312.04344)
@@ -187,8 +183,6 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**EMNLP, 2020**] **MedDialog**: Meddialog: Two large-scale medical dialogue datasets. [paper](https://arxiv.org/abs/2004.03329) [code](https://github.com/UCSD-AI4H/Medical-Dialogue-System)
 * [**NAACL, 2018**] **Literature**: Construction of the literature graph in semantic scholar. [paper](https://arxiv.org/abs/1805.02262)
 * [**Scientific Data, 2016**] **MIMIC-III**: MIMIC-III, a freely accessible critical care database. [paper](https://www.nature.com/articles/sdata201635)
-
-
 
 ### Fine-tuning Data
 * **cMeKG**：Chinese Medical Knowledge Graph. 2023. [github](https://github.com/king-yyf/CMeKG_tools)
@@ -316,6 +310,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 ## ✨ Practical Guide for Clinical Applications
 
 ### Retrieval-augmented Generation
+* [**Arxiv, 2023**] Think and Retrieval: A Hypothesis Knowledge Graph Enhanced Medical Large Language Models. [paper](https://arxiv.org/pdf/2312.15883.pdf)
 * [**JASN, 2023**] Retrieve, Summarize, and Verify: How Will ChatGPT Affect Information Seeking from the Medical Literature? [paper](https://journals.lww.com/jasn/fulltext/2023/08000/retrieve,_summarize,_and_verify__how_will_chatgpt.4.aspx)
 
 ### Medical Diagnosis
