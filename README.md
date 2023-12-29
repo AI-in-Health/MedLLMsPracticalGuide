@@ -388,6 +388,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**NeurIPS, 2020**] Retrieval-augmented generation for knowledge-intensive nlp tasks. [paper](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html)
 
 ### Behavior Alignment
+* [**JMIR Medical Education, 2023**] Differentiate ChatGPT-generated and Human-written Medical Texts. [paper](https://arxiv.org/abs/2304.11567)
 * [**Arxiv, 2023**] Languages are rewards: Hindsight finetuning using human feedback. [paper](https://arxiv.org/abs/2302.02676) [code](https://github.com/lhao499/chain-of-hindsight)
 * [**Arxiv, 2022**] Training a helpful and harmless assistant with reinforcement learning from human feedback. [paper](https://arxiv.org/abs/2204.05862) [code](https://github.com/anthropics/hh-rlhf)
 * [**Arxiv, 2022**] Improving alignment of dialogue agents via targeted human judgements. [paper](https://arxiv.org/abs/2209.14375)
