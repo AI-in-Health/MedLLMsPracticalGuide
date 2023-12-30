@@ -116,7 +116,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Arxiv, 2023**] **MEDITRON-70B**: Scaling Medical Pretraining for Large Language Models. [paper](https://arxiv.org/abs/2311.16079)
 * [**Arxiv, 2023**] **OphGLM**：Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue. [paper](https://arxiv.org/abs/2306.12174)
 * [**npj Digital Medicine, 2023**] **GatorTronGPT**：A Study of Generative Large Language Model for Medical Research and Healthcare. [paper](https://arxiv.org/abs/2305.13523)
-* [**Bioinformatics, 2023**] **BioCPT**：Contrastive Pre-trained Transformers with Large-scale Pubmed Search Logs for Zero-shot Biomedical Information Retrieval. [paper](https://arxiv.org/abs/2307.00589)
+* [**Bioinformatics, 2023**] **MedCPT**：Contrastive Pre-trained Transformers with Large-scale Pubmed Search Logs for Zero-shot Biomedical Information Retrieval. [paper](https://arxiv.org/abs/2307.00589)
 * [**Bioinformatics, 2022**] **BioGPT**：Generative Pre-trained Transformer for Biomedical Text Generation and Mining. [paper](https://academic.oup.com/bib/article-abstract/23/6/bbac409/6713511)
 * [**NeurIPS, 2022**] **DRAGON**: Deep Bidirectional Language-Knowledge Graph Pretraining. [paper](https://arxiv.org/abs/2210.09338) [code](https://github.com/michiyasunaga/dragon)
 * [**ACL, 2022**] **BioLinkBERT/LinkBERT**: Pretraining Language Models with Document Links. [paper](https://arxiv.org/abs/2203.15827) [code](https://github.com/michiyasunaga/LinkBERT)
