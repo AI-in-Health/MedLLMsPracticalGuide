@@ -163,7 +163,8 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Arxiv, 2023.8**] **Dr. Knows**: Leveraging a medical knowledge graph into large language models for diagnosis prediction. [paper](https://arxiv.org/abs/2308.14321)
 * [**Arxiv, 2023.3**] **DelD-GPT**: Zero-shot medical text de-identification by gpt-4. [paper](https://arxiv.org/abs/2303.11032) [code](https://github.com/yhydhx/ChatGPT-API)
 * [**Arxiv, 2023.2/5**] **ChatCAD/ChatCAD+**: Interactive computer-aided diagnosis on medical image using large language models. [paper](https://arxiv.org/abs/2302.07257) [code](https://github.com/zhaozh10/ChatCAD)
-* [**Nature, 2022.12**] **MedPaLM**: Large language models encode clinical knowledge. [paper](https://arxiv.org/abs/2212.13138) 
+* [**Nature, 2022.12**] **MedPaLM**: Large language models encode clinical knowledge. [paper](https://arxiv.org/abs/2212.13138)
+* [**Arxiv, 2022.7/2023.12**] Can large language models reason about medical questions? [paper](https://arxiv.org/abs/2207.08143) 
 
 <div align=center>
 <img src="img/Medical_LLM_evolution.png" width="800px">
