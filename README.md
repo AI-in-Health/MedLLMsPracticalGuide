@@ -39,6 +39,20 @@ Markdown format:
 ```markdown
 * [**Name of Conference or Journal + Year**] Paper Name. [[paper]](link) [[code]](link)
 ```
+## 🤔 What are the Goals of the Medical LLM?
+
+**Goal 1: Surpassing Human-Level Expertise**.
+
+<div align=center>
+<img src="img/Medical_LLM_evolution.png" width="800px">
+</div>
+
+**Goal 2: Emergent Properties of Medical LLM with the Model Size Scaling Up**.
+
+<div align=center>
+<img src="img/Medical_LLM_parameter.png" width="800px">
+</div>
+
 
 ## 🤗 What is This Survey About?
 This survey provides a comprehensive overview of the principles, applications, and challenges faced by LLMs in medicine. We address the following specific questions: 
@@ -49,6 +63,7 @@ This survey provides a comprehensive overview of the principles, applications, a
 5.  How should we better construct and utilize medical LLMs? 
 
 This survey aims to provide insights into the opportunities and challenges of LLMs in medicine, and serve as a practical resource for constructing effective medical LLMs. 
+
 
 
 ##  📣 Update News
@@ -166,9 +181,6 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Nature, 2022.12**] **MedPaLM**: Large language models encode clinical knowledge. [paper](https://arxiv.org/abs/2212.13138)
 * [**Arxiv, 2022.7/2023.12**] Can large language models reason about medical questions? [paper](https://arxiv.org/abs/2207.08143) 
 
-<div align=center>
-<img src="img/Medical_LLM_evolution.png" width="800px">
-</div>
 
 ## 📊 Practical Guide for Medical Data
 
