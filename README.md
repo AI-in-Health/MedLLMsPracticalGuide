@@ -51,7 +51,9 @@ This survey provides a comprehensive overview of the principles, applications, a
 This survey aims to provide insights into the opportunities and challenges of LLMs in medicine, and serve as a practical resource for constructing effective medical LLMs. 
 
 
-##  📣 Update Notes
+##  📣 Update News
+`[2024-01-08]` 🍻🍻🍻 Cheers! Our GitHub repository has reached over 300 stars<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AI-in-Health/MedLLMsPracticalGuide?logoColor=%23C8A2C8&color=%23DCC6E0">. We have updated the Medical LLM trees and evolution map. Stay tuned for Version 3, coming soon!
+
 `[2023-12-19]` ✨✨✨ Our survey has obtained 600+ likes in the [twitter](https://x.com/omarsar0/status/1734599425568231513?s=20). We are actively developing a new version and welcome your positive criticisms and suggestions.
 
 `[2023-12-11]` We have updated our survey [version 2](https://arxiv.org/abs/2311.05112). Please check it out!
@@ -111,6 +113,9 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [📑 Citation](#-citation)
 
 ## 🔥 Practical Guide for Building Pipeline
+<div align=center>
+<img src="img/Medical_LLMs_tree.png" width="1000px">
+</div>
 
 ### Pre-training from Scratch
 * [**Arxiv, 2023**] **MEDITRON-70B**: Scaling Medical Pretraining for Large Language Models. [paper](https://arxiv.org/abs/2311.16079)
@@ -136,7 +141,8 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Arxiv, 2023.10**] **Qilin-Med**：Multi-stage Knowledge Injection Advanced Medical Large Language Model. [paper](https://arxiv.org/abs/2310.09089)
 * [**Arxiv, 2023.10**] **Qilin-Med-VL**：Towards Chinese Large Vision-Language Model for General Healthcare. [paper](https://arxiv.org/abs/2310.17956)
 * [**Arxiv, 2023.9**] **CPLLM**: Clinical Prediction with Large Language Models. [paper](https://arxiv.org/abs/2309.11295)
-* [**Nature Digital Medicine, 2023.8**] Large Language Models to Identify Social Determinants of Health in Electronic Health Records. [[paper]](https://arxiv.org/abs/2308.06354) [[code]](https://github.com/AIM-Harvard/SDoH)
+* [**Arxiv, 2023.8**] **BioMedGPT/OpenBioMed** Open Multimodal Generative Pre-trained Transformer for BioMedicine. [paper](https://arxiv.org/abs/2308.09442) [code](https://github.com/PharMolix/OpenBioMed)
+* [**Nature Digital Medicine, 2023.8**] Large Language Models to Identify Social Determinants of Health in Electronic Health Records. [paper](https://arxiv.org/abs/2308.06354) [[code]](https://github.com/AIM-Harvard/SDoH)
 * [**Arxiv, 2023.8**] **Zhongjing**：Enhancing the Chinese medical capabilities of large language model through expert feedback and real-world multi-turn dialogue. [paper](https://arxiv.org/abs/2308.03549)
 * [**Arxiv, 2023.6**] **ClinicalGPT**：Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation. 2023. [paper](https://arxiv.org/abs/2306.09968)
 * [**Cureus, 2023.6**] **ChatDoctor**：A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge. [paper](https://www.cureus.com/articles/152858-chatdoctor-a-medical-chat-model-fine-tuned-on-a-large-language-model-meta-ai-llama-using-medical-domain-knowledge.pdf)
@@ -159,6 +165,10 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Arxiv, 2023.3**] **DelD-GPT**: Zero-shot medical text de-identification by gpt-4. [paper](https://arxiv.org/abs/2303.11032) [code](https://github.com/yhydhx/ChatGPT-API)
 * [**Arxiv, 2023.2/5**] **ChatCAD/ChatCAD+**: Interactive computer-aided diagnosis on medical image using large language models. [paper](https://arxiv.org/abs/2302.07257) [code](https://github.com/zhaozh10/ChatCAD)
 * [**Nature, 2022.12**] **MedPaLM**: Large language models encode clinical knowledge. [paper](https://arxiv.org/abs/2212.13138) 
+
+<div align=center>
+<img src="img/Medical_LLM_evolution.png" width="800px">
+</div>
 
 ## 📊 Practical Guide for Medical Data
 
