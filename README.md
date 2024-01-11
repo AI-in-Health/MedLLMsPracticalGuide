@@ -22,7 +22,7 @@ It's based on our survey paper:
 
 > [A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges](https://arxiv.org/abs/2311.05112)
 
-> *Hongjian Zhou<sup>1,\*</sup>, Fenglin Liu<sup>1,\*</sup>, Boyang Gu<sup>2,\*</sup>, Xinyu Zhou<sup>3,\*</sup>, Jinfa Huang<sup>4,\*</sup>, Jinge Wu<sup>5</sup>, Yiru Li<sup>6</sup>, Sam S. Chen<sup>7</sup>, Peilin Zhou<sup>8</sup>, Junling Liu<sup>9</sup>, Yining Hua<sup>10</sup>,
+> *Hongjian Zhou<sup>1,\*</sup>, Fenglin Liu<sup>1,\*</sup>, Boyang Gu<sup>2,\*</sup>, Xinyu Zou<sup>3,\*</sup>, Jinfa Huang<sup>4,\*</sup>, Jinge Wu<sup>5</sup>, Yiru Li<sup>6</sup>, Sam S. Chen<sup>7</sup>, Peilin Zhou<sup>8</sup>, Junling Liu<sup>9</sup>, Yining Hua<sup>10</sup>,
 Chengfeng Mao<sup>11</sup>, Chenyu You<sup>12</sup>, Xian Wu<sup>13</sup>, Yefeng Zheng<sup>13</sup>, Lei Clifton<sup>1</sup>,
 Zheng Li<sup>14,†</sup>, Jiebo Luo<sup>4,†</sup>, 
 David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Authors)
