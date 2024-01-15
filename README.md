@@ -477,9 +477,6 @@ Please consider citing 📑 our papers if our repository is helpful to your work
   year={2023}
 }
 ```
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=AI-in-Health/MedLLMsPracticalGuide&type=Date)](https://star-history.com/#AI-in-Health/MedLLMsPracticalGuide&Date)
 
 ## ♥️ Contributors
 
