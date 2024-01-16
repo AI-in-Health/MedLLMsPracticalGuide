@@ -11,6 +11,7 @@
    [![arxiv](https://img.shields.io/badge/Arxiv-2311.05112-red)](https://arxiv.org/pdf/2311.05112.pdf)
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAI-in-Health%2FMedLLMsPracticalGuide&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
    [![twitter](https://img.shields.io/badge/Twitter%40elvis%20-black?logo=twitter&logoColor=1D9BF0&color=black&link=https%3A%2F%2Ftwitter.com%2Fomarsar0%2Fstatus%2F1734599425568231513%3Fs%3D61%26t%3D8Li3X-wK0wxSRkHjNK7Pfw)](https://x.com/omarsar0/status/1734599425568231513?s=20)
+   [![TechBeat](https://img.shields.io/badge/将门创投%20-black)](https://mp.weixin.qq.com/s/gV3HHkVQXgR-Cego1P0ZBQ)
    [![YouTube](https://img.shields.io/badge/-YouTube-000000?logo=youtube&logoColor=FF0000)](https://www.youtube.com/watch?v=mSlKPzmW3Ac&t=23s)
    ![GitHub Repo stars](https://img.shields.io/github/stars/AI-in-Health/MedLLMsPracticalGuide?logoColor=%23C8A2C8&color=%23DCC6E0)
 
