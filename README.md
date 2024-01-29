@@ -254,7 +254,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * **CORD-19**: Cord-19: The covid-19 open research dataset 2020. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7251955/)
 * **MentSum**: Mentsum: A resource for exploring summarization of mental health online posts 2022. [paper](https://arxiv.org/abs/2206.00856)
 * **MeQSum**: On the summarization of consumer health questions 2019. [paper](https://aclanthology.org/P19-1215/)
-* [**SITA, 2023**] Enhancing Large Language Models’ Utility for Medical Question-Answering: A Patient Health Question Summarization Approach. [[paper]](https://doi.org/10.1109/SITA60746.2023.10373720) [[code]](https://github.com/zekaouinoureddine/MedQSum)
+* **MedQSum**: Enhancing Large Language Models’ Utility for Medical Question-Answering: A Patient Health Question Summarization Approach. [[paper]](https://doi.org/10.1109/SITA60746.2023.10373720) [[code]](https://github.com/zekaouinoureddine/MedQSum)
 
 #### Text Simplification
 * **MultiCochrane**: Multilingual Simplification of Medical Texts 2023. [paper](https://arxiv.org/abs/2305.12532)
