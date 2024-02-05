@@ -33,6 +33,19 @@ David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Author
 <sup>7</sup>University of Georgia, <sup>8</sup>Hong Kong University of Science and Technology (Guangzhou),
 <sup>9</sup>Alibaba, <sup>10</sup>Harvard T.H. Chan School of Public Health, <sup>11</sup>MIT, <sup>12</sup>Yale University, <sup>13</sup>Tencent, <sup>14</sup>Amazon*
 
+##  📣 Update News
+`[2024-02-04]` 🍻🍻🍻 Cheers, Happy Chinese New Year! We have updated our [Version 3](https://arxiv.org/abs/2311.05112). Please check it out!
+
+`[2024-01-08]` 🍻🍻🍻 Cheers, Happy New Year! Our GitHub repository has reached over 300 stars<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AI-in-Health/MedLLMsPracticalGuide?logoColor=%23C8A2C8&color=%23DCC6E0">. We have updated the Medical LLM trees and evolution map. Stay tuned for Version 3, coming soon! 
+
+`[2023-12-19]` ✨✨✨ Our survey has obtained 600+ likes in the [twitter](https://x.com/omarsar0/status/1734599425568231513?s=20). We are actively developing a new version and welcome your positive criticisms and suggestions.
+
+`[2023-12-11]` We have updated our survey [Version 2](https://arxiv.org/abs/2311.05112). Please check it out!
+
+`[2023-12-04]` We updated the outline image and radar chart evaluation of Medical LLM. 
+
+`[2023-11-09]` We released the repository.
+
 ## ⚡ Contributing
 
 If you want to add your work or model to this list, please do not hesitate to email fenglin.liu@eng.ox.ac.uk and jhuang90@ur.rochester.edu or [pull requests]([https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging/pulls](https://github.com/AI-in-Health/MedLLMsPracticalGuide/pulls)).
@@ -66,21 +79,6 @@ This survey provides a comprehensive overview of the principles, applications, a
 
 This survey aims to provide insights into the opportunities and challenges of LLMs in medicine, and serve as a practical resource for constructing effective medical LLMs. 
 
-
-
-##  📣 Update News
-`[2024-02-04]` 🍻🍻🍻 Cheers, Happy Chinese New Year! We have updated our [Version 3](https://arxiv.org/abs/2311.05112). Please check it out!
-
-`[2024-01-08]` 🍻🍻🍻 Cheers, Happy New Year! Our GitHub repository has reached over 300 stars<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AI-in-Health/MedLLMsPracticalGuide?logoColor=%23C8A2C8&color=%23DCC6E0">. We have updated the Medical LLM trees and evolution map. Stay tuned for Version 3, coming soon! 
-
-`[2023-12-19]` ✨✨✨ Our survey has obtained 600+ likes in the [twitter](https://x.com/omarsar0/status/1734599425568231513?s=20). We are actively developing a new version and welcome your positive criticisms and suggestions.
-
-`[2023-12-11]` We have updated our survey [Version 2](https://arxiv.org/abs/2311.05112). Please check it out!
-
-`[2023-12-04]` We updated the outline image and radar chart evaluation of Medical LLM. 
-
-
-`[2023-11-09]` We released the repository.
 
 ## Table of Contents
 <div align=center>
