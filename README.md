@@ -334,6 +334,10 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 ## ✨ Practical Guide for Clinical Applications
 
+<div align=center>
+<img src="img/Medical_LLM_Application.png" width="800px">
+</div>
+
 ### Retrieval-augmented Generation
 * [**Arxiv, 2023**] Think and Retrieval: A Hypothesis Knowledge Graph Enhanced Medical Large Language Models. [paper](https://arxiv.org/pdf/2312.15883.pdf)
 * [**JASN, 2023**] Retrieve, Summarize, and Verify: How Will ChatGPT Affect Information Seeking from the Medical Literature? [paper](https://journals.lww.com/jasn/fulltext/2023/08000/retrieve,_summarize,_and_verify__how_will_chatgpt.4.aspx)
@@ -389,6 +393,10 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 ## ⚔️ Practical Guide for Challenges
 
+<div align=center>
+<img src="img/Medical_LLM_Challenge.png" width="800px">
+</div>
+
 ### Hallucination
 * [**ICLR Submission, 2024**] Chain-of-verification reduces hallucination in large language models. [paper](https://arxiv.org/abs/2309.11495)
 * [**ACM Computing Surveys, 2023**] Survey of hallucination in natural language generation. [paper](https://dl.acm.org/doi/abs/10.1145/3571730)
@@ -430,6 +438,10 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Nature News, 2023.1**] ChatGPT listed as author on research papers: many scientists disapprove. [paper](https://ui.adsabs.harvard.edu/abs/2023Natur.613..620S/abstract)
 
 ## 🚀 Practical Guide for Future Directions
+
+<div align=center>
+<img src="img/Medical_LLM_Future.png" width="800px">
+</div>
 
 ### Introduction of New Benchmarks
 * [**Arxiv, 2023.12**] Designing Guiding Principles for NLP for Healthcare: A Case Study of Maternal Health. [paper](https://arxiv.org/abs/2312.11803)
