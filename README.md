@@ -400,7 +400,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 ### Hallucination
 * [**ICLR Submission, 2024**] Chain-of-verification reduces hallucination in large language models. [paper](https://arxiv.org/abs/2309.11495)
 * [**ACM Computing Surveys, 2023**] Survey of hallucination in natural language generation. [paper](https://dl.acm.org/doi/abs/10.1145/3571730)
-*[**EMNLP, 2023**] Med-halt: Medical domain hallucination test for large language models. [paper](https://arxiv.org/abs/2307.15343)
+* [**EMNLP, 2023**] Med-halt: Medical domain hallucination test for large language models. [paper](https://arxiv.org/abs/2307.15343)
 * [**Arxiv, 2023**] A survey of hallucination in large foundation models. 2023. [paper](https://arxiv.org/abs/2309.05922) [code](https://github.com/vr25/hallucination-foundation-model-survey)
 * [**EMNLP, 2023**] Selfcheckgpt: Zero-resource black-box hallucination detection for generative large language models. 2023. [paper](https://arxiv.org/abs/2303.08896)
 * [**EMNLP Findings, 2021**] Retrieval augmentation reduces hallucination in conversation. 2021. [paper](https://arxiv.org/abs/2104.07567)
