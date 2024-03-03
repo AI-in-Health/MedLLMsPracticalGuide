@@ -485,7 +485,7 @@ Please consider citing 📑 our papers if our repository is helpful to your work
 
 ```bibtex
 @article{zhou2023survey,
-  title={A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges},
+  title={A Survey of Large Language Models in Medicine: Progress, Application, and Challenge},
   author={Hongjian Zhou, Fenglin Liu, Boyang Gu, Xinyu Zou, Jinfa Huang, Jinge Wu, Yiru Li, Sam S. Chen, Peilin Zhou, Junling Liu, Yining Hua, Chengfeng Mao, Xian Wu, Yefeng Zheng, Lei Clifton, Zheng Li, Jiebo Luo, David A. Clifton},
   journal={arXiv preprint arXiv:2311.05112},
   year={2023}
