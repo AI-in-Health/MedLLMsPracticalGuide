@@ -34,6 +34,9 @@ David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Author
 <sup>9</sup>Alibaba, <sup>10</sup>Harvard T.H. Chan School of Public Health, <sup>11</sup>MIT, <sup>12</sup>Yale University, <sup>13</sup>Tencent, <sup>14</sup>Amazon*
 
 ##  📣 Update News
+
+`[2024-03-03]` We have updated our [Version 4](https://arxiv.org/abs/2311.05112). Please check it out!
+
 `[2024-02-04]` 🍻🍻🍻 Cheers, Happy Chinese New Year! We have updated our [Version 3](https://arxiv.org/abs/2311.05112). Please check it out!
 
 `[2024-01-08]` 🍻🍻🍻 Cheers, Happy New Year! Our GitHub repository has reached over 300 stars<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AI-in-Health/MedLLMsPracticalGuide?logoColor=%23C8A2C8&color=%23DCC6E0">. We have updated the Medical LLM trees and evolution map. Stay tuned for Version 3, coming soon! 
