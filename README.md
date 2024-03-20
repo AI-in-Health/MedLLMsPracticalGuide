@@ -474,6 +474,7 @@ Model for Generalist Ophthalmic Artificial Intelligence. [paper](https://arxiv.o
 * [**Arxiv, 2023**] MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning. [paper](https://arxiv.org/abs/2311.10537) [code](https://github.com/gersteinlab/MedAgents)
 * [**Arxiv, 2023**] GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information.  [paper](https://arxiv.org/abs/2304.09667) [code](https://github.com/ncbi/GeneGPT)
 * [**MedRxiv, 2023**] OpenMedCalc: Augmentation of ChatGPT with Clinician-Informed Tools Improves Performance on Medical Calculation Tasks. [paper](https://www.medrxiv.org/content/10.1101/2023.12.13.23299881v1)
+* [**NEJM AI, 2024**] Almanac — Retrieval-Augmented Language Models for Clinical Medicine. [paper](https://ai.nejm.org/doi/full/10.1056/AIoa2300068)
 
 ## 👍 Acknowledgement
 * [LLMs Practical Guide](https://github.com/Mooler0410/LLMsPracticalGuide). The codebase we built upon and it is a comprehensive LLM survey.
