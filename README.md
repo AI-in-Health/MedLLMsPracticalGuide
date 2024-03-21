@@ -387,6 +387,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Korean J Med Educ., 2023**] The impending impacts of large language models on medical education. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10020064/)
 
 ### Mental Health Support
+* [**Arxiv, 2024**] Large Language Models in Mental Health Care: a Scoping Review. 2023. [paper](https://arxiv.org/abs/2401.02984)
 * [**Arxiv, 2023**] PsyChat: A Client-Centric Dialogue System for Mental Health Support. 2023. [paper](https://arxiv.org/abs/2312.04262) [code](https://github.com/qiuhuachuan/PsyChat)
 * [**Arxiv, 2023**] Benefits and Harms of Large Language Models in Digital Mental Health. [paper](https://arxiv.org/abs/2311.14693)
 * [**CIKM, 2023**] ChatCounselor: A Large Language Models for Mental Health Support. [paper](https://arxiv.org/abs/2309.15461) [code](https://github.com/EmoCareAI/ChatPsychiatrist)
