@@ -387,12 +387,12 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Korean J Med Educ., 2023**] The impending impacts of large language models on medical education. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10020064/)
 
 ### Mental Health Support
-* [**Arxiv, 2024**] Large Language Models in Mental Health Care: a Scoping Review. 2023. [paper](https://arxiv.org/abs/2401.02984)
-* [**Arxiv, 2023**] PsyChat: A Client-Centric Dialogue System for Mental Health Support. 2023. [paper](https://arxiv.org/abs/2312.04262) [code](https://github.com/qiuhuachuan/PsyChat)
+* [**Arxiv, 2024**] Large Language Models in Mental Health Care: a Scoping Review. [paper](https://arxiv.org/abs/2401.02984)
+* [**Arxiv, 2023**] PsyChat: A Client-Centric Dialogue System for Mental Health Support. [paper](https://arxiv.org/abs/2312.04262) [code](https://github.com/qiuhuachuan/PsyChat)
 * [**Arxiv, 2023**] Benefits and Harms of Large Language Models in Digital Mental Health. [paper](https://arxiv.org/abs/2311.14693)
 * [**CIKM, 2023**] ChatCounselor: A Large Language Models for Mental Health Support. [paper](https://arxiv.org/abs/2309.15461) [code](https://github.com/EmoCareAI/ChatPsychiatrist)
 * [**HCII, 2023**] Tell me, what are you most afraid of? Exploring the Effects of Agent Representation on Information Disclosure in Human-Chatbot Interaction. [paper](https://link.springer.com/chapter/10.1007/978-3-031-35894-4_13)
-*  [**IJSR, 2023**] A Brief Wellbeing Training Session Delivered by a Humanoid Social Robot: A Pilot Randomized Controlled Trial. [paper](https://link.springer.com/article/10.1007/s12369-023-01054-5)
+* [**IJSR, 2023**] A Brief Wellbeing Training Session Delivered by a Humanoid Social Robot: A Pilot Randomized Controlled Trial. [paper](https://link.springer.com/article/10.1007/s12369-023-01054-5)
 * [**CHB, 2015**] Real conversations with artificial intelligence: A comparison between human–human online conversations and human–chatbot conversations. [paper](https://www.sciencedirect.com/science/article/pii/S0747563215001247)
 
 ## ⚔️ Practical Guide for Challenges
