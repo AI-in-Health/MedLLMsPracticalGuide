@@ -407,6 +407,10 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 
 ### Lack of Evaluation Benchmarks and Metrics
+* [**Arxiv, 2024**] Large Language Models in Healthcare: A Comprehensive Benchmark. [paper](https://arxiv.org/abs/2405.00716)
+* [**Nature Reviews Bioengineering, 2023**] Benchmarking medical large language models. [paper](https://www.nature.com/articles/s44222-023-00097-7)
+* [**Bioinformatics, 2023**] An extensive benchmark study on biomedical text generation and mining with ChatGPT. [paper](https://academic.oup.com/bioinformatics/article/39/9/btad557/7264174)
+* [**Arxiv, 2023**] Large language models in biomedical natural language processing: benchmarks, baselines, and recommendations. [paper](https://arxiv.org/abs/2305.16326)
 * [**ACL, 2023**] HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models. [paper](https://ui.adsabs.harvard.edu/abs/2023arXiv230511747L/abstract) [code](https://github.com/RUCAIBox/HaluEval)
 * [**ACL, 2022**] Truthfulqa: Measuring how models mimic human falsehoods. [paper](https://arxiv.org/abs/2109.07958)
 * [**Appl. Sci, 2021**] What disease does this patient have? a large-scale open domain question answering dataset from medical exams. [paper](https://www.mdpi.com/2076-3417/11/14/6421)
