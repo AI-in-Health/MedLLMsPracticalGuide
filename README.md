@@ -482,6 +482,7 @@ Model for Generalist Ophthalmic Artificial Intelligence. [paper](https://arxiv.o
 * [**Arxiv, 2023**] GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information.  [paper](https://arxiv.org/abs/2304.09667) [code](https://github.com/ncbi/GeneGPT)
 * [**MedRxiv, 2023**] OpenMedCalc: Augmentation of ChatGPT with Clinician-Informed Tools Improves Performance on Medical Calculation Tasks. [paper](https://www.medrxiv.org/content/10.1101/2023.12.13.23299881v1)
 * [**NEJM AI, 2024**] Almanac — Retrieval-Augmented Language Models for Clinical Medicine. [paper](https://ai.nejm.org/doi/full/10.1056/AIoa2300068)
+* [**Arxiv, 2024**] AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments [paper]([https://ai.nejm.org/doi/full/10.1056/AIoa2300068](https://arxiv.org/pdf/2405.07960))
 
 ## 👍 Acknowledgement
 * [LLMs Practical Guide](https://github.com/Mooler0410/LLMsPracticalGuide). The codebase we built upon and it is a comprehensive LLM survey.
