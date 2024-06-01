@@ -404,7 +404,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 </div>
 
 ### Hallucination
-* [**ICLR Submission, 2024**] Chain-of-verification reduces hallucination in large language models. [paper](https://arxiv.org/abs/2309.11495)
+* [**Arxiv, 2024**] Chain-of-verification reduces hallucination in large language models. [paper](https://arxiv.org/abs/2309.11495)
 * [**ACM Computing Surveys, 2023**] Survey of hallucination in natural language generation. [paper](https://dl.acm.org/doi/abs/10.1145/3571730)
 * [**EMNLP, 2023**] Med-halt: Medical domain hallucination test for large language models. [paper](https://arxiv.org/abs/2307.15343)
 * [**Arxiv, 2023**] A survey of hallucination in large foundation models. 2023. [paper](https://arxiv.org/abs/2309.05922) [code](https://github.com/vr25/hallucination-foundation-model-survey)
@@ -422,7 +422,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Appl. Sci, 2021**] What disease does this patient have? a large-scale open domain question answering dataset from medical exams. [paper](https://www.mdpi.com/2076-3417/11/14/6421)
 
 ### Domain Data Limitations
-* [**ICLR Submission, 2024**] Textbooks Are All You Need. [paper](https://arxiv.org/abs/2306.11644)
+* [**Arxiv, 2023**] Textbooks Are All You Need. [paper](https://arxiv.org/abs/2306.11644)
 * [**Arxiv, 2023**] Model Dementia: Generated Data Makes Models Forget. [paper](https://arxiv.org/abs/2305.17493)
 
 ### New Knowledge Adaptation
@@ -483,6 +483,7 @@ Model for Generalist Ophthalmic Artificial Intelligence. [paper](https://arxiv.o
 * [**MedRxiv, 2023**] OpenMedCalc: Augmentation of ChatGPT with Clinician-Informed Tools Improves Performance on Medical Calculation Tasks. [paper](https://www.medrxiv.org/content/10.1101/2023.12.13.23299881v1)
 * [**NEJM AI, 2024**] Almanac — Retrieval-Augmented Language Models for Clinical Medicine. [paper](https://ai.nejm.org/doi/full/10.1056/AIoa2300068)
 * [**Arxiv, 2024**] AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments [paper]([https://ai.nejm.org/doi/full/10.1056/AIoa2300068](https://arxiv.org/pdf/2405.07960))
+* [**Arxiv, 2024**] MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making. [paper](https://arxiv.org/abs/2404.15155) [code](https://github.com/mitmedialab/MDAgents)
 
 ## 👍 Acknowledgement
 * [LLMs Practical Guide](https://github.com/Mooler0410/LLMsPracticalGuide). The codebase we built upon and it is a comprehensive LLM survey.
