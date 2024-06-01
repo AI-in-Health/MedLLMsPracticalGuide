@@ -35,6 +35,8 @@ David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Author
 
 ##  📣 Update News
 
+`[2024-05-05]` We have updated our [Version 5](https://arxiv.org/abs/2311.05112). Please check it out!
+
 `[2024-04-04]` 🍻🍻🍻 Cheers! Our GitHub repository has achieved 500 stars<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AI-in-Health/MedLLMsPracticalGuide?logoColor=%23C8A2C8&color=%23DCC6E0">. We are actively developing a new version and welcome your positive criticisms and suggestions.
 
 `[2024-03-03]` We have updated our [Version 4](https://arxiv.org/abs/2311.05112). Please check it out!
