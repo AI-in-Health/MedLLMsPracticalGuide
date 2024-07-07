@@ -140,6 +140,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 </div>
 
 ### Pre-training from Scratch
+* [**Nature, 2023**] **NYUTron** Health system-scale language models are all-purpose prediction engines [paper](https://www.nature.com/articles/s41586-023-06160-y)
 * [**Arxiv, 2023**] **MEDITRON-70B**: Scaling Medical Pretraining for Large Language Models. [paper](https://arxiv.org/abs/2311.16079)
 * [**Arxiv, 2023**] **OphGLM**：Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue. [paper](https://arxiv.org/abs/2306.12174)
 * [**npj Digital Medicine, 2023**] **GatorTronGPT**：A Study of Generative Large Language Model for Medical Research and Healthcare. [paper](https://arxiv.org/abs/2305.13523)
@@ -203,6 +204,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * **[World Health Organization](https://www.who.int/publications/who-guidelines)**
 
 ### Pre-training Data
+* [**NEJM AI, 2024**] Clinical Text Datasets for Medical Artificial Intelligence and Large Language Models — A Systematic Review [paper](https://ai.nejm.org/doi/full/10.1056/AIra2400012)
 * [**npj Digital Medicine, 2023**] **EHRs**: A Study of Generative Large Language Model for Medical Research and Healthcare. [paper](https://arxiv.org/abs/2305.13523)
 * [**Arxiv, 2023**] **Guidelines**: A high-quality collection of clinical practice guidelines (CPGs) for the medical training of LLMs. [dataset](https://huggingface.co/datasets/epfl-llm/guidelines)
 * [**Arxiv, 2023**] **GAP-REPLAY**: Scaling Medical Pretraining for Large Language Models. [paper](https://arxiv.org/abs/2311.16079)
@@ -344,6 +346,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 </div>
 
 ### Retrieval-augmented Generation
+* [**NEJM, 2024**] GPT-4 for Information Retrieval and Comparison of Medical Oncology Guidelines. [paper](https://ai.nejm.org/doi/abs/10.1056/AIcs2300235)
 * [**Arxiv, 2023**] Think and Retrieval: A Hypothesis Knowledge Graph Enhanced Medical Large Language Models. [paper](https://arxiv.org/pdf/2312.15883.pdf)
 * [**JASN, 2023**] Retrieve, Summarize, and Verify: How Will ChatGPT Affect Information Seeking from the Medical Literature? [paper](https://journals.lww.com/jasn/fulltext/2023/08000/retrieve,_summarize,_and_verify__how_will_chatgpt.4.aspx)
 
