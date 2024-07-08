@@ -58,7 +58,7 @@ Markdown format:
 **Goal 1: Surpassing Human-Level Expertise**.
 
 <div align=center>
-<img src="img/Medical_LLM_evolution.png" width="800px">
+<img src="img/Medical_LLM_evolution_v1.png" width="800px">
 </div>
 
 **Goal 2: Emergent Properties of Medical LLM with the Model Size Scaling Up**.
@@ -158,12 +158,12 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Arxiv, 2023.12**] **From Beginner to Expert**: Modeling Medical Knowledge into General LLMs. 2023. [paper](https://arxiv.org/abs/2312.01040)
 * [**Arxiv, 2023.11**] **Taiyi**: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks. 2023. [paper](https://arxiv.org/abs/2311.11608) [code](https://github.com/DUTIR-BioNLP/Taiyi-LLM)
 * [**Arxiv, 2023.10**] **AlpaCare**: Instruction-tuned Large Language Models for Medical Application. [paper](https://arxiv.org/abs/2310.14558) [code](https://github.com/XZhang97666/AlpaCare)
-* [**Arxiv, 2023.10**] **Med42**: A Clinical Large Language Model. [code](https://huggingface.co/m42-health/med42-70b)
+<!-- * [**Arxiv, 2023.10**] **Med42**: A Clinical Large Language Model. [code](https://huggingface.co/m42-health/med42-70b) -->
 * [**Arxiv, 2023.10**] **BianQue**：Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT. [paper](https://arxiv.org/abs/2310.15896)
 * [**Arxiv, 2023.10**] **Qilin-Med**：Multi-stage Knowledge Injection Advanced Medical Large Language Model. [paper](https://arxiv.org/abs/2310.09089)
 * [**Arxiv, 2023.10**] **Qilin-Med-VL**：Towards Chinese Large Vision-Language Model for General Healthcare. [paper](https://arxiv.org/abs/2310.17956)
 * [**Arxiv, 2023.10**] **MEDITRON-70B**: Scaling Medical Pretraining for Large Language Models. [paper](https://arxiv.org/abs/2311.16079)
-* [**AAAI, 2024**] **Med42**:  Evaluating Fine-Tuning Strategies for Medical LLMs: Full-Parameter vs. Parameter-Efficient Approaches. [paper](https://arxiv.org/abs/2404.14779) [Model](https://huggingface.co/m42-health/med42-70b)
+* [**AAAI, 2024/2023.10**] **Med42**:  Evaluating Fine-Tuning Strategies for Medical LLMs: Full-Parameter vs. Parameter-Efficient Approaches. [paper](https://arxiv.org/abs/2404.14779) [Model](https://huggingface.co/m42-health/med42-70b)
 * [**Arxiv, 2023.9**] **CPLLM**: Clinical Prediction with Large Language Models. [paper](https://arxiv.org/abs/2309.11295)
 * [**Arxiv, 2023.8**] **BioMedGPT/OpenBioMed** Open Multimodal Generative Pre-trained Transformer for BioMedicine. [paper](https://arxiv.org/abs/2308.09442) [code](https://github.com/PharMolix/OpenBioMed)
 * [**Nature Digital Medicine, 2023.8**] Large Language Models to Identify Social Determinants of Health in Electronic Health Records. [paper](https://arxiv.org/abs/2308.06354) [[code]](https://github.com/AIM-Harvard/SDoH)
