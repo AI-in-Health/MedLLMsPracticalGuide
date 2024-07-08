@@ -58,7 +58,7 @@ Markdown format:
 **Goal 1: Surpassing Human-Level Expertise**.
 
 <div align=center>
-<img src="img/Medical_LLM_evolution_v1.png" width="800px">
+<img src="img/Medical_LLM_evolution_v2.png" width="800px">
 </div>
 
 **Goal 2: Emergent Properties of Medical LLM with the Model Size Scaling Up**.
@@ -99,6 +99,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
   - [Fine-tuning Data](#fine-tuning-data)
 - [🗂️ Downstream Biomedical Tasks](#️-downstream-biomedical-tasks)
   - [Generative Tasks](#generative-tasks)
+  - [Huggingface Leadboard](#huggingface-leadboard)
     - [Text Summarization](#text-summarization)
     - [Text Simplification](#text-simplification)
     - [Question Answering](#question-answering)
@@ -154,7 +155,9 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**NAACL Workshop, 2019**] **ClinicalBERT**：Publicly Available Clinical BERT Embeddings. [paper](https://arxiv.org/abs/1904.03323)
 * [**BioNLP Workshop, 2019**] **BlueBERT**：Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets. [paper](https://arxiv.org/abs/1906.05474)
 
-### Fine-tuning General LLMs
+### Fine-tuning General LLMs  
+* [**Huggingface, 2024.5**] **OpenBioLLM-70b**: Advancing Open-source Large Language Models in Medical Domain [model](https://huggingface.co/aaditya/Llama3-OpenBioLLM-70B)
+* [**Huggingface, 2024.5**] **MedLllama3** [model](https://huggingface.co/ProbeMedicalYonseiMAILab/medllama3-v20)
 * [**Arxiv, 2024.04**] **Med-Gemini** Capabilities of Gemini Models in Medicine. [paper](https://arxiv.org/pdf/2404.18416)
 * [**Arxiv, 2023.12**] **From Beginner to Expert**: Modeling Medical Knowledge into General LLMs. [paper](https://arxiv.org/abs/2312.01040)
 * [**Arxiv, 2023.11**] **Taiyi**: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks. [paper](https://arxiv.org/abs/2311.11608) [code](https://github.com/DUTIR-BioNLP/Taiyi-LLM)
@@ -256,6 +259,9 @@ This survey aims to provide insights into the opportunities and challenges of LL
 </div>
 
 ### Generative Tasks
+
+### Huggingface Leadboard
+* **Open Medical-LLM Leaderboard**: MedQA (USMLE), PubMedQA, MedMCQA, and subsets of MMLU related to medicine and biology.  [Leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard)
 
 #### Text Summarization
 * **PubMed**: National Institutes of Health. PubMed Data. In National Library of Medicine. [database](https://pubmed.ncbi.nlm.nih.gov/download/)
