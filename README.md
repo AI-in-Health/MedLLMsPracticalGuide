@@ -34,6 +34,7 @@ David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Author
 <sup>9</sup>Alibaba, <sup>10</sup>Harvard T.H. Chan School of Public Health, <sup>11</sup>MIT, <sup>12</sup>Yale University, <sup>13</sup>Tencent, <sup>14</sup>Amazon*
 
 ##  📣 Update News
+`[2024-07-10]` We have updated our [Version 6](https://arxiv.org/abs/2311.05112). Please check it out!
 
 `[2024-05-05]` We have updated our [Version 5](https://arxiv.org/abs/2311.05112). Please check it out!
 
