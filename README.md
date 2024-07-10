@@ -58,7 +58,7 @@ Markdown format:
 **Goal 1: Surpassing Human-Level Expertise**.
 
 <div align=center>
-<img src="img/Medical_LLM_evolution_v2.png" width="800px">
+<img src="img/Medical_LLM_evolution.png" width="800px">
 </div>
 
 **Goal 2: Emergent Properties of Medical LLM with the Model Size Scaling Up**.
@@ -78,12 +78,11 @@ This survey provides a comprehensive overview of the principles, applications, a
 
 This survey aims to provide insights into the opportunities and challenges of LLMs in medicine, and serve as a practical resource for constructing effective medical LLMs. 
 
-
-## Table of Contents
 <div align=center>
-<img src="img/Medical_LLM_outline.png" width="800px">
+<img src="img/Medical_LLM_Introduction.png" width="800px">
 </div>
 
+## Table of Contents
 - [📣 Update News](#-update-news)
 - [⚡ Contributing](#-contributing)
 - [🤔 What are the Goals of the Medical LLM?](#-what-are-the-goals-of-the-medical-llm)
@@ -112,8 +111,8 @@ This survey aims to provide insights into the opportunities and challenges of LL
     - [Information Retrieval](#information-retrieval)
 - [✨ Practical Guide for Clinical Applications](#-practical-guide-for-clinical-applications)
   - [Retrieval-augmented Generation](#retrieval-augmented-generation)
-  - [Medical Diagnosis](#medical-diagnosis)
-  - [Formatting and ICD-Coding](#formatting-and-icd-coding)
+  - [Medical Decision-Making](#medical-decision-making)
+  - [Clinical Coding](#clinical-coding)
   - [Clinical Report Generation](#clinical-report-generation)
   - [Medical Education](#medical-education)
   - [Medical Robotics](#medical-robotics)
@@ -162,7 +161,6 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Arxiv, 2023.12**] **From Beginner to Expert**: Modeling Medical Knowledge into General LLMs. [paper](https://arxiv.org/abs/2312.01040)
 * [**Arxiv, 2023.11**] **Taiyi**: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks. [paper](https://arxiv.org/abs/2311.11608) [code](https://github.com/DUTIR-BioNLP/Taiyi-LLM)
 * [**Arxiv, 2023.10**] **AlpaCare**: Instruction-tuned Large Language Models for Medical Application. [paper](https://arxiv.org/abs/2310.14558) [code](https://github.com/XZhang97666/AlpaCare)
-<!-- * [**Arxiv, 2023.10**] **Med42**: A Clinical Large Language Model. [code](https://huggingface.co/m42-health/med42-70b) -->
 * [**Arxiv, 2023.10**] **BianQue**：Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT. [paper](https://arxiv.org/abs/2310.15896)
 * [**Arxiv, 2023.10**] **Qilin-Med**：Multi-stage Knowledge Injection Advanced Medical Large Language Model. [paper](https://arxiv.org/abs/2310.09089)
 * [**Arxiv, 2023.10**] **Qilin-Med-VL**：Towards Chinese Large Vision-Language Model for General Healthcare. [paper](https://arxiv.org/abs/2310.17956)
@@ -172,6 +170,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Arxiv, 2023.8**] **BioMedGPT/OpenBioMed** Open Multimodal Generative Pre-trained Transformer for BioMedicine. [paper](https://arxiv.org/abs/2308.09442) [code](https://github.com/PharMolix/OpenBioMed)
 * [**Nature Digital Medicine, 2023.8**] Large Language Models to Identify Social Determinants of Health in Electronic Health Records. [paper](https://arxiv.org/abs/2308.06354) [[code]](https://github.com/AIM-Harvard/SDoH)
 * [**Arxiv, 2023.8**] **Zhongjing**：Enhancing the Chinese medical capabilities of large language model through expert feedback and real-world multi-turn dialogue. [paper](https://arxiv.org/abs/2308.03549)
+* [**Arxiv, 2023.7**] **Med-Flamingo**：Med-Flamingo: a Multimodal Medical Few-shot Learner. [paper](https://arxiv.org/abs/2307.15189) [code](https://github.com/snap-stanford/med-flamingo)
 * [**Arxiv, 2023.6**] **ClinicalGPT**：Large Language Models Finetuned with Diverse Medical Data and Comprehensive Evaluation. 2023. [paper](https://arxiv.org/abs/2306.09968)
 * [**Cureus, 2023.6**] **ChatDoctor**：A Medical Chat Model Fine-Tuned on a Large Language Model Meta-AI (LLaMA) Using Medical Domain Knowledge. [paper](https://www.cureus.com/articles/152858-chatdoctor-a-medical-chat-model-fine-tuned-on-a-large-language-model-meta-ai-llama-using-medical-domain-knowledge.pdf)
 * [**NeurIPS Datasets/Benchmarks Track, 2023.6**] **LLaVA-Med**: Training a large language-and-vision assistant for biomedicine in one day. [paper](https://arxiv.org/abs/2306.00890)
@@ -255,7 +254,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 ## 🗂️ Downstream Biomedical Tasks
 
 <div align=center>
-<img src="img/eva.png" width="800px">
+<img src="img/Medical_LLM_evaluation.png" width="800px">
 </div>
 
 ### Generative Tasks
@@ -358,14 +357,15 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Arxiv, 2023**] Think and Retrieval: A Hypothesis Knowledge Graph Enhanced Medical Large Language Models. [paper](https://arxiv.org/pdf/2312.15883.pdf)
 * [**JASN, 2023**] Retrieve, Summarize, and Verify: How Will ChatGPT Affect Information Seeking from the Medical Literature? [paper](https://journals.lww.com/jasn/fulltext/2023/08000/retrieve,_summarize,_and_verify__how_will_chatgpt.4.aspx)
 
-### Medical Diagnosis
+### Medical Decision-Making
+* [**Nature, 2023**] **NYUTron** Health system-scale language models are all-purpose prediction engines [paper](https://www.nature.com/articles/s41586-023-06160-y)
 * [**Arxiv, 2023**] Leveraging a medical knowledge graph into large language models for diagnosis prediction. [paper](https://arxiv.org/abs/2308.14321)
 * [**Arxiv, 2023**] ChatCAD+/Chatcad: Interactive computer-aided diagnosis on medical image using large language models. [paper](https://arxiv.org/abs/2302.07257) [code](https://github.com/zhaozh10/ChatCAD)
 * [**Cancer Inform, 2023**] Designing a Deep Learning-Driven Resource-Efficient Diagnostic System for Metastatic Breast Cancer: Reducing Long Delays of Clinical Diagnosis and Improving Patient Survival in Developing Countries. [paper](https://arxiv.org/abs/2308.02597)
 * [**Nature Medicine, 2023**] Large language models in medicine. [paper](https://www.nature.com/articles/s41591-023-02448-8)
 * [**Nature Medicine, 2022**] AI in health and medicine. [paper](https://www.nature.com/articles/s41591-021-01614-0)
 
-### Formatting and ICD-Coding
+### Clinical Coding
 * [**JMAI, 2023**] Applying large language model artificial intelligence for retina International Classification of Diseases (ICD) coding. [paper](https://jmai.amegroups.org/article/view/8198/html)
 * [**ClinicalNLP Workshop, 2022**] PLM-ICD: automatic ICD coding with pretrained language models. [paper](https://arxiv.org/abs/2207.05289) [code](https://github.com/MiuLab/PLM-ICD)
 
