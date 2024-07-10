@@ -1,5 +1,5 @@
 <div align=center>
-<img src="img/Medical_LLM_logo.png" width="200px">
+<img src="img/Medical_LLM_logo.png" width="180px">
 </div>
 <h2 align="center"> A Practical Guide for Medical Large Language Models </a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
