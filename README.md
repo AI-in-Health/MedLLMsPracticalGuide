@@ -157,7 +157,8 @@ This survey aims to provide insights into the opportunities and challenges of LL
 ### Fine-tuning General LLMs  
 * [**Huggingface, 2024.5**] **OpenBioLLM-70b**: Advancing Open-source Large Language Models in Medical Domain [model](https://huggingface.co/aaditya/Llama3-OpenBioLLM-70B)
 * [**Huggingface, 2024.5**] **MedLllama3** [model](https://huggingface.co/ProbeMedicalYonseiMAILab/medllama3-v20)
-* [**Arxiv, 2024.04**] **Med-Gemini** Capabilities of Gemini Models in Medicine. [paper](https://arxiv.org/pdf/2404.18416)
+* [**Arxiv, 2024.4**] **Med-Gemini** Capabilities of Gemini Models in Medicine. [paper](https://arxiv.org/pdf/2404.18416)
+* [**Arxiv, 2024.2**] **BioMistral** A Collection of Open-Source Pretrained Large Language Models for Medical Domains. [paper](https://arxiv.org/pdf/2402.10373)
 * [**Arxiv, 2023.12**] **From Beginner to Expert**: Modeling Medical Knowledge into General LLMs. [paper](https://arxiv.org/abs/2312.01040)
 * [**Arxiv, 2023.11**] **Taiyi**: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks. [paper](https://arxiv.org/abs/2311.11608) [code](https://github.com/DUTIR-BioNLP/Taiyi-LLM)
 * [**Arxiv, 2023.10**] **AlpaCare**: Instruction-tuned Large Language Models for Medical Application. [paper](https://arxiv.org/abs/2310.14558) [code](https://github.com/XZhang97666/AlpaCare)
