@@ -188,6 +188,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Arxiv, 2023.4**] **DoctorGLM**：Fine-tuning your chinese doctor is not a herculean task. [paper](https://arxiv.org/abs/2304.01097)
 
 ### Prompting General LLMs
+* [**NEJM, 2024**] GPT-4 for Information Retrieval and Comparison of Medical Oncology Guidelines. [paper](https://ai.nejm.org/doi/abs/10.1056/AIcs2300235)
 * [**Arxiv, 2023.11**] **MedPrompt**: Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine. [paper](https://arxiv.org/abs/2311.16452)
 * [**Arxiv, 2023.8**] **Dr. Knows**: Leveraging a medical knowledge graph into large language models for diagnosis prediction. [paper](https://arxiv.org/abs/2308.14321)
 * [**Arxiv, 2023.3**] **DelD-GPT**: Zero-shot medical text de-identification by gpt-4. [paper](https://arxiv.org/abs/2303.11032) [code](https://github.com/yhydhx/ChatGPT-API)
