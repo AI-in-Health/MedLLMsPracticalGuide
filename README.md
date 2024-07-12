@@ -188,7 +188,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Arxiv, 2023.4**] **DoctorGLM**：Fine-tuning your chinese doctor is not a herculean task. [paper](https://arxiv.org/abs/2304.01097)
 
 ### Prompting General LLMs
-* [**NEJM, 2024**] GPT-4 for Information Retrieval and Comparison of Medical Oncology Guidelines. [paper](https://ai.nejm.org/doi/abs/10.1056/AIcs2300235)
+* [**NEJM AI, 2024**] GPT-4 for Information Retrieval and Comparison of Medical Oncology Guidelines. [paper](https://ai.nejm.org/doi/abs/10.1056/AIcs2300235)
 * [**Arxiv, 2023.11**] **MedPrompt**: Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine. [paper](https://arxiv.org/abs/2311.16452)
 * [**Arxiv, 2023.8**] **Dr. Knows**: Leveraging a medical knowledge graph into large language models for diagnosis prediction. [paper](https://arxiv.org/abs/2308.14321)
 * [**Arxiv, 2023.3**] **DelD-GPT**: Zero-shot medical text de-identification by gpt-4. [paper](https://arxiv.org/abs/2303.11032) [code](https://github.com/yhydhx/ChatGPT-API)
@@ -356,7 +356,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 </div>
 
 ### Retrieval-augmented Generation
-* [**NEJM, 2024**] GPT-4 for Information Retrieval and Comparison of Medical Oncology Guidelines. [paper](https://ai.nejm.org/doi/abs/10.1056/AIcs2300235)
+* [**NEJM AI, 2024**] GPT-4 for Information Retrieval and Comparison of Medical Oncology Guidelines. [paper](https://ai.nejm.org/doi/abs/10.1056/AIcs2300235)
 * [**Arxiv, 2023**] Think and Retrieval: A Hypothesis Knowledge Graph Enhanced Medical Large Language Models. [paper](https://arxiv.org/pdf/2312.15883.pdf)
 * [**JASN, 2023**] Retrieve, Summarize, and Verify: How Will ChatGPT Affect Information Seeking from the Medical Literature? [paper](https://journals.lww.com/jasn/fulltext/2023/08000/retrieve,_summarize,_and_verify__how_will_chatgpt.4.aspx)
 
@@ -496,7 +496,7 @@ Model for Generalist Ophthalmic Artificial Intelligence. [paper](https://arxiv.o
 * [**Arxiv, 2023**] GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information.  [paper](https://arxiv.org/abs/2304.09667) [code](https://github.com/ncbi/GeneGPT)
 * [**MedRxiv, 2023**] OpenMedCalc: Augmentation of ChatGPT with Clinician-Informed Tools Improves Performance on Medical Calculation Tasks. [paper](https://www.medrxiv.org/content/10.1101/2023.12.13.23299881v1)
 * [**NEJM AI, 2024**] Almanac — Retrieval-Augmented Language Models for Clinical Medicine. [paper](https://ai.nejm.org/doi/full/10.1056/AIoa2300068)
-* [**Arxiv, 2024**] AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments [paper]([https://ai.nejm.org/doi/full/10.1056/AIoa2300068](https://arxiv.org/pdf/2405.07960))
+* [**Arxiv, 2024**] AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments [paper](https://arxiv.org/pdf/2405.07960)
 * [**Arxiv, 2024**] MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making. [paper](https://arxiv.org/abs/2404.15155) [code](https://github.com/mitmedialab/MDAgents)
 
 ## 👍 Acknowledgement
