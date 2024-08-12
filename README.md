@@ -233,7 +233,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * **MedDialog**: Meddialog: Two large-scale medical dialogue datasets. 2020. [paper](https://arxiv.org/abs/2004.03329)
 * **ChiMed**: Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model. 2023. [paper](https://arxiv.org/abs/2310.09089)
 * **ChiMed-VL**: Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare. 2023. [paper](https://arxiv.org/abs/2310.17956)
-* **Healthcare Magic**: Healthcare Magic. [platform](https://www.healthcaremagic.com/)
+* **Healthcare Magic**: Healthcare Magic. [huggingface]([https://www.healthcaremagic.com/](https://huggingface.co/datasets/wangrongsheng/HealthCareMagic-100k-en))
 * **ICliniq**: ICliniq. [platform](https://www.icliniq.com/)
 * **Hybrid SFT**: HuatuoGPT, towards Taming Language Model to Be a Doctor. 2023. [paper](https://arxiv.org/abs/2305.15075)
 * **PMC-15M**: Large-scale domain-specific pretraining for biomedical vision-language processing. 2023. [paper](https://arxiv.org/abs/2303.00915)
@@ -402,7 +402,6 @@ This survey aims to provide insights into the opportunities and challenges of LL
 ### Medical Language Translation
 * [**New Biotechnology, 2023**] Machine translation of standardised medical terminology using natural language processing: A Scoping Review. [paper](https://www.sciencedirect.com/science/article/pii/S1871678423000432)
 * [**JMIR, 2023**] The Advent of Generative Language Models in Medical Education. [paper](https://mededu.jmir.org/2023/1/e48163)
-* [**Korean J Med Educ., 2023**] The impending impacts of large language models on medical education. [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10020064/)
 
 ### Mental Health Support
 * [**Arxiv, 2024**] Large Language Models in Mental Health Care: a Scoping Review. [paper](https://arxiv.org/abs/2401.02984)
@@ -476,8 +475,6 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**BioRxiv, 2023**] A comprehensive benchmark study on biomedical text generation and mining with ChatGPT. [paper](https://www.biorxiv.org/content/10.1101/2023.04.19.537463.abstract)
 * [**JAMA, 2023**] Creation and adoption of large language models in medicine. [paper](https://jamanetwork.com/journals/jama/article-abstract/2808296)
 * [**Arxiv, 2023**] Large Language Models in Sport Science & Medicine: Opportunities, Risks and Considerations. [paper](https://arxiv.org/abs/2305.03851)
-* [**Arxiv, 2023**] VisionFM: a Multi-Modal Multi-Task Vision Foundation
-Model for Generalist Ophthalmic Artificial Intelligence. [paper](https://arxiv.org/abs/2310.04992)
 
 
 ### Interdisciplinary Collaborations
@@ -485,6 +482,8 @@ Model for Generalist Ophthalmic Artificial Intelligence. [paper](https://arxiv.o
 * [**JAMA Forum, 2023**] ChatGPT and Physicians' Malpractice Risk. [paper](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2805334)
 
 ### Multi-modal LLM
+* [**Nature Medicine, 2024**] **BiomedGPT** A generalist vision–language foundation model for diverse biomedical tasks [paper](https://www.nature.com/articles/s41591-024-03185-2)
+* [**Arxiv, 2023**] VisionFM: a Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence. [paper](https://arxiv.org/abs/2310.04992)
 * [**Arxiv, 2023**] A Survey on Multimodal Large Language Models. [paper](https://arxiv.org/abs/2306.13549)
 * [**Arxiv, 2023**] Mm-react: Prompting chatgpt for multimodal reasoning and action. [paper](https://arxiv.org/abs/2303.11381)
 * [**Int J Oral Sci, 2023**] ChatGPT for shaping the future of dentistry: the potential of multi-modal large language model. [paper](https://www.nature.com/articles/s41368-023-00239-y)
