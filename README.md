@@ -141,6 +141,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 </div>
 
 ### Pre-training from Scratch
+* [**Nature Medicine, 2024**] **BiomedGPT** A generalist vision–language foundation model for diverse biomedical tasks [paper](https://www.nature.com/articles/s41591-024-03185-2)
 * [**Nature, 2023**] **NYUTron** Health system-scale language models are all-purpose prediction engines [paper](https://www.nature.com/articles/s41586-023-06160-y)
 * [**Arxiv, 2023**] **OphGLM**：Training an Ophthalmology Large Language-and-Vision Assistant based on Instructions and Dialogue. [paper](https://arxiv.org/abs/2306.12174)
 * [**npj Digital Medicine, 2023**] **GatorTronGPT**：A Study of Generative Large Language Model for Medical Research and Healthcare. [paper](https://arxiv.org/abs/2305.13523)
