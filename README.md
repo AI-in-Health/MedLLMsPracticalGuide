@@ -357,6 +357,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 </div>
 
 ### Retrieval-augmented Generation
+* [**Arxiv, 2024**] Medical Graph RAG: Towards Safe Medical Large Language Model via Graph Retrieval-Augmented Generation. [paper](https://arxiv.org/pdf/2408.04187v1)
 * [**NEJM AI, 2024**] GPT-4 for Information Retrieval and Comparison of Medical Oncology Guidelines. [paper](https://ai.nejm.org/doi/abs/10.1056/AIcs2300235)
 * [**Arxiv, 2023**] Think and Retrieval: A Hypothesis Knowledge Graph Enhanced Medical Large Language Models. [paper](https://arxiv.org/pdf/2312.15883.pdf)
 * [**JASN, 2023**] Retrieve, Summarize, and Verify: How Will ChatGPT Affect Information Seeking from the Medical Literature? [paper](https://journals.lww.com/jasn/fulltext/2023/08000/retrieve,_summarize,_and_verify__how_will_chatgpt.4.aspx)
