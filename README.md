@@ -157,6 +157,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**BioNLP Workshop, 2019**] **BlueBERT**: Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets. [paper](https://arxiv.org/abs/1906.05474)
 
 ### Fine-tuning General LLMs  
+* [**Arxiv, 2024.8**] **Med42-v2**:  A Suite of Clinical LLMs. [paper](https://arxiv.org/pdf/2408.06142) [Model](https://huggingface.co/m42-health)
 * [**Huggingface, 2024.5**] **OpenBioLLM-70b**: Advancing Open-source Large Language Models in Medical Domain [model](https://huggingface.co/aaditya/Llama3-OpenBioLLM-70B)
 * [**Huggingface, 2024.5**] **MedLllama3** [model](https://huggingface.co/ProbeMedicalYonseiMAILab/medllama3-v20)
 * [**Arxiv, 2024.4**] **Med-Gemini** Capabilities of Gemini Models in Medicine. [paper](https://arxiv.org/pdf/2404.18416)
