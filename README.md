@@ -225,6 +225,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Scientific Data, 2016**] **MIMIC-III**: MIMIC-III, a freely accessible critical care database. [paper](https://www.nature.com/articles/sdata201635)
 
 ### Fine-tuning Data
+* **MedTrinity-25M**: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine. 2024. [github](https://github.com/UCSC-VLAA/MedTrinity-25M) [paper](https://arxiv.org/abs/2408.02900)
 * **cMeKG**: Chinese Medical Knowledge Graph. 2023. [github](https://github.com/king-yyf/CMeKG_tools)
 * **CMD.**: Chinese medical dialogue data. 2023. [repo](https://github.com/Toyhom/Chinese-medical-dialogue-data)
 * **BianQueCorpus**: BianQue: Balancing the Questioning and Suggestion Ability of Health LLMs with Multi-turn Health Conversations Polished by ChatGPT. 2023. [paper](https://arxiv.org/abs/2310.15896)
