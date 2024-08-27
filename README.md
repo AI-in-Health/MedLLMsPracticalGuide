@@ -158,6 +158,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 ### Fine-tuning General LLMs  
 * [**Arxiv, 2024.8**] **Med42-v2**:  A Suite of Clinical LLMs. [paper](https://arxiv.org/pdf/2408.06142) [Model](https://huggingface.co/m42-health)
+* [**JAMIA, 2024.5**] **Internist.ai 7b** Impact of high-quality, mixed-domain data on the performance of medical language models [paper](https://academic.oup.com/jamia/article-abstract/31/9/1875/7680487?redirectedFrom=fulltext) [Model](https://huggingface.co/internistai/base-7b-v0.2)
 * [**Huggingface, 2024.5**] **OpenBioLLM-70b**: Advancing Open-source Large Language Models in Medical Domain [model](https://huggingface.co/aaditya/Llama3-OpenBioLLM-70B)
 * [**Huggingface, 2024.5**] **MedLllama3** [model](https://huggingface.co/ProbeMedicalYonseiMAILab/medllama3-v20)
 * [**Arxiv, 2024.4**] **Med-Gemini** Capabilities of Gemini Models in Medicine. [paper](https://arxiv.org/pdf/2404.18416)
