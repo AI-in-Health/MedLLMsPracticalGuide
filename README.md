@@ -161,6 +161,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**JAMIA, 2024.5**] **Internist.ai 7b** Impact of high-quality, mixed-domain data on the performance of medical language models [paper](https://academic.oup.com/jamia/article-abstract/31/9/1875/7680487?redirectedFrom=fulltext) [Model](https://huggingface.co/internistai/base-7b-v0.2)
 * [**Huggingface, 2024.5**] **OpenBioLLM-70b**: Advancing Open-source Large Language Models in Medical Domain [model](https://huggingface.co/aaditya/Llama3-OpenBioLLM-70B)
 * [**Huggingface, 2024.5**] **MedLllama3** [model](https://huggingface.co/ProbeMedicalYonseiMAILab/medllama3-v20)
+* [**Arxiv, 2024.5**] **Aloe**: A Family of Fine-tuned Open Healthcare LLMs. [paper](https://arxiv.org/abs/2405.01886) [Model](https://huggingface.co/HPAI-BSC/Llama3-Aloe-8B-Alpha)
 * [**Arxiv, 2024.4**] **Med-Gemini** Capabilities of Gemini Models in Medicine. [paper](https://arxiv.org/pdf/2404.18416)
 * [**Arxiv, 2024.2**] **BioMistral** A Collection of Open-Source Pretrained Large Language Models for Medical Domains. [paper](https://arxiv.org/pdf/2402.10373)
 * [**Arxiv, 2023.12**] **From Beginner to Expert**: Modeling Medical Knowledge into General LLMs. [paper](https://arxiv.org/abs/2312.01040)
@@ -282,6 +283,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * **AutoMeTS**: AutoMeTS: the autocomplete for medical text simplification 2020. [paper](https://arxiv.org/abs/2010.10573)
 
 #### Question Answering
+* **CareQA**: CareQA: A multichoice question answering dataset based on the access exam for Spanish Specialised Healthcare Training (FSE).[paper](https://arxiv.org/abs/2405.01886) [dataset](https://huggingface.co/datasets/HPAI-BSC/CareQA)
 * **BioASQ-QA**: BioASQ-QA: A manually curated corpus for Biomedical Question Answering 2023. [paper](https://www.nature.com/articles/s41597-023-02068-4)
 * **emrQA**: emrqa: A large corpus for question answering on electronic medical records 2018. [paper](https://arxiv.org/abs/1809.00732)
 * **CliCR**: CliCR: a dataset of clinical case reports for machine reading comprehension 2018. [paper](https://arxiv.org/abs/1803.09720)
