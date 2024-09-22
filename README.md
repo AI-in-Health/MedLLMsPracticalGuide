@@ -264,10 +264,10 @@ This survey aims to provide insights into the opportunities and challenges of LL
 <img src="img/Medical_LLM_evaluation.png" width="800px">
 </div>
 
-### Generative Tasks
-
 ### Huggingface Leadboard
 * **Open Medical-LLM Leaderboard**: MedQA (USMLE), PubMedQA, MedMCQA, and subsets of MMLU related to medicine and biology.  [Leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard)
+
+### Generative Tasks
 
 #### Text Summarization
 * **PubMed**: National Institutes of Health. PubMed Data. In National Library of Medicine. [database](https://pubmed.ncbi.nlm.nih.gov/download/)
