@@ -296,6 +296,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * **MMLU (Clinical Knowledge)**: Measuring massive multitask language understanding 2020. [paper](https://arxiv.org/abs/2009.03300)
 * **MMLU (College Medicine)**: Measuring massive multitask language understanding 2020. [paper](https://arxiv.org/abs/2009.03300)
 * **MMLU (Professional Medicine)**: Measuring massive multitask language understanding 2020. [paper](https://arxiv.org/abs/2009.03300)
+* [**Arxiv 2024**] MediQ: Question-Asking LLMs for Adaptive and Reliable Clinical Reasoning. [[paper]](https://arxiv.org/abs/2406.00922) [[code]](https://github.com/stellalisy/MediQ).
 
 ### Discriminative Tasks
 
@@ -507,6 +508,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Arxiv, 2024**] ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning. [paper](https://arxiv.org/abs/2404.14777)
 * [**Arxiv, 2024**] AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments [paper](https://arxiv.org/pdf/2405.07960)
 * [**Arxiv, 2024**] MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making. [paper](https://arxiv.org/abs/2404.15155) [code](https://github.com/mitmedialab/MDAgents)
+* [**Arxiv 2024**] MediQ: Question-Asking LLMs for Adaptive and Reliable Clinical Reasoning. [[paper]](https://arxiv.org/abs/2406.00922) [[code]](https://github.com/stellalisy/MediQ).
 
 ## 👍 Acknowledgement
 * [LLMs Practical Guide](https://github.com/Mooler0410/LLMsPracticalGuide). The codebase we built upon and it is a comprehensive LLM survey.
