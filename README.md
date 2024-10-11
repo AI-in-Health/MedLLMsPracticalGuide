@@ -34,17 +34,19 @@ David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Author
 <sup>9</sup>Alibaba, <sup>10</sup>Harvard T.H. Chan School of Public Health, <sup>11</sup>MIT, <sup>12</sup>Yale University, <sup>13</sup>Tencent, <sup>14</sup>Amazon*
 
 ##  📣 Update News
-`[2024-07-10]` We have updated our [Version 6](https://arxiv.org/abs/2311.05112). Please check it out!
+[2024-10-11] 🎉🎉🎉 Big News! Our repository has reached 1,000 stars 🌟. Thank you to everyone who contributed.
 
-`[2024-05-05]` We have updated our [Version 5](https://arxiv.org/abs/2311.05112). Please check it out!
+[2024-07-10] We have updated our [Version 6](https://arxiv.org/abs/2311.05112). Thank you all for your support!
 
-`[2024-03-03]` We have updated our [Version 4](https://arxiv.org/abs/2311.05112). Please check it out!
+[2024-05-05] We have updated our [Version 5](https://arxiv.org/abs/2311.05112). Please check it out!
 
-`[2024-02-04]` 🍻🍻🍻 Cheers, Happy Chinese New Year! We have updated our [Version 3](https://arxiv.org/abs/2311.05112). Please check it out!
+[2024-03-03] We have updated our [Version 4](https://arxiv.org/abs/2311.05112). Please check it out!
 
-`[2023-12-11]` We have updated our survey [Version 2](https://arxiv.org/abs/2311.05112). Please check it out!
+[2024-02-04] 🍻🍻🍻 Cheers! Happy Chinese New Year! We have updated our [Version 3](https://arxiv.org/abs/2311.05112). Please check it out!
 
-`[2023-11-09]` We released the repository and survey [Version 1](https://arxiv.org/abs/2311.05112).
+[2023-12-11] We have updated our survey [Version 2](https://arxiv.org/abs/2311.05112). Please check it out!
+
+[2023-11-09] We have released the repository and survey [Version 1](https://arxiv.org/abs/2311.05112).
 
 ## ⚡ Contributing
 
@@ -301,6 +303,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 ### Discriminative Tasks
 
 #### Entity Extraction
+* [**Arxiv, 2024.10**] Named Clinical Entity Recognition Benchmark [paper](https://arxiv.org/abs/2410.05046) [Leaderboard](https://huggingface.co/spaces/m42-health/clinical_ner_leaderboard)
 * **NCBI Disease**: NCBI disease corpus: a resource for disease name recognition and concept normalization 2014. [paper](https://www.sciencedirect.com/science/article/pii/S1532046413001974)
 * **JNLPBA**: Introduction to the bio-entity recognition task at JNLPBA 2004. [paper](https://aclanthology.org/W04-1213.pdf)
 * **GENIA**: GENIA corpus--a semantically annotated corpus for bio-textmining 2003. [paper](https://www.researchgate.net/profile/Jin-Dong-Kim-2/publication/10667350_GENIA_corpus-A_semantically_annotated_corpus_for_bio-textmining/links/00b49520d9a33ae419000000/GENIA-corpus-A-semantically-annotated-corpus-for-bio-textmining.pdf)
