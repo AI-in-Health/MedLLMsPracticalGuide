@@ -380,6 +380,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Nature Medicine, 2022**] AI in health and medicine. [paper](https://www.nature.com/articles/s41591-021-01614-0)
 
 ### Clinical Coding
+* [**NEJM AI, 2024**] Large Language Models Are Poor Medical Coders — Benchmarking of Medical Code Querying. [paper](https://ai.nejm.org/doi/full/10.1056/AIdbp2300040)
 * [**JMAI, 2023**] Applying large language model artificial intelligence for retina International Classification of Diseases (ICD) coding. [paper](https://jmai.amegroups.org/article/view/8198/html)
 * [**ClinicalNLP Workshop, 2022**] PLM-ICD: automatic ICD coding with pretrained language models. [paper](https://arxiv.org/abs/2207.05289) [code](https://github.com/MiuLab/PLM-ICD)
 
