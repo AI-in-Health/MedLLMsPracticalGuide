@@ -163,7 +163,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**JAMIA, 2024.5**] **Internist.ai 7b** Impact of high-quality, mixed-domain data on the performance of medical language models [paper](https://academic.oup.com/jamia/article-abstract/31/9/1875/7680487?redirectedFrom=fulltext) [Model](https://huggingface.co/internistai/base-7b-v0.2)
 * [**Huggingface, 2024.5**] **OpenBioLLM-70b**: Advancing Open-source Large Language Models in Medical Domain [model](https://huggingface.co/aaditya/Llama3-OpenBioLLM-70B)
 * [**Huggingface, 2024.5**] **MedLllama3** [model](https://huggingface.co/ProbeMedicalYonseiMAILab/medllama3-v20)
-* [**Arxiv, 2024.5**] **Aloe**: A Family of Fine-tuned Open Healthcare LLMs. [paper](https://arxiv.org/abs/2405.01886) [Model](https://huggingface.co/HPAI-BSC/Llama3-Aloe-8B-Alpha)
+* [**Arxiv, 2024.5**] **Aloe**: A Family of Fine-tuned Open Healthcare LLMs. [paper](https://arxiv.org/abs/2405.01886) [Model](https://huggingface.co/collections/HPAI-BSC/healthcare-llms-aloe-family-6701b6a777f7e874a2123363)
 * [**Arxiv, 2024.4**] **Med-Gemini** Capabilities of Gemini Models in Medicine. [paper](https://arxiv.org/pdf/2404.18416)
 * [**Arxiv, 2024.2**] **BioMistral** A Collection of Open-Source Pretrained Large Language Models for Medical Domains. [paper](https://arxiv.org/pdf/2402.10373)
 * [**Arxiv, 2023.12**] **From Beginner to Expert**: Modeling Medical Knowledge into General LLMs. [paper](https://arxiv.org/abs/2312.01040)
