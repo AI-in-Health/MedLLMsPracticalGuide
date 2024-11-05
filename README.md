@@ -267,7 +267,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 <img src="img/Medical_LLM_evaluation.png" width="800px">
 </div>
 
-### Huggingface Leadboard
+### Huggingface Leaderboard
 * **Open Medical-LLM Leaderboard**: MedQA (USMLE), PubMedQA, MedMCQA, and subsets of MMLU related to medicine and biology.  [Leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard)
 
 ### Generative Tasks
@@ -481,6 +481,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 </div>
 
 ### Introduction of New Benchmarks
+* [**Blog, 2024.11**] SymptomCheck Bench. [blog](https://medask.tech/blogs/introducing-symptomcheck-bench/) [code](https://github.com/medaks/symptomcheck-bench) 
 * [**Arxiv, 2023.12**] Designing Guiding Principles for NLP for Healthcare: A Case Study of Maternal Health. [paper](https://arxiv.org/abs/2312.11803)
 * [**JCO CCI, 2023**] Natural language processing to automatically extract the presence and severity of esophagitis in notes of patients undergoing radiotherapy. [[paper]]( https://pubmed.ncbi.nlm.nih.gov/37506330/) [[code]]( https://github.com/AIM-Harvard/Eso_alpha)
 * [**JAMA ONC, 2023**] Use of Artificial Intelligence Chatbots for Cancer Treatment Information. [[paper]]( https://jamanetwork.com/journals/jamaoncology/fullarticle/2808731) [[code]]( https://github.com/AIM-Harvard/ChatGPT_NCCN)
