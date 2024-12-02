@@ -184,6 +184,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**NeurIPS Datasets/Benchmarks Track, 2023.6**] **LLaVA-Med**: Training a large language-and-vision assistant for biomedicine in one day. [paper](https://arxiv.org/abs/2306.00890)
 * [**Arxiv, 2023.6**] **MedPaLM 2**: Towards expert-level medical question answering with large language models. [paper](https://arxiv.org/abs/2305.09617)
 * [**Arxiv, 2023.5**] **Clinical Camel**: An Open-Source Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding. [paper](https://arxiv.org/abs/2305.12031)
+* [**Arxiv, 2023.5**] **BiomedGPT**: A Generalist Vision-Language Foundation Model for Diverse Biomedical Tasks. [paper]((https://arxiv.org/abs/2305.17100))
 * [**Arxiv, 2023.5**] **HuatuoGPT**: HuatuoGPT, towards Taming Language Model to Be a Doctor. [paper](https://arxiv.org/abs/2305.15075)
 * [**Arxiv, 2023.4**] **Baize-healthcare**: An open-source chat model with parameter-efficient tuning on self-chat data. [paper](https://arxiv.org/abs/2304.01196)
 * [**Arxiv, 2023.4**] **Visual Med-Alpeca**: A parameter-efficient biomedical llm with visual capabilities. [github](https://github.com/cambridgeltl/visual-med-alpaca)
@@ -269,7 +270,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 ### Huggingface Leaderboard
 * **Open Medical-LLM Leaderboard**: MedQA (USMLE), PubMedQA, MedMCQA, and subsets of MMLU related to medicine and biology.  [Leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard)
-
+* **ReXrank**: A Public Leaderboard for AI-Powered Radiology Report Generation [paper](https://arxiv.org/abs/2411.15122/) [[paper]] [[code]] (https://github.com/rajpurkarlab/ReXrank)
 ### Generative Tasks
 
 #### Text Summarization
@@ -439,7 +440,8 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 
 ### Lack of Evaluation Benchmarks and Metrics
-* [**Blog, 2024.11**] SymptomCheck Bench. [blog](https://medask.tech/blogs/introducing-symptomcheck-bench/) [code](https://github.com/medaks/symptomcheck-bench) 
+* [**Blog, 2024.11**] SymptomCheck Bench. [blog](https://medask.tech/blogs/introducing-symptomcheck-bench/) [code](https://github.com/medaks/symptomcheck-bench)
+* [**EMNLP, 2024**] A Metric for Radiology Report Generation. [paper](https://arxiv.org/pdf/2406.16845)
 * [**Arxiv, 2024**] GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI. [paper](https://arxiv.org/abs/2408.03361)
 * [**Arxiv, 2024**] Large Language Models in the Clinic: A Comprehensive Benchmark. [paper](https://arxiv.org/abs/2405.00716)
 * [**Nature Reviews Bioengineering, 2023**] Benchmarking medical large language models. [paper](https://www.nature.com/articles/s44222-023-00097-7)
