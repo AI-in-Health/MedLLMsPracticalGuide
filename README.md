@@ -159,9 +159,10 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**BioNLP Workshop, 2019**] **BlueBERT**: Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets. [paper](https://arxiv.org/abs/1906.05474)
 
 ### Fine-tuning General LLMs  
+* [**Nature Communications, 2024.9**] **MMed-Llama3**: Towards building multilingual language model for medicine. [[paper]](https://www.nature.com/articles/s41467-024-52417-z) [[code]](https://github.com/MAGIC-AI4Med/MMedLM)
 * [**Arxiv, 2024.8**] **Med42-v2**:  A Suite of Clinical LLMs. [paper](https://arxiv.org/pdf/2408.06142) [Model](https://huggingface.co/m42-health)
 * [**JAMIA, 2024.5**] **Internist.ai 7b** Impact of high-quality, mixed-domain data on the performance of medical language models [paper](https://academic.oup.com/jamia/article-abstract/31/9/1875/7680487?redirectedFrom=fulltext) [Model](https://huggingface.co/internistai/base-7b-v0.2)
-* [**Huggingface, 2024.5**] **OpenBioLLM-70b**: Advancing Open-source Large Language Models in Medical Domain [model](https://huggingface.co/aaditya/Llama3-OpenBioLLM-70B)
+* [**Huggingface, 2024.5**] **OpenBioLLM-70b**: Advancing Open-source Large Language Models in Medical Domain [Model](https://huggingface.co/aaditya/Llama3-OpenBioLLM-70B)
 * [**Huggingface, 2024.5**] **MedLllama3** [model](https://huggingface.co/ProbeMedicalYonseiMAILab/medllama3-v20)
 * [**Arxiv, 2024.5**] **Aloe**: A Family of Fine-tuned Open Healthcare LLMs. [paper](https://arxiv.org/abs/2405.01886) [Model](https://huggingface.co/collections/HPAI-BSC/healthcare-llms-aloe-family-6701b6a777f7e874a2123363)
 * [**Arxiv, 2024.4**] **Med-Gemini** Capabilities of Gemini Models in Medicine. [paper](https://arxiv.org/pdf/2404.18416)
@@ -230,6 +231,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Scientific Data, 2016**] **MIMIC-III**: MIMIC-III, a freely accessible critical care database. [paper](https://www.nature.com/articles/sdata201635)
 
 ### Fine-tuning Data
+* **MMedC**: Towards building multilingual language model for medicine. [[paper]](https://www.nature.com/articles/s41467-024-52417-z) [[code]](https://github.com/MAGIC-AI4Med/MMedLM) [[huggingface]](https://huggingface.co/datasets/Henrychur/MMedC)
 * **MedTrinity-25M**: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine. 2024. [github](https://github.com/UCSC-VLAA/MedTrinity-25M) [paper](https://arxiv.org/abs/2408.02900)
 * **cMeKG**: Chinese Medical Knowledge Graph. 2023. [github](https://github.com/king-yyf/CMeKG_tools)
 * **CMD.**: Chinese medical dialogue data. 2023. [repo](https://github.com/Toyhom/Chinese-medical-dialogue-data)
@@ -240,7 +242,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * **MedDialog**: Meddialog: Two large-scale medical dialogue datasets. 2020. [paper](https://arxiv.org/abs/2004.03329)
 * **ChiMed**: Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model. 2023. [paper](https://arxiv.org/abs/2310.09089)
 * **ChiMed-VL**: Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare. 2023. [paper](https://arxiv.org/abs/2310.17956)
-* **Healthcare Magic**: Healthcare Magic. [huggingface]([https://www.healthcaremagic.com/](https://huggingface.co/datasets/wangrongsheng/HealthCareMagic-100k-en))
+* **Healthcare Magic**: Healthcare Magic. [link](https://www.healthcaremagic.com/),[huggingface](https://huggingface.co/datasets/wangrongsheng/HealthCareMagic-100k-en)
 * **ICliniq**: ICliniq. [platform](https://www.icliniq.com/)
 * **Hybrid SFT**: HuatuoGPT, towards Taming Language Model to Be a Doctor. 2023. [paper](https://arxiv.org/abs/2305.15075)
 * **PMC-15M**: Large-scale domain-specific pretraining for biomedical vision-language processing. 2023. [paper](https://arxiv.org/abs/2303.00915)
@@ -443,7 +445,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Blog, 2024.11**] SymptomCheck Bench. [blog](https://medask.tech/blogs/introducing-symptomcheck-bench/) [code](https://github.com/medaks/symptomcheck-bench)
 * [**EMNLP, 2024**] A Metric for Radiology Report Generation. [paper](https://arxiv.org/pdf/2406.16845)
 * [**Arxiv, 2024**] GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI. [paper](https://arxiv.org/abs/2408.03361)
-* [**Arxiv, 2024**] Large Language Models in the Clinic: A Comprehensive Benchmark. [paper](https://arxiv.org/abs/2405.00716)
+* [**Arxiv, 2024**] Large Language Models in the Clinic: A Comprehensive Benchmark. [paper](https://arxiv.org/abs/2405.00716) [code](https://github.com/AI-in-Health/ClinicBench)
 * [**Nature Reviews Bioengineering, 2023**] Benchmarking medical large language models. [paper](https://www.nature.com/articles/s44222-023-00097-7)
 * [**Bioinformatics, 2023**] An extensive benchmark study on biomedical text generation and mining with ChatGPT. [paper](https://academic.oup.com/bioinformatics/article/39/9/btad557/7264174)
 * [**Arxiv, 2023**] Large language models in biomedical natural language processing: benchmarks, baselines, and recommendations. [paper](https://arxiv.org/abs/2305.16326)
@@ -484,7 +486,9 @@ This survey aims to provide insights into the opportunities and challenges of LL
 </div>
 
 ### Introduction of New Benchmarks
-* [**Blog, 2024.11**] SymptomCheck Bench. [blog](https://medask.tech/blogs/introducing-symptomcheck-bench/) [code](https://github.com/medaks/symptomcheck-bench) 
+* [**EMNLP, 2024.11**] Large Language Models Are Poor Clinical Decision-Makers: A Comprehensive Benchmark. [paper](https://aclanthology.org/2024.emnlp-main.759.pdf) [code](https://github.com/AI-in-Health/ClinicBench)
+* [**Blog, 2024.11**] SymptomCheck Bench. [blog](https://medask.tech/blogs/introducing-symptomcheck-bench/) [code](https://github.com/medaks/symptomcheck-bench)
+* [**Nature Communications, 2024.9**] **MMed-Llama3**: Towards building multilingual language model for medicine. [[paper]](https://www.nature.com/articles/s41467-024-52417-z) [[code]](https://github.com/MAGIC-AI4Med/MMedLM) [[huggingface]](https://huggingface.co/datasets/Henrychur/MMedBench)
 * [**Arxiv, 2023.12**] Designing Guiding Principles for NLP for Healthcare: A Case Study of Maternal Health. [paper](https://arxiv.org/abs/2312.11803)
 * [**JCO CCI, 2023**] Natural language processing to automatically extract the presence and severity of esophagitis in notes of patients undergoing radiotherapy. [[paper]]( https://pubmed.ncbi.nlm.nih.gov/37506330/) [[code]]( https://github.com/AIM-Harvard/Eso_alpha)
 * [**JAMA ONC, 2023**] Use of Artificial Intelligence Chatbots for Cancer Treatment Information. [[paper]]( https://jamanetwork.com/journals/jamaoncology/fullarticle/2808731) [[code]]( https://github.com/AIM-Harvard/ChatGPT_NCCN)
