@@ -342,6 +342,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * **EU-ADR**: The EU-ADR corpus: annotated drugs, diseases, targets, and their relationships 2012. [paper](https://www.sciencedirect.com/science/article/pii/S1532046412000573)
 
 #### Text Classification
+* **OpiateID**: Identifying Self-Disclosures of Use, Misuse and Addiction in Community-based Social Media Posts. [paper](https://arxiv.org/abs/2311.09066) [code](https://github.com/yangalan123/OpioidID)
 * **ADE**: Development of a benchmark corpus to support the automatic extraction of drug-related adverse effects from medical case reports 2012. [paper](https://www.sciencedirect.com/science/article/pii/S1532046412000615)
 * **2014 i2b2/UTHealth (Track 2)**: Annotating longitudinal clinical narratives for de-identification: The 2014 i2b2/UTHealth corpus 2015. [paper](https://www.sciencedirect.com/science/article/pii/S1532046415001823)
 * **HoC**: Automatic semantic classification of scientific literature according to the hallmarks of cancer 2016. [paper](https://academic.oup.com/bioinformatics/article-abstract/32/3/432/1743783)
@@ -377,6 +378,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**JASN, 2023**] Retrieve, Summarize, and Verify: How Will ChatGPT Affect Information Seeking from the Medical Literature? [paper](https://journals.lww.com/jasn/fulltext/2023/08000/retrieve,_summarize,_and_verify__how_will_chatgpt.4.aspx)
 
 ### Medical Decision-Making
+* [**NAACL Findings, 2024**] Identifying Self-Disclosures of Use, Misuse and Addiction in Community-based Social Media Posts. [paper](https://arxiv.org/abs/2311.09066) [code](https://github.com/yangalan123/OpioidID)
 * [**Nature, 2023**] **NYUTron** Health system-scale language models are all-purpose prediction engines [paper](https://www.nature.com/articles/s41586-023-06160-y)
 * [**Arxiv, 2023**] Leveraging a medical knowledge graph into large language models for diagnosis prediction. [paper](https://arxiv.org/abs/2308.14321)
 * [**Arxiv, 2023**] ChatCAD+/Chatcad: Interactive computer-aided diagnosis on medical image using large language models. [paper](https://arxiv.org/abs/2302.07257) [code](https://github.com/zhaozh10/ChatCAD)
