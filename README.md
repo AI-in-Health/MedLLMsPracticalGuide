@@ -36,6 +36,7 @@ David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Author
 ##  📣 Update News
 [2025-01-20] 🎉🎉🎉 Big News! Our paper has been accepted by Nature Reviews Bioengineering and GitHub Repo has reached 1,300 🌟!
 
+<!--
 [2024-10-11] 🎉🎉🎉 Big News! Our repository has reached 1,000 🌟. Thank you to everyone who contributed.
 
 [2024-07-10] We have updated our [Version 6](https://arxiv.org/abs/2311.05112). Thank you all for your support!
@@ -47,6 +48,7 @@ David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Author
 [2024-02-04] 🍻🍻🍻 Cheers! Happy Chinese New Year! We have updated our [Version 3](https://arxiv.org/abs/2311.05112). Please check it out!
 
 [2023-12-11] We have updated our survey [Version 2](https://arxiv.org/abs/2311.05112). Please check it out!
+-->
 
 [2023-11-09] We have released the repository and survey [Version 1](https://arxiv.org/abs/2311.05112).
 
