@@ -34,7 +34,7 @@ David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Author
 <sup>9</sup>Alibaba, <sup>10</sup>Harvard T.H. Chan School of Public Health, <sup>11</sup>MIT, <sup>12</sup>Yale University, <sup>13</sup>Tencent, <sup>14</sup>Amazon*
 
 ##  📣 Update News
-[2024-01-20] 🎉🎉🎉 Big News! Our paper has been accepted by Nature Reviews Bioengineering and GitHub Repo has reached 1,300 🌟!
+[2025-01-20] 🎉🎉🎉 Big News! Our paper has been accepted by Nature Reviews Bioengineering and GitHub Repo has reached 1,300 🌟!
 
 [2024-10-11] 🎉🎉🎉 Big News! Our repository has reached 1,000 🌟. Thank you to everyone who contributed.
 
