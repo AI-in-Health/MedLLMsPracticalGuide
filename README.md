@@ -51,7 +51,7 @@ David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Author
 [2023-12-11] We have updated our survey [Version 2](https://arxiv.org/abs/2311.05112). Please check it out!
 -->
 
-[2023-11-09] We have released the repository and survey [Version 1](https://arxiv.org/abs/2311.05112).
+[2023-11-09] We have released the repository and [survey](https://arxiv.org/abs/2311.05112).
 
 ## ⚡ Contributing
 
