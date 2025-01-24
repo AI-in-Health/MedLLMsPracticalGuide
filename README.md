@@ -1,7 +1,7 @@
 <div align=center>
 <img src="img/Medical_LLM_logo.png" width="180px">
 </div>
-<h2 align="center"> A Practical Guide for Medical Large Language Models </a></h2>
+<h2 align="center"><a href="https://arxiv.org/pdf/2311.05112.pdf"> A Practical Guide for Medical Large Language Models </a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 <h5 align="center">
