@@ -440,6 +440,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 </div>
 
 ### Hallucination
+* [**Arxiv, 2025**] Medical Hallucination in Foundation Models and Their Impact on Healthcare. [paper](https://www.medrxiv.org/content/medrxiv/early/2025/03/03/2025.02.28.25323115.full.pdf) [Code](https://github.com/mitmedialab/medical_hallucination)
 * [**Arxiv, 2024**] Chain-of-verification reduces hallucination in large language models. [paper](https://arxiv.org/abs/2309.11495)
 * [**ACM Computing Surveys, 2023**] Survey of hallucination in natural language generation. [paper](https://dl.acm.org/doi/abs/10.1145/3571730)
 * [**EMNLP, 2023**] Med-halt: Medical domain hallucination test for large language models. [paper](https://arxiv.org/abs/2307.15343)
@@ -509,6 +510,8 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**JAMA Forum, 2023**] ChatGPT and Physicians' Malpractice Risk. [paper](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2805334)
 
 ### Multi-modal LLM
+* [**TPAMI, 2025**] Aligning, Autoencoding and Prompting Large Language Models for Novel Disease Reporting [paper](https://drive.google.com/file/d/1Q8y9iQA3aw_4u98YkgaTas7I9IGfkEJM/view) [code](https://github.com/ai-in-health/PromptLLM)
+* [**npj Digital Medicine, 2025**] A multimodal multidomain multilingual medical foundation model for zero shot clinical diagnosis [paper](https://www.nature.com/articles/s41746-024-01339-7) [code](https://github.com/ai-in-health/M3FM)
 * [**Nature Medicine, 2024**] **BiomedGPT** A generalist vision–language foundation model for diverse biomedical tasks [paper](https://www.nature.com/articles/s41591-024-03185-2)
 * [**Arxiv, 2023**] VisionFM: a Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence. [paper](https://arxiv.org/abs/2310.04992)
 * [**Arxiv, 2023**] A Survey on Multimodal Large Language Models. [paper](https://arxiv.org/abs/2306.13549)
@@ -519,6 +522,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 <!-- * Holistic Evaluation of GPT-4V for Biomedical Imaging. 2023. [paper](https://arxiv.org/pdf/2312.05256v1.pdf) -->
 
 ### Medical Agents
+* [**Arxiv, 2024**] MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents [paper](https://arxiv.org/abs/2501.14654) [code](https://github.com/stanfordmlgroup/MedAgentBench)
 * [**Arxiv, 2023**] The Rise and Potential of Large Language Model Based Agents: A Survey. [paper](https://arxiv.org/pdf/2309.07864)
 * [**Arxiv, 2023**] MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning. [paper](https://arxiv.org/abs/2311.10537) [code](https://github.com/gersteinlab/MedAgents)
 * [**Arxiv, 2023**] GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information.  [paper](https://arxiv.org/abs/2304.09667) [code](https://github.com/ncbi/GeneGPT)
