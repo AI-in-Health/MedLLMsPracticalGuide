@@ -547,6 +547,13 @@ This survey aims to provide insights into the opportunities and challenges of LL
 Please consider citing 📑 our papers if our repository is helpful to your work, thanks sincerely!
 
 ```bibtex
+@article{liu2025application,
+  title={Application of large language models in medicine},
+  author={Fenglin Liu, Hongjian Zhou, Boyang Gu, Xinyu Zou, Jinfa Huang, Jinge Wu, Yiru Li, Sam S. Chen, Yining Hua, Peilin Zhou, Junling Liu, Chengfeng Mao, Chenyu You, Xian Wu, Yefeng Zheng, Lei Clifton, Zheng Li, Jiebo Luo, David A. Clifton },
+  journal={Nature Reviews Bioengineering},
+  year={2025}
+}
+
 @article{zhou2023survey,
   title={A Survey of Large Language Models in Medicine: Progress, Application, and Challenge},
   author={Hongjian Zhou, Fenglin Liu, Boyang Gu, Xinyu Zou, Jinfa Huang, Jinge Wu, Yiru Li, Sam S. Chen, Peilin Zhou, Junling Liu, Yining Hua, Chengfeng Mao, Xian Wu, Yefeng Zheng, Lei Clifton, Zheng Li, Jiebo Luo, David A. Clifton},
