@@ -21,7 +21,7 @@ This is an actively updated list of practical guide resources for Medical Large 
 It's based on our survey paper: 
 
 > [Nature Reviews Bioengineering🔥]
-> [Application of large language models in medicine](https://www.nature.com/articles/s44222-025-00279-5)
+> [Application of Large Language Models in Medicine](https://www.nature.com/articles/s44222-025-00279-5)
 
 > [arXiv Preprint]
 > [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://arxiv.org/abs/2311.05112)
