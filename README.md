@@ -17,12 +17,15 @@
 
 </h5>
 
-This is an actively updated list of practical guide resources for Medical Large Language Models (Medical LLMs). 
+This is an actively updated list of practical guide resources for Medical Large Language Models (Medical LLMs).
 It's based on our survey paper: 
 
 > [Nature Reviews Bioengineering🔥]
-> [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://www.nature.com/articles/s44222-025-00279-5)
+> [Application of large language models in medicine](https://www.nature.com/articles/s44222-025-00279-5)
 
+> [arXiv Preprint]
+> [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://arxiv.org/abs/2311.05112)
+> 
 > *Hongjian Zhou<sup>1,\*</sup>, Fenglin Liu<sup>1,\*</sup>, Boyang Gu<sup>2,\*</sup>, Xinyu Zou<sup>3,\*</sup>, Jinfa Huang<sup>4,\*</sup>, Jinge Wu<sup>5</sup>, Yiru Li<sup>6</sup>, Sam S. Chen<sup>7</sup>, Peilin Zhou<sup>8</sup>, Junling Liu<sup>9</sup>, Yining Hua<sup>10</sup>,
 Chengfeng Mao<sup>11</sup>, Chenyu You<sup>12</sup>, Xian Wu<sup>13</sup>, Yefeng Zheng<sup>13</sup>, Lei Clifton<sup>1</sup>,
 Zheng Li<sup>14,†</sup>, Jiebo Luo<sup>4,†</sup>, 
@@ -34,7 +37,7 @@ David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Author
 <sup>9</sup>Alibaba, <sup>10</sup>Harvard T.H. Chan School of Public Health, <sup>11</sup>MIT, <sup>12</sup>Yale University, <sup>13</sup>Tencent, <sup>14</sup>Amazon*
 
 ##  📣 Update News
-[2025-04-08] 🎉🎉🎉 Big News! Our paper officially has been accepted by Nature Reviews Bioengineering, and GitHub Repo has reached 1,500 🌟!
+[2025-04-08] 🎉🎉🎉 Our paper has officially been published at Nature Reviews Bioengineering, and the GitHub Repo has reached 1,500 🌟!
 
 <!--
 [2024-10-11] 🎉🎉🎉 Big News! Our repository has reached 1,000 🌟. Thank you to everyone who contributed.
