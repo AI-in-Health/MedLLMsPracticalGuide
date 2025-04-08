@@ -1,7 +1,7 @@
 <div align=center>
 <img src="img/Medical_LLM_logo.png" width="180px">
 </div>
-<h2 align="center"><a href="https://arxiv.org/pdf/2311.05112.pdf"> A Practical Guide for Medical Large Language Models </a></h2>
+<h2 align="center"><a href="https://arxiv.org/pdf/2311.05112.pdf"> [Nature Reviews Bioengineering] A Practical Guide for Medical Large Language Models </a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 <h5 align="center">
@@ -9,6 +9,7 @@
 
    [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
    [![arxiv](https://img.shields.io/badge/Arxiv-2311.05112-red)](https://arxiv.org/pdf/2311.05112.pdf)
+   [![Nature Reviews Bioengineering](https://img.shields.io/badge/NatureReviewsBio)](https://www.nature.com/articles/s44222-025-00279-5)
    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAI-in-Health%2FMedLLMsPracticalGuide&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
    [![twitter](https://img.shields.io/badge/Twitter%40elvis%20-black?logo=twitter&logoColor=1D9BF0&color=black&link=https%3A%2F%2Ftwitter.com%2Fomarsar0%2Fstatus%2F1734599425568231513%3Fs%3D61%26t%3D8Li3X-wK0wxSRkHjNK7Pfw)](https://x.com/omarsar0/status/1734599425568231513?s=20)
    [![TechBeat](https://img.shields.io/badge/将门创投%20-black)](https://mp.weixin.qq.com/s/gV3HHkVQXgR-Cego1P0ZBQ)
@@ -22,7 +23,7 @@ This is an actively updated list of practical guide resources for Medical Large 
 It's based on our survey paper: 
 
 > [Nature Reviews Bioengineering]
-> [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://arxiv.org/abs/2311.05112)
+> [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://www.nature.com/articles/s44222-025-00279-5)
 
 > *Hongjian Zhou<sup>1,\*</sup>, Fenglin Liu<sup>1,\*</sup>, Boyang Gu<sup>2,\*</sup>, Xinyu Zou<sup>3,\*</sup>, Jinfa Huang<sup>4,\*</sup>, Jinge Wu<sup>5</sup>, Yiru Li<sup>6</sup>, Sam S. Chen<sup>7</sup>, Peilin Zhou<sup>8</sup>, Junling Liu<sup>9</sup>, Yining Hua<sup>10</sup>,
 Chengfeng Mao<sup>11</sup>, Chenyu You<sup>12</sup>, Xian Wu<sup>13</sup>, Yefeng Zheng<sup>13</sup>, Lei Clifton<sup>1</sup>,
@@ -35,7 +36,7 @@ David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Author
 <sup>9</sup>Alibaba, <sup>10</sup>Harvard T.H. Chan School of Public Health, <sup>11</sup>MIT, <sup>12</sup>Yale University, <sup>13</sup>Tencent, <sup>14</sup>Amazon*
 
 ##  📣 Update News
-[2025-01-20] 🎉🎉🎉 Big News! Our paper has been accepted by Nature Reviews Bioengineering and GitHub Repo has reached 1,300 🌟!
+[2025-04-08] 🎉🎉🎉 Big News! Our paper officially has been accepted by Nature Reviews Bioengineering, and GitHub Repo has reached 1,500 🌟!
 
 <!--
 [2024-10-11] 🎉🎉🎉 Big News! Our repository has reached 1,000 🌟. Thank you to everyone who contributed.
