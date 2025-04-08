@@ -20,7 +20,7 @@
 This is an actively updated list of practical guide resources for Medical Large Language Models (Medical LLMs). 
 It's based on our survey paper: 
 
-> [Nature Reviews Bioengineering]
+> [Nature Reviews Bioengineering🔥]
 > [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://www.nature.com/articles/s44222-025-00279-5)
 
 > *Hongjian Zhou<sup>1,\*</sup>, Fenglin Liu<sup>1,\*</sup>, Boyang Gu<sup>2,\*</sup>, Xinyu Zou<sup>3,\*</sup>, Jinfa Huang<sup>4,\*</sup>, Jinge Wu<sup>5</sup>, Yiru Li<sup>6</sup>, Sam S. Chen<sup>7</sup>, Peilin Zhou<sup>8</sup>, Junling Liu<sup>9</sup>, Yining Hua<sup>10</sup>,
