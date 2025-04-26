@@ -173,7 +173,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Huggingface, 2024.5**] **MedLllama3** [model](https://huggingface.co/ProbeMedicalYonseiMAILab/medllama3-v20)
 * [**Arxiv, 2024.5**] **Aloe**: A Family of Fine-tuned Open Healthcare LLMs. [paper](https://arxiv.org/abs/2405.01886) [Model](https://huggingface.co/collections/HPAI-BSC/healthcare-llms-aloe-family-6701b6a777f7e874a2123363)
 * [**Arxiv, 2024.4**] **Med-Gemini** Capabilities of Gemini Models in Medicine. [paper](https://arxiv.org/pdf/2404.18416)
-* [**npj Digital Medicine, 2024**] Small Language Models Learn Enhanced Reasoning Skills from Medical Textbooks [Paper](https://arxiv.org/abs/2404.00376) 
+* [**npj Digital Medicine, 2024**] **Meerkat**: Small Language Models Learn Enhanced Reasoning Skills from Medical Textbooks [Paper](https://arxiv.org/abs/2404.00376) 
 * [**Arxiv, 2024.2**] **BioMistral** A Collection of Open-Source Pretrained Large Language Models for Medical Domains. [paper](https://arxiv.org/pdf/2402.10373)
 * [**Arxiv, 2023.12**] **From Beginner to Expert**: Modeling Medical Knowledge into General LLMs. [paper](https://arxiv.org/abs/2312.01040)
 * [**Arxiv, 2023.11**] **Taiyi**: A Bilingual Fine-Tuned Large Language Model for Diverse Biomedical Tasks. [paper](https://arxiv.org/abs/2311.11608) [code](https://github.com/DUTIR-BioNLP/Taiyi-LLM)
@@ -239,6 +239,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Scientific Data, 2016**] **MIMIC-III**: MIMIC-III, a freely accessible critical care database. [paper](https://www.nature.com/articles/sdata201635)
 
 ### Fine-tuning Data
+* **MedBook-18-CoT**: Small Language Models Learn Enhanced Reasoning Skills from Medical Textbooks [Paper](https://arxiv.org/abs/2404.00376) [Huggingface](https://huggingface.co/datasets/dmis-lab/meerkat-instructions) 
 * **MMedC**: Towards building multilingual language model for medicine. [[paper]](https://www.nature.com/articles/s41467-024-52417-z) [[code]](https://github.com/MAGIC-AI4Med/MMedLM) [[huggingface]](https://huggingface.co/datasets/Henrychur/MMedC)
 * **MedTrinity-25M**: A Large-scale Multimodal Dataset with Multigranular Annotations for Medicine. 2024. [github](https://github.com/UCSC-VLAA/MedTrinity-25M) [paper](https://arxiv.org/abs/2408.02900)
 * **cMeKG**: Chinese Medical Knowledge Graph. 2023. [github](https://github.com/king-yyf/CMeKG_tools)
