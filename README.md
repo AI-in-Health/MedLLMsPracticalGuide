@@ -310,7 +310,8 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * **MMLU (Clinical Knowledge)**: Measuring massive multitask language understanding 2020. [paper](https://arxiv.org/abs/2009.03300)
 * **MMLU (College Medicine)**: Measuring massive multitask language understanding 2020. [paper](https://arxiv.org/abs/2009.03300)
 * **MMLU (Professional Medicine)**: Measuring massive multitask language understanding 2020. [paper](https://arxiv.org/abs/2009.03300)
-* [**Arxiv 2024**] MediQ: Question-Asking LLMs for Adaptive and Reliable Clinical Reasoning. [[paper]](https://arxiv.org/abs/2406.00922) [[code]](https://github.com/stellalisy/MediQ).
+* [**Arxiv 2024**] MediQ: Question-Asking LLMs for Adaptive and Reliable Clinical Reasoning. [[paper]](https://arxiv.org/abs/2406.00922) [[code]](https://github.com/stellalisy/MediQ)
+* **Paxrad/EWS_v5_USONLY_final**: Emergency War Surgery QA Dataset (v5) 2025. [data](https://huggingface.co/datasets/Paxrad/EWS_v5_USONLY_final)
 
 ### Discriminative Tasks
 
