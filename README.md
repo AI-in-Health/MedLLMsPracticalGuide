@@ -233,7 +233,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Arxiv, 2023**] **GAP-REPLAY**: Scaling Medical Pretraining for Large Language Models. [paper](https://arxiv.org/abs/2311.16079)
 * [**npj Digital Medicine, 2022**] **EHRs**: A large language model for electronic health records. [paper](https://www.nature.com/articles/s41746-022-00742-2)
 * [**National Library of Medicine, 2022**] **PubMed**: National Institutes of Health. PubMed Data. [database](https://pubmed.ncbi.nlm.nih.gov/download/)
-* [**Arxiv, 2020**] **PubMed**: The pile: An 800gb dataset of diverse text for language modeling. [paper](https://arxiv.org/abs/2101.00027) [code](https://github.com/EleutherAI/the-pile)
+* [**Arxiv, 2020**] **PubMed**: The pile: An 800 GB dataset of diverse text for language modeling. [paper](https://arxiv.org/abs/2101.00027) [code](https://github.com/EleutherAI/the-pile)
 * [**EMNLP, 2020**] **MedDialog**: Meddialog: Two large-scale medical dialogue datasets. [paper](https://arxiv.org/abs/2004.03329) [code](https://github.com/UCSD-AI4H/Medical-Dialogue-System)
 * [**NAACL, 2018**] **Literature**: Construction of the literature graph in semantic scholar. [paper](https://arxiv.org/abs/1805.02262)
 * [**Scientific Data, 2016**] **MIMIC-III**: MIMIC-III, a freely accessible critical care database. [paper](https://www.nature.com/articles/sdata201635)
@@ -311,7 +311,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * **MMLU (College Medicine)**: Measuring massive multitask language understanding 2020. [paper](https://arxiv.org/abs/2009.03300)
 * **MMLU (Professional Medicine)**: Measuring massive multitask language understanding 2020. [paper](https://arxiv.org/abs/2009.03300)
 * [**Arxiv 2024**] MediQ: Question-Asking LLMs for Adaptive and Reliable Clinical Reasoning. [[paper]](https://arxiv.org/abs/2406.00922) [[code]](https://github.com/stellalisy/MediQ)
-* **Paxrad/EWS_v5_USONLY_final**: Emergency War Surgery QA Dataset (v5) 2025. [data](https://huggingface.co/datasets/Paxrad/EWS_v5_USONLY_final)
+* **EWS_v5_USONLY_final**: Emergency War Surgery QA Dataset (v5) 2025. [data](https://huggingface.co/datasets/Paxrad/EWS_v5_USONLY_final)
 
 ### Discriminative Tasks
 
