@@ -517,6 +517,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**JAMA Forum, 2023**] ChatGPT and Physicians' Malpractice Risk. [paper](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2805334)
 
 ### Multi-modal LLM
+* [**NeurIPS, 2025**] EXGRA-MED: Extended Context Graph Alignment for Medical Vision-Language Models. [paper](https://arxiv.org/pdf/2410.02615) [code](https://github.com/duyhominhnguyen/Exgra-Med)
 * [**TPAMI, 2025**] Aligning, Autoencoding and Prompting Large Language Models for Novel Disease Reporting [paper](https://drive.google.com/file/d/1Q8y9iQA3aw_4u98YkgaTas7I9IGfkEJM/view) [code](https://github.com/ai-in-health/PromptLLM)
 * [**npj Digital Medicine, 2025**] A multimodal multidomain multilingual medical foundation model for zero shot clinical diagnosis [paper](https://www.nature.com/articles/s41746-024-01339-7) [code](https://github.com/ai-in-health/M3FM)
 * [**Nature Medicine, 2024**] **BiomedGPT** A generalist vision–language foundation model for diverse biomedical tasks [paper](https://www.nature.com/articles/s41591-024-03185-2)
