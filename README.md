@@ -533,7 +533,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 ### Medical Agents
 - [**Arxiv, 2026.5**] SEMA-RAG: A Self-Evolving Multi-Agent Retrieval-Augmented Generation Framework for Medical Reasoning. [[paper]](https://arxiv.org/abs/2605.17101)
 - [**Arxiv, 2026.5**] CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows? [[paper]](https://arxiv.org/abs/2605.16679)
-- [**MICCAI, 2026**] DermAgent: A Self-Reflective Agentic System for Dermatological Image Analysis with Multi-Tool Reasoning and Traceable Decision-Making. [[paper]](https://arxiv.org/abs/2605.17101)
+- [**MICCAI, 2026**] DermAgent: A Self-Reflective Agentic System for Dermatological Image Analysis with Multi-Tool Reasoning and Traceable Decision-Making. [[paper]](https://arxiv.org/abs/2605.14403)
 * [**Arxiv, 2025**] A Co-evolving Agentic AI System for Medical Imaging Analysis [Paper](https://arxiv.org/abs/2509.20279) [Code](https://github.com/zhihuanglab/TissueLab)
 * [**Arxiv, 2024**] MedAgentBench: A Realistic Virtual EHR Environment to Benchmark Medical LLM Agents [paper](https://arxiv.org/abs/2501.14654) [code](https://github.com/stanfordmlgroup/MedAgentBench)
 * [**Arxiv, 2023**] The Rise and Potential of Large Language Model Based Agents: A Survey. [paper](https://arxiv.org/pdf/2309.07864)
