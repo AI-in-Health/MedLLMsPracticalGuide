@@ -393,6 +393,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Cancer Inform, 2023**] Designing a Deep Learning-Driven Resource-Efficient Diagnostic System for Metastatic Breast Cancer: Reducing Long Delays of Clinical Diagnosis and Improving Patient Survival in Developing Countries. [paper](https://arxiv.org/abs/2308.02597)
 * [**Nature Medicine, 2023**] Large language models in medicine. [paper](https://www.nature.com/articles/s41591-023-02448-8)
 * [**Nature Medicine, 2022**] AI in health and medicine. [paper](https://www.nature.com/articles/s41591-021-01614-0)
+* [**GitHub, 2024**] **dna-claude-analysis**: Personal genome analysis toolkit using Claude to analyze raw DNA data across 17 categories (health risks, pharmacogenomics, ancestry, nutrition, longevity, etc.) and generate terminal-style HTML visualization. [[code]](https://github.com/shmlkv/dna-claude-analysis)
 
 ### Clinical Coding
 * [**NEJM AI, 2024**] Large Language Models Are Poor Medical Coders — Benchmarking of Medical Code Querying. [paper](https://ai.nejm.org/doi/full/10.1056/AIdbp2300040)
