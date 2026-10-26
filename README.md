@@ -401,6 +401,9 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**ClinicalNLP Workshop, 2022**] PLM-ICD: automatic ICD coding with pretrained language models. [paper](https://arxiv.org/abs/2207.05289) [code](https://github.com/MiuLab/PLM-ICD)
 
 ### Clinical Report Generation
+* [**NeurIPS, 2026**] Anchoring LLM-based Chest X-ray Report Generation via Diffusion Language Planning.
+* [**AAAI, 2026**] S2D-Align: Shallow-to-Deep Auxiliary Learning for Anatomically-Grounded Radiology Report Generation. [paper](https://arxiv.org/abs/2511.11066)
+* [**AAAI, 2024**] Bootstrapping Large Language Models for Radiology Report Generation. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/29826) [code](https://github.com/synlp/R2-LLM)
 * [**Nature Medicine, 2024**] Adapted large language models can outperform medical experts in clinical text summarization. [paper](https://www.nature.com/articles/s41591-024-02855-5)
 * [**Arxiv, 2023**] Can GPT-4V (ision) Serve Medical Applications? Case Studies on GPT-4V for Multimodal Medical Diagnosis. [paper](https://arxiv.org/abs/2310.09909)
 * [**Arxiv, 2023**] Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare. [paper](https://arxiv.org/abs/2310.17956)
