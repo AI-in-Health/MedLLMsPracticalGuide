@@ -449,6 +449,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 </div>
 
 ### Hallucination
+* [**Blog, 2026.04**] PlaceboBench: an LLM hallucination benchmark for pharma. [blog](https://blueguardrails.com/en/blog/placebo-bench-an-llm-hallucination-benchmark-for-pharma) [dataset](https://huggingface.co/datasets/blue-guardrails/PlaceboBench)
 * [**Arxiv, 2025**] Medical Hallucination in Foundation Models and Their Impact on Healthcare. [paper](https://www.medrxiv.org/content/medrxiv/early/2025/03/03/2025.02.28.25323115.full.pdf) [Code](https://github.com/mitmedialab/medical_hallucination)
 * [**Arxiv, 2024**] Chain-of-verification reduces hallucination in large language models. [paper](https://arxiv.org/abs/2309.11495)
 * [**ACM Computing Surveys, 2023**] Survey of hallucination in natural language generation. [paper](https://dl.acm.org/doi/abs/10.1145/3571730)
