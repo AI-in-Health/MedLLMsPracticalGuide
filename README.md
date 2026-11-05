@@ -534,6 +534,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 <!-- * Holistic Evaluation of GPT-4V for Biomedical Imaging. 2023. [paper](https://arxiv.org/pdf/2312.05256v1.pdf) -->
 
 ### Medical Agents
+- [**Arxiv, 2026.6**] Patients With Personality: Realistic Patient Simulation through Controlled Diversity and Selective Disclosure. [[paper]](https://arxiv.org/abs/2606.17441) [[code]](https://github.com/mo374z/PatientsWithPersonality)
 - [**Arxiv, 2026.5**] SEMA-RAG: A Self-Evolving Multi-Agent Retrieval-Augmented Generation Framework for Medical Reasoning. [[paper]](https://arxiv.org/abs/2605.17101)
 - [**Arxiv, 2026.5**] CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows? [[paper]](https://arxiv.org/abs/2605.16679)
 - [**MICCAI, 2026**] DermAgent: A Self-Reflective Agentic System for Dermatological Image Analysis with Multi-Tool Reasoning and Traceable Decision-Making. [[paper]](https://arxiv.org/abs/2605.14403)
