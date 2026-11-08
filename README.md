@@ -57,7 +57,7 @@ David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Author
 
 ## ⚡ Contributing
 
-If you want to add your work or model to this list, please do not hesitate to email fenglin.liu@eng.ox.ac.uk and jhuang90@ur.rochester.edu or [pull requests]([https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging/pulls](https://github.com/AI-in-Health/MedLLMsPracticalGuide/pulls)).
+If you want to add your work or model to this list, please do not hesitate to email fenglin.liu@eng.ox.ac.uk and jhuang90@ur.rochester.edu or [pull requests](https://github.com/AI-in-Health/MedLLMsPracticalGuide/pulls).
 Markdown format:
 
 ```markdown
@@ -107,7 +107,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
   - [Pre-training Data](#pre-training-data)
   - [Fine-tuning Data](#fine-tuning-data)
 - [🗂️ Downstream Biomedical Tasks](#️-downstream-biomedical-tasks)
-  - [Huggingface Leadboard](#huggingface-leadboard)
+  - [Huggingface Leaderboard](#huggingface-leaderboard)
   - [Generative Tasks](#generative-tasks)
     - [Text Summarization](#text-summarization)
     - [Text Simplification](#text-simplification)
@@ -193,7 +193,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**NeurIPS Datasets/Benchmarks Track, 2023.6**] **LLaVA-Med**: Training a large language-and-vision assistant for biomedicine in one day. [paper](https://arxiv.org/abs/2306.00890)
 * [**Arxiv, 2023.6**] **MedPaLM 2**: Towards expert-level medical question answering with large language models. [paper](https://arxiv.org/abs/2305.09617)
 * [**Arxiv, 2023.5**] **Clinical Camel**: An Open-Source Expert-Level Medical Language Model with Dialogue-Based Knowledge Encoding. [paper](https://arxiv.org/abs/2305.12031)
-* [**Arxiv, 2023.5**] **BiomedGPT**: A Generalist Vision-Language Foundation Model for Diverse Biomedical Tasks. [paper]((https://arxiv.org/abs/2305.17100))
+* [**Arxiv, 2023.5**] **BiomedGPT**: A Generalist Vision-Language Foundation Model for Diverse Biomedical Tasks. [[paper]](https://arxiv.org/abs/2305.17100)
 * [**Arxiv, 2023.5**] **HuatuoGPT**: HuatuoGPT, towards Taming Language Model to Be a Doctor. [paper](https://arxiv.org/abs/2305.15075)
 * [**Arxiv, 2023.4**] **Baize-healthcare**: An open-source chat model with parameter-efficient tuning on self-chat data. [paper](https://arxiv.org/abs/2304.01196)
 * [**Arxiv, 2023.4**] **Visual Med-Alpeca**: A parameter-efficient biomedical llm with visual capabilities. [github](https://github.com/cambridgeltl/visual-med-alpaca)
@@ -281,7 +281,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 ### Huggingface Leaderboard
 * **Open Medical-LLM Leaderboard**: MedQA (USMLE), PubMedQA, MedMCQA, and subsets of MMLU related to medicine and biology.  [Leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard)
-* **ReXrank**: A Public Leaderboard for AI-Powered Radiology Report Generation [paper](https://arxiv.org/abs/2411.15122/) [[paper]] [[code]] (https://github.com/rajpurkarlab/ReXrank)
+* **ReXrank**: A Public Leaderboard for AI-Powered Radiology Report Generation. [[paper]](https://arxiv.org/abs/2411.15122/) [[code]](https://github.com/rajpurkarlab/ReXrank)
 ### Generative Tasks
 
 #### Text Summarization
