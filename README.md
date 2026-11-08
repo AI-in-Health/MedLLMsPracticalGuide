@@ -386,6 +386,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**JASN, 2023**] Retrieve, Summarize, and Verify: How Will ChatGPT Affect Information Seeking from the Medical Literature? [paper](https://journals.lww.com/jasn/fulltext/2023/08000/retrieve,_summarize,_and_verify__how_will_chatgpt.4.aspx)
 
 ### Medical Decision-Making
+* [**NeurIPS, 2026**] **Manana**: Teaching LLMs to Recommend and Defer in Underrepresented Epilepsy Care. [paper](https://arxiv.org/abs/2606.31036) [code](https://github.com/roychowdhuryresearch/Manana)
 * [**NAACL Findings, 2024**] Identifying Self-Disclosures of Use, Misuse and Addiction in Community-based Social Media Posts. [paper](https://arxiv.org/abs/2311.09066) [code](https://github.com/yangalan123/OpioidID)
 * [**Nature, 2023**] **NYUTron** Health system-scale language models are all-purpose prediction engines [paper](https://www.nature.com/articles/s41586-023-06160-y)
 * [**Arxiv, 2023**] Leveraging a medical knowledge graph into large language models for diagnosis prediction. [paper](https://arxiv.org/abs/2308.14321)
