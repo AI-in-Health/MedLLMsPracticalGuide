@@ -461,6 +461,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 
 ### Lack of Evaluation Benchmarks and Metrics
+* [**EMNLP, 2026**] GPAgentBench-2K: Benchmarking Large Language Model Agents in Complex Clinical Action Space. [[paper]](https://aclanthology.org/2026.emnlp-main.644.pdf) [[code]](https://github.com/jianing-lab/GPAgentBench)
 * [**Arxiv, 2025.06**] LLMEval-Med: A Real-world Clinical Benchmark for Medical LLMs with Physician Validation [Paper](https://arxiv.org/pdf/2506.04078) [Code](https://github.com/llmeval/LLMEval-Med)
 * [**Arxiv, 2025.05**] HealthBench: Evaluating Large Language Models Towards Improved Human Health [Paper](https://arxiv.org/pdf/2505.08775) [Code](https://github.com/openai/simple-evals)
 * [**Blog, 2024.11**] SymptomCheck Bench. [blog](https://medask.tech/blogs/introducing-symptomcheck-bench/) [code](https://github.com/medaks/symptomcheck-bench)
